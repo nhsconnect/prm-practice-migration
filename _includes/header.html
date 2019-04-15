@@ -16,15 +16,14 @@
         </a>
     </div>
 
-    {%- if page_paths -%}
+
     <div class="nhsuk-header__content" id="content-header">
       <div class="nhsuk-header__menu">
         <button class="nhsuk-header__menu-toggle" id="toggle-menu" aria-controls="header-navigation" aria-label="Open menu">Menu</button>
       </div>
     </div>
-    {%- endif -%}
   </div>
-
+  
   {%- if page_paths -%}
   <nav class="nhsuk-header__navigation" id="header-navigation" role="navigation" aria-label="Primary navigation" aria-labelledby="label-navigation">
     <p class="nhsuk-header__navigation-title"><span id="label-navigation">Menu</span>
@@ -39,13 +38,13 @@
         {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
-        <li class="nhsuk-header__navigation-item nhsuk-header__navigation-item--for-mobile">
-            <a class="nhsuk-header__navigation-link" href="{{ my_page.url | relative_url }}">
-                {{ my_page.title | escape }}
-              <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z"></path>
-              </svg>
-            </a>
+        <li class="nhsuk-header__navigation-item">
+          <a class="nhsuk-header__navigation-link" href="{{ my_page.url | relative_url }}">
+              {{ my_page.title | escape }}
+            <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z"></path>
+            </svg>
+          </a>
         </li>
         {%- endif -%}
       {%- endfor -%} 
