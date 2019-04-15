@@ -5,5 +5,9 @@ _site/
 .jekyll-metadata
 
 
+### Bundler ###
+.bundle/
+vendor/
+
 ### System ###
 .DS_Store
