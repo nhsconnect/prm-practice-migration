@@ -18,7 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   A 'How to...' guide on migrating from one core clinical system to another
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nhsconnect.github.io/prm-practice-migration/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
