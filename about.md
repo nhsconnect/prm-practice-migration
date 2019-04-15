@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Page content
+About content
