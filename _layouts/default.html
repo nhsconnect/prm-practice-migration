@@ -6,11 +6,12 @@
   <body>
 
     {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main class="nhsuk-width-container">
+        <div class="nhsuk-main-wrapper" id="maincontent" aria-label="Content">
+            <div class="nhsuk-grid-row">
+              {{ content }}
+            </div>
+          </div>
     </main>
 
     {%- include footer.html -%}

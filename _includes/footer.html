@@ -1,17 +1,10 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+<footer class="nhsuk-footer" id="nhsuk-footer">
+    <div class="nhsuk-width-container">
+        <h2 class="nhsuk-u-visually-hidden">Support links</h2>
+        <ul class="nhsuk-footer__list">
+          <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></li>
+        </ul>
         
+        <p class="nhsuk-footer__copyright">© Crown copyright</p>
       </div>
-
-    </div>
-
-  </div>
-
 </footer>
