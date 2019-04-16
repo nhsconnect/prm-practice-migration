@@ -2,37 +2,87 @@
 layout: page_with_sidebar
 permalink: guide/kickoff
 title: Kickoff
-subtitle: Page subtitle goes here
+subtitle: Get everyone on the same page about what needs to happen and when
 nextpage:
 previouspage:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
+A ‘Kickoff’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
 
-## Example heading 2 (h2)
+As a priority you should discuss...
+* The key milestones and week by week activities
+* Agree dates and targets for the above milestones and activities
+* Who will be involved in the migration and what are their roles and responsibilities?
+* How you will communicate and share information?
 
-Nullam vitae justo et lectus fringilla ullamcorper. Duis sed erat mauris. Morbi ut condimentum ligula, sit amet sollicitudin justo. In pharetra ut orci ut lobortis. Cras accumsan, sapien in ultricies condimentum, leo nibh pretium est, in maximus dui nisi non turpis. Vestibulum eu ante blandit, [example external link](https://beta.nhs.uk/service-manual/)bibendum quam id, faucibus libero. Nullam maximus enim sed eleifend consectetur. Aliquam libero tortor, dignissim vel diam et, elementum varius sem. [example internal link](/feedback/). 
+For the Kickoff meeting itself, you should involve at a minimum...
 
-## Example heading 3 (h3)
+* The migration Project Manager - This may be a representative from your CSU/CCG or in some cases the Practice Manager
+* Practice Leads - Including any staff that will play a role in managing/supporting the migration
+* Target system supplier - The supplier of the clinical system your are moving to
 
-Donec vulputate odio at ipsum porta, eu hendrerit orci pellentesque. Ut malesuada nulla eu ante blandit, et facilisis odio laoreet. Aenean a hendrerit quam, at ultrices ligula. Quisque volutpat lacus ut urna tempor dignissim.
+Note: When CSUs are leading the migration, they may invite other roles to the kickoff such as Business Change, Training Leads, Data Quality etc.
 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
+## Key milestones, activities, dates and targets
+By now you should have agreed on your Go Live date, look at the [surrounding phases](/guide/) and put dates in your plan of when the prior activities need to be completed. It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what are the key activities within them.
 
-Cras accumsan, sapien in ultricies condimentum...
+As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
 
-1. Ordered list item
-2. Ordered list item
-3. Ordered list item
-4. Ordered list item
-5. Ordered list item
 
-## Example heading 4 (h4)
+## Who, roles and responsibilities
+As part of the Kickoff, you should discuss who should be involved in the migration and what are their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play As you work through your list of roles, capture and consolidate any contact information for individuals. Here is a list of common people and organisations to get you started.
 
-Proin suscipit massa in magna sagittis molestie non sit amet dolor. Phasellus convallis consectetur lectus et tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. __emphasis__ a neque nec imperdiet. Praesent maximus, justo vitae ultrices porttitor, sapien risus gravida nibh, ut suscipit nulla purus sed risus. 
+* Project manager
+* Practice Manager
+* Practice staff
+* Clinical staff (including people who may work remotely)
+* Commissioning Support Unit (CSU)
+* Explore with your CSU the availability of any supporting roles such as Business Change, Training * Leads, Data Quality teams etc
+* Commissioning Clinical Group (CCG)
+* Target Supplier - The new supplier of the GP Core System
+* Source Supplier - Existing/old supplier of the GP Core System
+* Surrounding and community services - Pharmacies, Prescriptions, Test labs etc 
+* Third party system suppliers, for example DocMan
 
-Sed vel mattis odio. Nullam dictum augue sem, sit amet rutrum lorem lobortis vel. Cras eu orci odio. Vivamus dolor dui, dignissim a pellentesque cursus, iaculis at ipsum. Proin mauris odio, dapibus eget orci id, cursus pharetra elit. Morbi sed dolor sed dolor imperdiet porta in at ligula. Curabitur lacinia turpis ac elit ornare scelerisque. Vestibulum dictum justo nec leo accumsan efficitur.
+
+## Schedule regular migration meetings
+Now is a good time to schedule regular migration meetings
+We suggest holding them on a weekly basis at the same time.
+Book rooms and make sure everyone who needs to can attend
+Keep call conference IDs tools consistent i.e. try to reuse the same conference call setup so that all participants can access it easily and repeatedly
+Agree how you’ll all communicate and share information between meetings
+
+
+## Check dates against availability
+Look at your key dates and the people you need
+* Plan for critical days - identify and make sure that people are aware and can be made available. * Do staff have pre-booked holidays? Training?
+* Are there any planned events or surgeries during this time?
+* Block time for you key dates
+* Prevent new holidays being booked on these dates
+* Prevent any events or clinical reviews from being planned at this time e.g. Astma reviews
+* Pre-book rooms for training / testing
+
+
+## Additional topics for your Kickoff
+
+The Kickoff is a good opportunity to also run through the following:
+
+
+### Common data issues, housekeeping and clean up tasks
+Ask the Target supplier or CSU to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
+
+The objective is to identify any tasks that the Practice can start rectifying early and before the [Initial Data Production phase](/guide/initial-data-production). As time goes on, the amount of work the Practice needs to complete will grow, so getting ahead can ease the pressure.
+
+If you have access to a Data Quality team (possibly part of your CSU), involve them now.
+
+Discuss any housekeeping tasks such as…
+* The safe removal of old, duplicate, orphaned records or deceased patients that you do not wish to migrate to the new system.
+* Removing any unused letter templates
+* Removing  any unused data entry templates
+* Clearing down the practice inbox(es), outstanding workflows and all open communication tasks e.g. pathology, registration etc - as you approach the Initial Data Production day, you will want to have the least amount of tasks outstanding 
+
+Now is also a good time to introduce the Data Checking tasks and what the practice will need to do during the [Planning and Preparation](/guide/early-prep-and-planning/) phase such as finding patients that match the test criteria supplied by the Target supplier.
+
+
+### Technical Survey and Hardware
+If the Practice is not already aware, the Technical survey (next phase) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and CCG are aware of this possibility before the Technical survey is completed.
