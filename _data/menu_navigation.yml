@@ -1,6 +1,6 @@
 menu_items:
   - title: Home
-    url: /index
+    url: /
   - title: Get Started
     url: /guide
   - title: Improve this Guide
