@@ -3,8 +3,8 @@ layout: page_with_sidebar
 permalink: /guide/technical-survey
 title: Technical survey
 subtitle: Checking the exisitng hardware and software requirements
-nextpage: guide/early-prep-and-planning
-previouspage: guide/kickoff
+nextpage: /guide/early-prep-and-planning
+previouspage: /guide/kickoff
 breadcrumbparent: /guide
 ---
 

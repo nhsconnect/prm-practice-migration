@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/training
+permalink: /guide/training
 title: Training
 subtitle: Page subtile goes here
 nextpage:
