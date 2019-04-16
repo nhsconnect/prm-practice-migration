@@ -1,10 +1,25 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/nhsuk-2.1.0.min.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/assets/css/nhsuk-custom.css" | prepend: site.baseurl }}">
-  <script src="{{ "/assets/js/nhsuk-2.1.0.min.js" | prepend: site.baseurl }}" defer></script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<link rel="stylesheet" href="{{ "/assets/css/nhsuk-2.1.0.min.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/assets/css/nhsuk-custom.css" | prepend: site.baseurl }}">
+	<script src="{{ "/assets/js/nhsuk-2.1.0.min.js" | prepend: site.baseurl }}" defer></script>
+	<!--[if IE]><link rel="shortcut icon" href="{{ "/assets/favicons/favicon.ico" | prepend: site.baseurl }}"><![endif]-->
+	<!-- Touch Icons - iOS and Android 2.1+ 180x180 pixels in size. -->
+	<link href="{{ "/assets/favicons/apple-touch-icon.png" | prepend: site.baseurl }}" rel="apple-touch-icon">
+	<!-- Firefox, Chrome, Safari, IE 11+ and Opera. 192x192 pixels in size. -->
+	<link href="{{ "/assets/favicons/favicon.png" | prepend: site.baseurl }}" rel="icon">
 
+	<meta property="og:url" content="{{ site.url }}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:description" content="{{ site.description}}">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="{{ "/assets/logos/open-graph.png" | prepend: site.baseurl }}">
+	<meta property="og:image:alt" content="NHS">
 </head>
+
+
+
+

@@ -67,7 +67,8 @@ Now is a good time to schedule regular migration meetings.
 
 Look at your key dates and the people you need
 
-* Plan for critical days - identify and make sure that people are aware and can be made available. * Do staff have pre-booked holidays? Training?
+* Plan for critical days - identify and make sure that people are aware and can be made available. 
+* Do staff have pre-booked holidays? Training?
 * Are there any planned events or surgeries during this time?
 * Block time for you key dates
 * Prevent new holidays being booked on these dates

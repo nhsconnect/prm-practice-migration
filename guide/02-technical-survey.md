@@ -3,8 +3,8 @@ layout: page_with_sidebar
 permalink: guide/technical-survey
 title: Technical survey
 subtitle: Page subtitle goes here
-nextpage:
-previouspage:
+nextpage: guide/early-prep-and-planning
+previouspage: guide/kickoff
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
