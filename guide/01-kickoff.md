@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/kickoff/
+permalink: guide/kickoff
 title: Kickoff
 subtitle: Page subtitle goes here
 nextpage:

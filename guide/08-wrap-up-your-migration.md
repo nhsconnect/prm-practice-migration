@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/wrap-up-your-migration/
+permalink: guide/wrap-up-your-migration
 title: Wrap up your migration
 subtitle: Page subtile goes here
 nextpage:

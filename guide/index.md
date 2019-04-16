@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/
+permalink: guide
 title: Get started
 subtitle: Page subtitle goes here
 ---

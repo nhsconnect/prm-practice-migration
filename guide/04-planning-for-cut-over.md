@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/planning-for-cut-over/
+permalink: guide/planning-for-cut-over
 title: Planning for cut-over
 subtitle: Page subtile goes here
 nextpage:

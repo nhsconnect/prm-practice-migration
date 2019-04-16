@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/early-prep-and-planning/
+permalink: guide/early-prep-and-planning
 title: Early preparation and planning
 subtitle: Things to start doing to get ahead
 nextpage:

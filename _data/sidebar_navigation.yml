@@ -1,25 +1,18 @@
 sidebar_title: Guide Contents
 sidebar_items:
-  - title: Start Here
-    url:
+  - title: Get started
+    url: /guide
   - title: Kick Off
-    url:
+    url: /guide/kickoff
   - title: Technical Survey
-    url:
+    url: /guide/technical-survey
   - title: Early Preparation & Planning
-    url:
-    subitems:
-      - title: Something
-        url:
-      - title: Something else
-        url:
-  - title: Initial Data Production
-    url:
+    url: /guide/early-prep-and-planning
   - title: Planning for Cut-Over
-    url:
-  - title: Cut-over
-    url:
+    url: /guide/cutover-and-go-live
+  - title: Initial Data Production
+    url: /guide/initial-data-production
   - title: Post Go Live
-    url:
-  - title: Wrap up tour migration
-    url: 
+    url: /guide/post-go-live
+  - title: Wrap up your migration
+    url:  /guide/wrap-up-your-migration

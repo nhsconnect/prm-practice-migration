@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/technical-survey/
+permalink: guide/technical-survey
 title: Technical survey
 subtitle: Page subtitle goes here
 nextpage:

@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/post-go-live/
+permalink: guide/post-go-live
 title: Post Go Live
 subtitle: Page subtile goes here
 nextpage:

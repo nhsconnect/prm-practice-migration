@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/initial-data-production/
+permalink: guide/initial-data-production
 title: Initial Data Production
 subtitle: Page subtile goes here
 nextpage:

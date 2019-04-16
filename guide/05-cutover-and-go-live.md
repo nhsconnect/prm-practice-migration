@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-permalink: guide/cutover-and-go-live/
+permalink: guide/cutover-and-go-live
 title: Cutover and Go Live
 subtitle: Page subtile goes here
 nextpage:
