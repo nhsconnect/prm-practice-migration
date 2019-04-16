@@ -2,37 +2,32 @@
 layout: page_with_sidebar
 permalink: guide/technical-survey
 title: Technical survey
-subtitle: Page subtitle goes here
+subtitle: Checking the exisitng hardware and software requirements
 nextpage: guide/early-prep-and-planning
 previouspage: guide/kickoff
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
+Following your Kickoff meeting an engineer will need to complete a Technical Survey on site at the practice. 
 
-## Example heading 2 (h2)
 
-Nullam vitae justo et lectus fringilla ullamcorper. Duis sed erat mauris. Morbi ut condimentum ligula, sit amet sollicitudin justo. In pharetra ut orci ut lobortis. Cras accumsan, sapien in ultricies condimentum, leo nibh pretium est, in maximus dui nisi non turpis. Vestibulum eu ante blandit, [example external link](https://beta.nhs.uk/service-manual/)bibendum quam id, faucibus libero. Nullam maximus enim sed eleifend consectetur. Aliquam libero tortor, dignissim vel diam et, elementum varius sem. [example internal link](/feedback/). 
+## What is the Technical Survey?
 
-## Example heading 3 (h3)
+The survey is to check the existing practice setup, focused mainly on the following three areas...
 
-Donec vulputate odio at ipsum porta, eu hendrerit orci pellentesque. Ut malesuada nulla eu ante blandit, et facilisis odio laoreet. Aenean a hendrerit quam, at ultrices ligula. Quisque volutpat lacus ut urna tempor dignissim.
+* __Hardware__ – All Hardware should be checked (client PCs, servers, arrivals kiosk, call display etc.) to ensure that they meet the required minimum specification for running the Target System.
+** For dispensing practices, scanner and label printer compatibility also needs to be checked.
+* __Network__ – Any existing network issues that may require addressing & may require extra chargeable engineering services, post go live, 
+* __3rd party application/software compatibility__ - Applications that the Practice may use that are not part of the existing/old core Clinical system, but may be connecting to it, for example DocMan or Apollo Scan for document scanning and management
 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
 
-Cras accumsan, sapien in ultricies condimentum...
+Some Commissioning Support Units (CSUs) will download and install the Target System icons, to all the compatible devices following the survey.
 
-1. Ordered list item
-2. Ordered list item
-3. Ordered list item
-4. Ordered list item
-5. Ordered list item
 
-## Example heading 4 (h4)
+## Who completes this activity?
 
-Proin suscipit massa in magna sagittis molestie non sit amet dolor. Phasellus convallis consectetur lectus et tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. __emphasis__ a neque nec imperdiet. Praesent maximus, justo vitae ultrices porttitor, sapien risus gravida nibh, ut suscipit nulla purus sed risus. 
+The Technical Survey can be completed by the Target Supplier or in some cases by an engineer from your Commissioning Support Unit (CSU), check to see who will complete this activity.
 
-Sed vel mattis odio. Nullam dictum augue sem, sit amet rutrum lorem lobortis vel. Cras eu orci odio. Vivamus dolor dui, dignissim a pellentesque cursus, iaculis at ipsum. Proin mauris odio, dapibus eget orci id, cursus pharetra elit. Morbi sed dolor sed dolor imperdiet porta in at ligula. Curabitur lacinia turpis ac elit ornare scelerisque. Vestibulum dictum justo nec leo accumsan efficitur.
+
+## Outcome of the Technical Survey
+
+The Technical survey may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. Any additional costs should be discussed with the Clinical Commissioning Group (CCG).
