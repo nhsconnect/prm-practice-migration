@@ -10,6 +10,7 @@ previouspage:
 A ‘Kickoff’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
 
 As a priority you should discuss...
+
 * The key milestones and week by week activities
 * Agree dates and targets for the above milestones and activities
 * Who will be involved in the migration and what are their roles and responsibilities?
@@ -24,12 +25,14 @@ For the Kickoff meeting itself, you should involve at a minimum...
 Note: When CSUs are leading the migration, they may invite other roles to the kickoff such as Business Change, Training Leads, Data Quality etc.
 
 ## Key milestones, activities, dates and targets
-By now you should have agreed on your Go Live date, look at the [surrounding phases](/guide/) and put dates in your plan of when the prior activities need to be completed. It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what are the key activities within them.
+By now you should have agreed on your Go Live date, look at the [surrounding phases](/prm-practice-migration/guide) and put dates in your plan of when the prior activities need to be completed. It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what are the key activities within them.
 
 As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
 
 
+
 ## Who, roles and responsibilities
+
 As part of the Kickoff, you should discuss who should be involved in the migration and what are their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play As you work through your list of roles, capture and consolidate any contact information for individuals. Here is a list of common people and organisations to get you started.
 
 * Project manager
@@ -37,7 +40,7 @@ As part of the Kickoff, you should discuss who should be involved in the migrati
 * Practice staff
 * Clinical staff (including people who may work remotely)
 * Commissioning Support Unit (CSU)
-* Explore with your CSU the availability of any supporting roles such as Business Change, Training * Leads, Data Quality teams etc
+* Explore with your CSU the availability of any supporting roles such as Business Change, Training Leads, Data Quality teams etc
 * Commissioning Clinical Group (CCG)
 * Target Supplier - The new supplier of the GP Core System
 * Source Supplier - Existing/old supplier of the GP Core System
@@ -45,16 +48,22 @@ As part of the Kickoff, you should discuss who should be involved in the migrati
 * Third party system suppliers, for example DocMan
 
 
+
 ## Schedule regular migration meetings
-Now is a good time to schedule regular migration meetings
-We suggest holding them on a weekly basis at the same time.
-Book rooms and make sure everyone who needs to can attend
-Keep call conference IDs tools consistent i.e. try to reuse the same conference call setup so that all participants can access it easily and repeatedly
-Agree how you’ll all communicate and share information between meetings
+
+Now is a good time to schedule regular migration meetings.
+
+* We suggest holding them on a weekly basis at the same time.
+* Book rooms and make sure everyone who needs to can attend
+* Keep call conference IDs tools consistent i.e. try to reuse the same conference call setup so that all participants can access it easily and repeatedly
+* Agree how you’ll all communicate and share information between meetings
+
 
 
 ## Check dates against availability
+
 Look at your key dates and the people you need
+
 * Plan for critical days - identify and make sure that people are aware and can be made available. * Do staff have pre-booked holidays? Training?
 * Are there any planned events or surgeries during this time?
 * Block time for you key dates
@@ -63,25 +72,28 @@ Look at your key dates and the people you need
 * Pre-book rooms for training / testing
 
 
+
 ## Additional topics for your Kickoff
 
-The Kickoff is a good opportunity to also run through the following:
+The Kickoff is a good opportunity to also run through the following...
 
 
 ### Common data issues, housekeeping and clean up tasks
+
 Ask the Target supplier or CSU to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
 
-The objective is to identify any tasks that the Practice can start rectifying early and before the [Initial Data Production phase](/guide/initial-data-production). As time goes on, the amount of work the Practice needs to complete will grow, so getting ahead can ease the pressure.
+The objective is to identify any tasks that the Practice can start rectifying early and before the [Initial Data Production phase](initial-data-production). As time goes on, the amount of work the Practice needs to complete will grow, so getting ahead can ease the pressure.
 
 If you have access to a Data Quality team (possibly part of your CSU), involve them now.
 
 Discuss any housekeeping tasks such as…
+
 * The safe removal of old, duplicate, orphaned records or deceased patients that you do not wish to migrate to the new system.
 * Removing any unused letter templates
 * Removing  any unused data entry templates
 * Clearing down the practice inbox(es), outstanding workflows and all open communication tasks e.g. pathology, registration etc - as you approach the Initial Data Production day, you will want to have the least amount of tasks outstanding 
 
-Now is also a good time to introduce the Data Checking tasks and what the practice will need to do during the [Planning and Preparation](/guide/early-prep-and-planning/) phase such as finding patients that match the test criteria supplied by the Target supplier.
+Now is also a good time to introduce the Data Checking tasks and what the practice will need to do during the [Planning and Preparation](early-prep-and-planning) phase such as finding patients that match the test criteria supplied by the Target supplier.
 
 
 ### Technical Survey and Hardware
