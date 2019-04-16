@@ -22,9 +22,10 @@ For the Kickoff meeting itself, you should involve at a minimum...
 * Practice Leads - Including any staff that will play a role in managing/supporting the migration
 * Target system supplier - The supplier of the clinical system your are moving to
 
-Note: When CSUs are leading the migration, they may invite other roles to the kickoff such as Business Change, Training Leads, Data Quality etc.
+Note: When Commisioning Support Units (CSUs) are leading the migration, they may invite other roles to the kickoff such as Business Change, Training Leads, Data Quality etc.
 
 ## Key milestones, activities, dates and targets
+
 By now you should have agreed on your Go Live date, look at the [surrounding phases](/prm-practice-migration/guide) and put dates in your plan of when the prior activities need to be completed. It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what are the key activities within them.
 
 As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
@@ -33,7 +34,7 @@ As you go, you may want to create a shared list of actions for each phase, with 
 
 ## Who, roles and responsibilities
 
-As part of the Kickoff, you should discuss who should be involved in the migration and what are their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play As you work through your list of roles, capture and consolidate any contact information for individuals. Here is a list of common people and organisations to get you started.
+As part of the Kickoff, you should discuss who should be involved in the migration and what are their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play. As you work through your list of roles, capture and consolidate any contact information for individuals. Here is a list of common people and organisations to get you started.
 
 * Project manager
 * Practice Manager
@@ -98,3 +99,23 @@ Now is also a good time to introduce the Data Checking tasks and what the practi
 
 ### Technical Survey and Hardware
 If the Practice is not already aware, the Technical survey (next phase) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and CCG are aware of this possibility before the Technical survey is completed.
+
+
+### Notification of 3rd parties and links
+Make a list of all the supporting/connecting systems and community services that the Clinical system or the Practice works with, for example...
+
+* Electronic Prescription Service (EPS)
+* Pathology and test labs
+* Pharmacies
+* Third party system suppliers, for example DocMan for document scanning
+
+Next, plan and schedule how you will give notice to them of your system change. The earlier you give notice of your Cutover and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas DocMan may require 5 days. However, add a task to your plan to contact and remind each party the week before and on the day when you require changes to be made.
+
+
+### Notification of Patients
+During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service system (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters many weeks in advance to create awareness. You may also want to discuss what online messaging is put in place when the service is removed e.g. what happens if a patient tries to access the online service when it ceases to be available.
+
+
+### Training
+We recommend you discuss how you will approach training at a high level. [Read more about training](training).
+
