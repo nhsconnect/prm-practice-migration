@@ -1,0 +1,25 @@
+sidebar_title: Guide Contents
+sidebar_items:
+  - title: Start Here
+    url:
+  - title: Kick Off
+    url:
+  - title: Technical Survey
+    url:
+  - title: Early Preparation & Planning
+    url:
+    subitems:
+      - title: Something
+        url:
+      - title: Something else
+        url:
+  - title: Initial Data Production
+    url:
+  - title: Planning for Cut-Over
+    url:
+  - title: Cut-over
+    url:
+  - title: Post Go Live
+    url:
+  - title: Wrap up tour migration
+    url: 

@@ -1,0 +1,36 @@
+<aside class="nhsuk-c-page-nav-left"> 
+
+    {%- assign sidebar_title = site.data.sidebar_navigation.sidebar_title | default: "Guide Contents" -%}
+    <h2 class="nhsuk-heading-s">
+        <span>{{ sidebar_title }}</span>
+    </h2>
+
+    {%- if site.data.sidebar_navigation.sidebar_items[0] -%}
+
+    {% assign sidebar_items = site.data.sidebar_navigation.sidebar_items %}
+    <ul class="nhsuk-list-nav">
+        {%- for sidebar_item in sidebar_items -%}
+          <li>
+            {% if sidebar_item.url == page.url %}
+              <strong>{{ sidebar_item.title }}</strong>
+            {% else %}
+              <a href="{{ sidebar_item.url | relative_url }}"> {{ sidebar_item.title }}</a>
+            {%- endif -%}
+            {%- if sidebar_item.subitems[0] -%}
+              <ol class="nhsuk-contents-list__list">
+              {%- for subitem in sidebar_item.subitems -%}
+                <li class="nhsuk-contents-list__item">
+                  {% if subitem.url == page.url %}
+                    <span class="nhsuk-contents-list__current">{{ subitem.title }}</span>
+                  {%- else -%}
+                      <a class="nhsuk-contents-list__link" href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
+                  {%- endif -%}
+                </li>
+              {%- endfor-%}
+              </ol>
+            {%- endif-%}
+          </li>
+        {%- endfor -%}
+    </ul>
+    {%- endif -%}
+</aside>

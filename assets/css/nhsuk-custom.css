@@ -1,0 +1,20 @@
+.nhsuk-c-page-nav-left {
+    padding: 32px 0 0 0; 
+}
+@media screen and (max-width: 989px) {
+    .nhsuk-c-page-nav-left {
+        display: none; 
+    } 
+}
+.nhsuk-c-page-nav-left .nhsuk-heading-s {
+    margin-top: 0;
+    padding: 0 0 16px 0;
+    font-weight: 400;
+    border-bottom: #AEB7BD 1px solid;
+    position: relative; 
+}
+.nhsuk-c-page-nav-left > ul,
+.nhsuk-c-page-nav-left > ol {
+    list-style: none;
+    padding-left: 0; 
+}

@@ -3,10 +3,14 @@ layout: default
 ---
 
 <div class="nhsuk-grid-column-full">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <div class="nhsuk-page-heading nhsuk-reading-width">
+    {%- if page.title -%}
+      <h1>{{ page.title }}</h1>
+    {%- endif -%}
+    {%- if page.subtitle -%}
+      <p class="nhsuk-body-l nhsuk-page-intro">{{ page.subtitle }}</p>
+    {%- endif -%}
+  </div>
 
   {{ content }}
-
 </div>
