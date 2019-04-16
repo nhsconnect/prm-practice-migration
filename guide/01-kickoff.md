@@ -3,8 +3,8 @@ layout: page_with_sidebar
 permalink: guide/kickoff
 title: Kickoff
 subtitle: Get everyone on the same page about what needs to happen and when
-nextpage:
-previouspage:
+nextpage: /guide/technical-survey
+previouspage: /guide
 ---
 
 A ‘Kickoff’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
@@ -34,7 +34,9 @@ As you go, you may want to create a shared list of actions for each phase, with 
 
 ## Who, roles and responsibilities
 
-As part of the Kickoff, you should discuss who should be involved in the migration and what are their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play. As you work through your list of roles, capture and consolidate any contact information for individuals. Here is a list of common people and organisations to get you started.
+As part of the Kickoff, you should discuss who should be involved in the migration and what are their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play. As you work through your list of roles, capture and consolidate any contact information for individuals. 
+
+Here is a list of common people and organisations to get you started.
 
 * Project manager
 * Practice Manager
@@ -118,4 +120,9 @@ During the migration, you may need to remove access to online services such as t
 
 ### Training
 We recommend you discuss how you will approach training at a high level. [Read more about training](training).
+
+
+### Lastly, make staff aware of the coming changes
+Are the Practice staff (and any people who work remotely) aware of the change? Think about what questions they may have and how you plan to answer them.
+
 
