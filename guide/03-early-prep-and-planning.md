@@ -1,10 +1,11 @@
 ---
 layout: page_with_sidebar
-permalink: guide/early-prep-and-planning
+permalink: /guide/early-prep-and-planning
 title: Early preparation and planning
 subtitle: Things to start doing to get ahead
 nextpage:
 previouspage:
+breadcrumbparent: /guide
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 

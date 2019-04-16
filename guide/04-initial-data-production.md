@@ -1,10 +1,11 @@
 ---
 layout: page_with_sidebar
-permalink: guide/initial-data-production
+permalink: /guide/initial-data-production
 title: Initial Data Production
 subtitle: Page subtile goes here
 nextpage:
 previouspage:
+breadcrumbparent: /guide
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 

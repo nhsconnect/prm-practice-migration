@@ -1,10 +1,11 @@
 ---
 layout: page_with_sidebar
-permalink: guide/technical-survey
+permalink: /guide/technical-survey
 title: Technical survey
 subtitle: Checking the exisitng hardware and software requirements
 nextpage: guide/early-prep-and-planning
 previouspage: guide/kickoff
+breadcrumbparent: /guide
 ---
 
 Following your Kickoff meeting an engineer will need to complete a Technical Survey on site at the practice. 

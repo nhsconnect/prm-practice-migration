@@ -1,0 +1,3 @@
+{%- if include.permalink and include.title -%}
+<li class="nhsuk-breadcrumb__item"><a class="nhsuk-breadcrumb__link" href="{{ include.permalink | relative_url }}">{{ include.title }}</a></li>
+{%- endif -%}

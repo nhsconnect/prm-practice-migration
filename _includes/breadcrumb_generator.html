@@ -1,0 +1,13 @@
+{%- assign current_page = site.pages | where: "path", include.path | first -%}
+
+{%- if current_page.breadcrumbparent -%}
+    {%- for p in site.pages -%}
+      {%- if p.permalink == current_page.breadcrumbparent -%}
+        {%- include breadcrumb_generator.html path=p.path -%}
+      {%- endif-%}
+    {%- endfor-%}
+{%- endif -%}
+
+{%- assign current_page_again = site.pages | where: "path", include.path | first -%}
+{%- include breadcrumb_item.html permalink=current_page_again.permalink title=current_page_again.title -%}
+

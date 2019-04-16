@@ -1,8 +1,9 @@
 ---
 layout: page_with_sidebar
-permalink: guide
+permalink: /guide
 title: Get started
 subtitle: Page subtitle goes here
+nextpage: /guide/kickoff
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
