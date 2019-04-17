@@ -1,13 +1,13 @@
 promo_items:
-  - title: GP Practice Manager
+  - title: Practice managers and staff
     description: 
     link: /
-    image:
-  - title: Practice Staff
-    description: /guide
+    image: /assets/images/nhs-home-3.jpg
+  - title: Project managers & Comissioning Support Units (CSU)
+    description: 
     link: /
-    image:
-  - title: CCG
-    description: /improve-this-guide
+    image: /assets/images/nhs-home-1.jpg
+  - title: Comissioning Clinical Groups (CCG)
+    description: 
     link: /
-    image:
+    image: /assets/images/nhs-home-2.jpg

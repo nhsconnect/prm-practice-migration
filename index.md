@@ -14,6 +14,8 @@ Whilst approaches to migrating can differ by region, this guide contains a colle
 aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 
+{%- include button.html title="Get Started" link="/get-started" -%}
+
 {%- if site.data.home_promo.promo_items -%}
 
     {%- include promos/promo.html size="third" promo_content=site.data.home_promo.promo_items -%}
