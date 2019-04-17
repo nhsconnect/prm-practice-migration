@@ -1,0 +1,12 @@
+{% comment %}
+A footer item include that takes two parameters and displays a link.
+
+Parameters:
+    - include.title: Required. The text to display the link title as
+    - include.url: Default is '/'. The url to a page of the current website.
+
+{% endcomment %}
+
+{%- if include.title -%}
+   <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="{{ include.url | default: '/' | relative_url }}">{{ include.title | escape }}</a></li>
+{%- endif -%}

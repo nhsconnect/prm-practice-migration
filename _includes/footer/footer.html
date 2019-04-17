@@ -1,0 +1,25 @@
+{% comment %}
+A footer include to display a footer with links and copyright.
+
+Parameters:
+    - include.menu_items: Required. An array of footer menu elements to loop through and show
+    - include.accessibility_text: Default is 'Support links'. The text that describes what information 
+                                  is presented in the footer for accessibility purposes. 
+    - include.copyright: Default is '© Crown copyright'. The text to show copyright information.
+
+{% endcomment %}
+
+<footer class="nhsuk-footer" id="nhsuk-footer">
+    <div class="nhsuk-width-container">
+        <h2 class="nhsuk-u-visually-hidden">{{ include.accessibility_text | default: 'Support links' }}</h2>
+        {%- if include.menu_items -%}
+        <ul class="nhsuk-footer__list">
+          {%- for menu_item in include.menu_items -%}
+            {%- include footer/footer_item.html title=menu_item.title url=menu_item.url -%}
+          {%- endfor -%} 
+        </ul>
+        {%- endif -%}
+        
+        <p class="nhsuk-footer__copyright">{{ include.copyright | default: '© Crown copyright' }}</p>
+      </div>
+</footer>
