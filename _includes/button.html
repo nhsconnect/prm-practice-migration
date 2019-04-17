@@ -1,6 +1,11 @@
 
 <div class="nhsuk-grid-row">
     <div class="nhsuk-grid-column-full">
-        <a class="nhsuk-button" href="{{ include.link | relative_url }}" role="button" draggable="false">{{ include.title }}</a>
+            {%- capture secondary -%}
+            {%- if include.secondary -%} 
+                nhsuk-button--secondary
+            {%- endif -%}
+            {%- endcapture -%}
+        <a class="nhsuk-button {{secondary}}" href="{{ include.link | relative_url }}" role="button" draggable="false">{{ include.title }}</a>
     </div>
 </div>
