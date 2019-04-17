@@ -3,6 +3,7 @@ layout: home
 title: GP Clinical System Migration Guide
 subtitle: 
 promocontent: 
+hide_breadcrumbs: true
 ---
 
 ### Goal
@@ -14,7 +15,7 @@ Whilst approaches to migrating can differ by region, this guide contains a colle
 aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 
-{%- include button.html title="Get Started" link="/get-started" -%}
+{%- include button.html title="Get Started" link="/guide" -%}
 
 {%- if site.data.home_promo.promo_items -%}
 
@@ -22,8 +23,10 @@ aimed at reducing the impact to Practice staff and minimising the amount of manu
 
 {%- endif -%}
 
-This guide is in Beta and you are viewing the first version. 
+## Help us improve this guide
 
-{%- include action_link.html link="/improve-this-guide" title="Help us improve this guide by sharing your experience and giving us feedback" -%}
+This guide is in Beta and you are viewing the first version. You can help us improve this guide by sharing your experience and giving feedback
+
+{%- include action_link.html link="/improve-this-guide" title="Give feedback on this guide" -%}
 
 
