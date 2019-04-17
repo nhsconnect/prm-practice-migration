@@ -1,9 +1,11 @@
 ---
 layout: home
-title: GP Clinical System Migration Guide
+title: A guide to migrating your core clinical system
 subtitle: 
 promocontent: 
 hide_breadcrumbs: true
+show_hero: true
+
 ---
 
 ### Goal

@@ -56,3 +56,7 @@
 {%- unless page.hide_breadcrumbs -%}
   {% include breadcrumbs/breadcrumbs.html home=true backlink=true current_page=page %}
 {%- endunless -%}
+
+{%- if page.show_hero -%}
+  {%- include hero.html title=page.title subtitle=page.subtitle -%}
+{%- endif -%}
