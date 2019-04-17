@@ -2,12 +2,10 @@
 layout: page_with_sidebar
 permalink: /guide/technical-survey
 title: Technical survey
-<<<<<<< 
 subtitle: Checking the existing hardware and software at the Practice for compatibility
 nextpage: /guide/early-prep-and-planning
 previouspage: /guide/kickoff
 breadcrumbparent: /guide
->>>>>>> 9b5f33bf250eec0694874452aa3b2f0e6e4e729f
 ---
 
 Following your Kickoff meeting an engineer will need to complete a Technical Survey on site at the practice. 
