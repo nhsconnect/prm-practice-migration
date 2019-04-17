@@ -1,4 +1,7 @@
 # GP Clinical System Migration Guide
+
+This guide aims to help Practices, Commissioning Support Units (CSUs) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
+
 You can find the guide at https://nhsconnect.github.io/prm-practice-migration
 
 ### Menu navigation and sidebar items
@@ -26,7 +29,7 @@ When adding permalinks in pages to other pages, either for breadcrumbs or for ne
 
 Example:
 
-|Correctly formatting|Incorrect formatting |
-|--------------------|---------------------|
-|`/guide/kickoff`    |`/guide/kickoff/`    |
-|                    |`guide/kickoff`      |
+| Correctly formatting | Incorrect formatting |
+| -------------------- | -------------------- |
+| `/guide/kickoff`     | `/guide/kickoff/`    |
+|                      | `guide/kickoff`      |
