@@ -27,6 +27,6 @@ When adding permalinks in pages to other pages, either for breadcrumbs or for ne
 Example:
 
 |Correctly formatting|Incorrect formatting |
-|---|---|
-|`/guide/kickoff`|`/guide/kickoff/`|
-| |`guide/kickoff`|
+|--------------------|---------------------|
+|`/guide/kickoff`    |`/guide/kickoff/`    |
+|                    |`guide/kickoff`      |

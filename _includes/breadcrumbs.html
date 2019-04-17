@@ -4,6 +4,7 @@
             {%- include breadcrumb_item.html permalink="/" title="Home" -%}
             {%- include breadcrumb_generator.html path=page.path -%}
           </ol>
+          {%- include breadcrumb_generator.html path=page.path backlink=true -%}
         </div>
 </nav>
 
