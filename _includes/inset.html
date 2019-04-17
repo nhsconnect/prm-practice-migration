@@ -1,0 +1,21 @@
+{% comment %}
+The inset include displays content in a highlighted way.
+
+Parameters:
+    - include.content: Required. The content of what you want to be shown highlighted. HTML by default.
+    - include.accessibility_text: The text that describes what information is presented for accessbility. 
+                                  Default is 'Information'
+    - include.markdown: Set to true if your include.content is in Markdown, so that it is transformed.
+
+{% endcomment %}
+
+<div class="nhsuk-inset-text">
+{%- if include.content -%}
+    <span class="nhsuk-u-visually-hidden">{{include.accessibility_text | default: "Information" }}</span>
+    {%- if include.markdown -%}
+        {{ include.content | markdownify }}
+    {%- else -%} 
+        {{ include.content }}
+    {%- endif -%}
+{%- endif -%}  
+</div>
