@@ -1,0 +1,13 @@
+<div class="nhsuk-promo">
+    <a class="nhsuk-promo__link-wrapper" href="{{ include.link | default: '/'}}">
+        {% if include.image %}
+        <img class="nhsuk-promo__img" src="{{ include.image | prepend: site.baseurl }}" alt="">
+        {% endif %}
+        <div class="nhsuk-promo__content">
+            <h3 class="nhsuk-promo__heading">{{include.title}}</h3>
+            {% if include.description %}
+            <p class="nhsuk-promo__description">{{include.description}}</p>
+            {% endif %}
+        </div>
+    </a>
+</div>

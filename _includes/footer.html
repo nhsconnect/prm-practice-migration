@@ -1,9 +1,16 @@
 <footer class="nhsuk-footer" id="nhsuk-footer">
     <div class="nhsuk-width-container">
         <h2 class="nhsuk-u-visually-hidden">Support links</h2>
+        {%- if site.data.menu_navigation.menu_items[0] -%}
         <ul class="nhsuk-footer__list">
-          <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></li>
+          {%- for menu_item in site.data.menu_navigation.menu_items -%}
+      
+          {%- if menu_item.title -%}
+            <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="{{ menu_item.url | relative_url }}">{{ menu_item.title | escape }}</a></li>
+          {%- endif -%}
+          {%- endfor -%} 
         </ul>
+        {%- endif -%}
         
         <p class="nhsuk-footer__copyright">© Crown copyright</p>
       </div>

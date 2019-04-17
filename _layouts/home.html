@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="nhsuk-grid-column-full">
+  {%- unless page.show_hero -%}
   <div class="nhsuk-page-heading nhsuk-reading-width">
     {%- if page.title -%}
       <h1>{{ page.title }}</h1>
@@ -11,6 +12,7 @@ layout: default
       <p class="nhsuk-body-l nhsuk-page-intro">{{ page.subtitle }}</p>
     {%- endif -%}
   </div>
+  {%- endunless -%}
 
   {{ content }}
 </div>

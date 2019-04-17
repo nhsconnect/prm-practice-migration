@@ -1,0 +1,25 @@
+{% comment  %}
+The breadcrumb item has two possible outputs, either breadcrumb item or a "Back to ..." backlink
+
+Unless this is a backlink, it will print the current page link.
+
+Parameters:
+    - include.permalink: The Jekyll 'page.permalink' value passed in the include to link to that page
+    - include.title: The Jekyll 'page.title' value passed in the include to show as link title
+    - include.backlink: If this is meant to be the 'Back to.. ' link on low screen devices
+
+{% endcomment %}
+
+{%- if include.permalink and include.title -%}
+
+  {%- if include.backlink -%}
+  <p class="nhsuk-breadcrumb__back">
+    <a class="nhsuk-breadcrumb__backlink" href="{{ include.permalink | relative_url }}">Back to {{ include.title }}</a>
+  </p>
+  {%- else -%}
+  <li class="nhsuk-breadcrumb__item">
+    <a class="nhsuk-breadcrumb__link" href="{{ include.permalink | relative_url }}">{{ include.title }}</a>
+  </li>
+  {%- endif -%}
+
+{%- endif -%}

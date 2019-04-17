@@ -25,7 +25,6 @@
   </div>
   
   {%- if site.data.menu_navigation.menu_items[0] -%}
-  {% assign menu_items = site.data.menu_navigation.menu_items %}
   <nav class="nhsuk-header__navigation" id="header-navigation" role="navigation" aria-label="Primary navigation" aria-labelledby="label-navigation">
     <p class="nhsuk-header__navigation-title"><span id="label-navigation">Menu</span>
       <button class="nhsuk-header__navigation-close" id="close-menu">
@@ -36,7 +35,7 @@
       </button>
     </p>
     <ul class="nhsuk-header__navigation-list">
-        {%- for menu_item in menu_items -%}
+        {%- for menu_item in site.data.menu_navigation.menu_items -%}
         
         {%- if menu_item.title -%}
         <li class="nhsuk-header__navigation-item">
@@ -53,3 +52,11 @@
   </nav>
   {%- endif -%}
 </header>
+
+{%- unless page.hide_breadcrumbs -%}
+  {% include breadcrumbs/breadcrumbs.html home=true backlink=true current_page=page %}
+{%- endunless -%}
+
+{%- if page.show_hero -%}
+  {%- include hero.html title=page.title subtitle=page.subtitle -%}
+{%- endif -%}

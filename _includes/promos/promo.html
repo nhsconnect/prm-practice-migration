@@ -1,0 +1,21 @@
+
+{% case include.size %}
+{% when "full" %}
+    {% assign size = "nhsuk-grid-column-full" %}
+{% when "half" %}
+    {% assign size = "nhsuk-grid-column-one-half" %}
+{% when "third" %}
+    {% assign size = "nhsuk-grid-column-one-third" %}
+{% when "quarter" %}
+    {% assign size = "nhsuk-grid-column-one-quarter" %}
+{% else %}
+    {% assign size = "nhsuk-grid-column-full" %}
+{% endcase %}
+
+<div class="nhsuk-grid-row nhsuk-promo-group">
+    {%- for promo in include.promo_content -%}
+    <div class="{{size}} nhsuk-promo-group__item">
+       {%- include promos/promo_item.html title=promo.title description=promo.description image=promo.image -%}
+    </div>
+    {%- endfor -%}
+</div>

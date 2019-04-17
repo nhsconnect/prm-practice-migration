@@ -1,0 +1,38 @@
+{% comment  %}
+The breadcrumb generator recursively attempts to find the parent page following NHS style for breadcrumbs.
+It will attempt to get the page that matches the 'path' passed in and see if the
+page hase a 'breadcrumbparent' variable set. If it does, it will recursively call itself.
+
+Unless this is a backlink, it will print the current page link.
+
+Parameters:
+    - include.path: The Jekyll page.path value passed in the include
+    - include.backlink: If this is meant to find the parent and provide a 'Back to.. ' link on
+                        low screen devices
+
+{% endcomment %}
+
+{%- assign current_page = site.pages | where: "path", include.path | first -%}
+{%- assign backlink = include.backlink -%}
+
+{%- if current_page.breadcrumbparent or backlink -%}
+
+    {%- for p in site.pages -%}
+    
+      {%- if p.permalink == current_page.breadcrumbparent -%}
+        
+        {%- if backlink -%}
+            {%- include breadcrumbs/breadcrumb_item.html permalink=p.permalink title=p.title backlink=true -%}
+        {%- else -%}
+            {%- include breadcrumbs/breadcrumb_generator.html path=p.path -%}
+        {%- endif-%}
+       
+      {%- endif-%}
+    {%- endfor-%}
+{%- endif -%}
+
+{%- unless include.backlink -%}
+    {%- assign current_page_again = site.pages | where: "path", include.path | first -%}
+    {%- include breadcrumbs/breadcrumb_item.html permalink=current_page_again.permalink title=current_page_again.title -%}
+{%- endunless -%}
+

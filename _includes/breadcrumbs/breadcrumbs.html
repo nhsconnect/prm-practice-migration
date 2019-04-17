@@ -1,0 +1,28 @@
+{% comment  %}
+The breadcrumbs html module will display breadcrumbs using the NHS style. 
+Make sure to have the right CSS files included. To show breadcrumbs for parent page 
+your Jekyll pages must have a 'breadcrumbparent' variable set to a permalink to a page.
+Always include leading forward slash and do not include trailining forward slash.
+
+Parameters:
+    - include.current_page: This must be set to the Jekyll 'page' you want to show the breadcrumbs on.
+    - include.home: Set this to true if you want your top-level parent to be link to your top level page.
+    - include.backlink: Set this to true if you want back link to the parent container on low screen devices.
+
+{% endcomment %}
+
+<nav class="nhsuk-breadcrumb" aria-label="Breadcrumb">
+        <div class="nhsuk-width-container">
+          <ol class="nhsuk-breadcrumb__list">
+            {%- if include.home -%}
+                {%- include breadcrumbs/breadcrumb_item.html permalink="/" title="Home" -%}
+            {%- endif -%}
+            {%- if include.current_page -%}
+            {%- include breadcrumbs/breadcrumb_generator.html path=include.current_page.path -%}
+            {%- endif -%}
+          </ol>
+          {%- if include.backlink -%}
+            {%- include breadcrumbs/breadcrumb_generator.html path=page.path backlink=true -%}
+          {%- endif -%}
+        </div>
+</nav>
