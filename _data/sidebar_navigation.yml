@@ -8,10 +8,10 @@ sidebar_items:
     url: /guide/technical-survey
   - title: Early Preparation & Planning
     url: /guide/early-prep-and-planning
-  - title: Planning for Cut-Over
-    url: /guide/cutover-and-go-live
   - title: Initial Data Production
     url: /guide/initial-data-production
+  - title: Cut-Over & Go Live
+    url: /guide/cutover-and-go-live
   - title: Post Go Live
     url: /guide/post-go-live
   - title: Wrap up your migration
