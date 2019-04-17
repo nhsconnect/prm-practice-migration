@@ -17,14 +17,14 @@ Ahead of the [Initial Data Production phase](initial-data-production), a formal 
 
 The request needs to be completed as early as possible. The Source Suppliers have varying lead times/notice periods to provide this data upon request (for example, EMIS may require 5 weeks notice). __Any delays to giving notice may impact the migration timeline__ if it’s not sent prior to the [Initial Data Production day](initial-data-production).
 
-Steps to requesting the Data extract
+### Steps to requesting the Data extract
 
 1. A request is made to the Source Supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the Commissioning Support Unit (CSU) but this may differ by region. 
 2. The Supplier will send a ‘Data extract request form’ (or similar) directly to the Practice as the Practice is the Controller of the data
 3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered (the Initial Data Production day)
 4. The Source Supplier liaises with the Target Supplier to transfer the data safely and securely.
 
-Clean up the current system data
+## Clean up the current system data
 
 The Target supplier (providing the new clinical system) or Commissioning Support Unit (CSU) can advise the Practice on any common/known data issues when migrating to the new system (these may vary from system to system). 
 
@@ -64,7 +64,7 @@ Start to display posters within the surgery advising of any disruption to servic
 
 ## Schedule any training
 
-Schedule your training plan and book rooms. (Read more about training)[training]. 
+Schedule your training plan and book rooms. [Read more about training](training). 
 
 ## Check hardware & software deployment timelines
 
