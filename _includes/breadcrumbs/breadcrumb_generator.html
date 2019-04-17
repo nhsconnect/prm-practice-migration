@@ -18,17 +18,17 @@ Parameters:
 {%- if current_page.breadcrumbparent or backlink -%}
 
     {%- for p in site.pages -%}
-    
       {%- if p.permalink == current_page.breadcrumbparent -%}
-        
-        {%- if backlink -%}
-            {%- include breadcrumbs/breadcrumb_item.html permalink=p.permalink title=p.title backlink=true -%}
-        {%- else -%}
-            {%- include breadcrumbs/breadcrumb_generator.html path=p.path -%}
-        {%- endif-%}
-       
+        {%- assign found_page = p -%}
       {%- endif-%}
     {%- endfor-%}
+
+    {%- if backlink -%}
+      {%- include breadcrumbs/breadcrumb_item.html permalink=found_page.permalink title=found_page.title backlink=true -%}
+    {%- else -%}
+      {%- include breadcrumbs/breadcrumb_generator.html path=found_page.path -%}
+    {%- endif-%}
+
 {%- endif -%}
 
 {%- unless include.backlink -%}

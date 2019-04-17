@@ -10,16 +10,16 @@ Parameters:
 
 {% endcomment %}
 
-{%- if include.permalink and include.title -%}
-
-  {%- if include.backlink -%}
+{%- if include.backlink -%}
   <p class="nhsuk-breadcrumb__back">
-    <a class="nhsuk-breadcrumb__backlink" href="{{ include.permalink | relative_url }}">Back to {{ include.title }}</a>
+    <a class="nhsuk-breadcrumb__backlink" href="{{ include.permalink | default: '/' | relative_url  }}">Back to {{ include.title | default: "Home" }}</a>
   </p>
-  {%- else -%}
+{%- endif -%}
+
+{%- if include.permalink and include.title -%}
+  {% unless backlink %}
   <li class="nhsuk-breadcrumb__item">
     <a class="nhsuk-breadcrumb__link" href="{{ include.permalink | relative_url }}">{{ include.title }}</a>
   </li>
-  {%- endif -%}
-
+  {% endunless %}
 {%- endif -%}

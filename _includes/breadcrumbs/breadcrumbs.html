@@ -22,7 +22,7 @@ Parameters:
             {%- endif -%}
           </ol>
           {%- if include.backlink -%}
-            {%- include breadcrumbs/breadcrumb_generator.html path=page.path backlink=true -%}
+            {%- include breadcrumbs/breadcrumb_generator.html path=include.current_page.path backlink=include.backlink -%}
           {%- endif -%}
         </div>
 </nav>
