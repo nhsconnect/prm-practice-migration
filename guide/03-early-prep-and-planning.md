@@ -68,4 +68,4 @@ Schedule your training plan and book rooms. [Read more about training](training)
 
 ## Check hardware & software deployment timelines
 
-If the (Technical Survey)[technical-survey] identified any additional hardware / software requirements, make sure to check in on the current status.
+If the [Technical Survey](technical-survey) identified any additional hardware / software requirements, make sure to check in on the current status.
