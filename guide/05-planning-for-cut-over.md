@@ -10,11 +10,11 @@ breadcrumbparent: /guide
 
 ## What is it and purpose
 
-During the cutover period, any activity that takes place at your practice will not automatically transfer to your target supplier’s system. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your cutover date.
+During the cut-over period, any activity that takes place at your practice will not automatically transfer to your target supplier’s system. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your cut-over date.
 
-During this stage, the practice gathers all the key people who will be involved in your cutover period to discuss how you are going to run the practice activities during this time. The objective is to decide what processes to follow during cutover and the approach to data re-entry. 
+During this stage, the practice gathers all the key people who will be involved in your cut-over period to discuss how you are going to run the practice activities during this time. The objective is to decide what processes to follow during cut-over and the approach to data re-entry. 
 
-## Best practices and tactics for reducing the cutover impact
+## Best practices and tactics for reducing the cut-over impact
 
 * Practice collates a list of all the 3rd parties and services to switch off links/communications the day prior to final data production day.
 
@@ -27,7 +27,7 @@ During this stage, the practice gathers all the key people who will be involved 
 * Practice clear down their inbox and outstanding workflows and all open communication tasks e.g. pathology, registration etc
 
 
-## Specifically prepare for cutover handling of the following activities:
+## Specifically prepare for cut-over handling of the following activities:
 
 * Appointments:  
   -- Practice builds rotas on the Deployment system.  
@@ -45,7 +45,7 @@ During this stage, the practice gathers all the key people who will be involved 
   -- In order to negate the risk of missed information, create a rota in the source supplier system, if possible, so that all the calls made can be logged there.  
 
 * Prescriptions:  
-  -- Keep a record of all prescription requests made/issued during the cutover period. Ideally batch all the repeat prescription requests together by date order. If any requests are taken by phone/over the counter/any other method, you will need to make a note of those and add them to the batched information.  
+  -- Keep a record of all prescription requests made/issued during the cut-over period. Ideally batch all the repeat prescription requests together by date order. If any requests are taken by phone/over the counter/any other method, you will need to make a note of those and add them to the batched information.  
   -- To reduce the amount of effort re-entering Prescription data, some practices choose to:  
     -- Issue two prescriptions (either posted dated or amendment to quantity) from the month before the Cut-over begins until a week after Go-Live.  
     -- For EPS repeat prescriptions practices can revert back to issuing FP10s from the month before the Cut-over begins until a week after Go-Live. Changing the option from EPS to FP10 needs to happen on an individual patient basis. This can be done at the point of ordering all medications.  
@@ -53,19 +53,19 @@ During this stage, the practice gathers all the key people who will be involved 
 
 
 * Referrals:  
-  -- Print an extra copy of any referrals done during cutover period. These can then be scanned into the target supplier system when you are live.  
+  -- Print an extra copy of any referrals done during cut-over period. These can then be scanned into the target supplier system when you are live.  
 
 * Scanning:  
-  -- Everything that comes in during the cutover period will need to be scanned into the target system’s supplier once you are live. You need to make sure that you keep all the incoming letters together.  
+  -- Everything that comes in during the cut-over period will need to be scanned into the target system’s supplier once you are live. You need to make sure that you keep all the incoming letters together.  
 
 * Bowel screening:  
-  -- Ask to stop sending messages from a couple of days before cutover starts until after go-live.  
+  -- Ask to stop sending messages from a couple of days before cut-over starts until after go-live.  
 
 * 111 messages/Incoming clinical correspondence:  
-  -- Leave all the messages received during the cutover period in the generic mailbox as they can be picked up from there and dropped into the target system once you are live. You may want to print copies for your GPs to view.  
+  -- Leave all the messages received during the cut-over period in the generic mailbox as they can be picked up from there and dropped into the target system once you are live. You may want to print copies for your GPs to view.  
 
 * Out Of Hours:  
-  -- The OOH reports will continue to come into the source system during cutover. You will need to keep a copy of each for scanning into the target system once live.  
+  -- The OOH reports will continue to come into the source system during cut-over. You will need to keep a copy of each for scanning into the target system once live.  
 
 * Summarisation/routine data entry:  
   -- All of this will need to stop as the information will not be transferred to target supplier.  

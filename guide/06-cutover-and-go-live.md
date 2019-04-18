@@ -1,14 +1,16 @@
 ---
 layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
-title: Cutover and Go Live
+title: Cut-over and Go Live
 subtitle: Page subtile goes here
 nextpage:
 previouspage:
 breadcrumbparent: /guide
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
+## What is it and purpose
+
+During this stage, you will carry out all the activities planned for in the Cut-over preparation work[/guide/planning-for-cut-over].
 
 ## Example heading 2 (h2)
 
