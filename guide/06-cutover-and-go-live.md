@@ -10,7 +10,7 @@ breadcrumbparent: /guide
 
 ## What is it and purpose
 
-During this stage, you will carry out all the activities planned for in the Cut-over preparation work[/guide/planning-for-cut-over].
+During the cut-over stage, you will carry out all the activities planned for in the Cut-over preparation work[(/guide/planning-for-cut-over)].
 
 ## Example heading 2 (h2)
 
