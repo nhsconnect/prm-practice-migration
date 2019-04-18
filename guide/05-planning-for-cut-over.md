@@ -1,4 +1,4 @@
--- -
+---
 layout: page_with_sidebar
 permalink: /guide/planning-for-cut-over
 title: Planning for cut-over
@@ -6,13 +6,13 @@ subtitle: Preparation for the time between the ‘Technical go live’ (the poin
 nextpage: /guide/cutover-and-go-live
 previouspage: /guide/initial-data-production
 breadcrumbparent: /guide
--- -
+---
 
 ## What is it and purpose
 
 During the cutover period, any activity that takes place at your practice will not automatically transfer to your target supplier’s system. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your cutover date.
 
-During this stage, the practice gathers all the key people who will be involved in your cutover period to discuss how you are going to run the practice activities during this time. The objective is to decide what processes to follow during cutover and the approach to data re-entry.
+During this stage, the practice gathers all the key people who will be involved in your cutover period to discuss how you are going to run the practice activities during this time. The objective is to decide what processes to follow during cutover and the approach to data re-entry. 
 
 ## Best practices and tactics for reducing the cutover impact
 
@@ -45,11 +45,12 @@ During this stage, the practice gathers all the key people who will be involved 
   -- In order to negate the risk of missed information, create a rota in the source supplier system, if possible, so that all the calls made can be logged there.  
 
 * Prescriptions:  
-  --  Keep a record of all prescription requests made/issued during the cutover period. Ideally batch all the repeat prescription requests together by date order. If any requests are taken by phone/over the counter/any other method, you will need to make a note of those and add them to the batched information.  
-  --  To reduce the amount of effort re-entering Prescription data, some practices choose to:  
-    --  Issue two prescriptions (either posted dated or amendment to quantity) from the month before the Cut-over begins until a week after Go-Live.  
-    --  For EPS repeat prescriptions practices can revert back to issuing FP10s from the month before the Cut-over begins until a week after Go-Live. Changing the option from EPS to FP10 needs to happen on an individual patient basis. This can be done at the point of ordering all medications.  
+  -- Keep a record of all prescription requests made/issued during the cutover period. Ideally batch all the repeat prescription requests together by date order. If any requests are taken by phone/over the counter/any other method, you will need to make a note of those and add them to the batched information.  
+  -- To reduce the amount of effort re-entering Prescription data, some practices choose to:  
+    -- Issue two prescriptions (either posted dated or amendment to quantity) from the month before the Cut-over begins until a week after Go-Live.  
+    -- For EPS repeat prescriptions practices can revert back to issuing FP10s from the month before the Cut-over begins until a week after Go-Live. Changing the option from EPS to FP10 needs to happen on an individual patient basis. This can be done at the point of ordering all medications.  
   With either of these options it is important that patients and pharmacies are informed of this change at the earliest opportunity to avoid any confusion.
+
 
 * Referrals:  
   -- Print an extra copy of any referrals done during cutover period. These can then be scanned into the target supplier system when you are live.  
