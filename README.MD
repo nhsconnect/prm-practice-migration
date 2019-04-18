@@ -24,8 +24,8 @@ sidebar_items:
 
 ### Formatting breadcrumbs and previous/next links
 When adding permalinks in pages to other pages, either for breadcrumbs or for next/previous page follow these rules:
- - DO include the leading forward slash
- - DO NOT include the trailing forward slash
+ - *DO* include the leading forward slash
+ - *DO NOT* include the trailing forward slash
 
 Example:
 
