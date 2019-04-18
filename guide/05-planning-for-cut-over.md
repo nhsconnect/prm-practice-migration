@@ -27,10 +27,10 @@ During this stage, the practice gathers all the key people who will be involved 
 
 ## Specifically prepare for cutover handling of the following activities:
 
-* Appointments: 
-  Practice builds rotas on the Deployment system.
-  Try to cut the rotas off from 2 weeks post go-live.
-  Schedule less slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the target supplier’s system. Please note that if this is the case then apply these to the source supplier rotas too so that you are able to transfer them.
+* Appointments: /n
+  ---Practice builds rotas on the Deployment system.
+  --Try to cut the rotas off from 2 weeks post go-live.
+  --Schedule less slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the target supplier’s system. Please note that if this is the case then apply these to the source supplier rotas too so that you are able to transfer them.
 
 * Consultations:
   Carry on as normal and manually transfer these to target source supplier as part of the data catch up process once you have gone live.
