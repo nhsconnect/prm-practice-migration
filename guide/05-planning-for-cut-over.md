@@ -2,13 +2,11 @@
 layout: page_with_sidebar
 permalink: /guide/planning-for-cut-over
 title: Planning for cut-over
-subtitle: Decide what processes to follow during cutover and the approach to data re-entry
+subtitle: Preparation for the time between the ‘Technical go live’ (the point at which the Target Supplier System is ready to be used) and the ‘Business/Practice switchover' (the point at which the Practice starts to use the new system as the primary system).
 nextpage: /guide/cutover-and-go-live
 previouspage: /guide/initial-data-production
 breadcrumbparent: /guide
 ---
-
-Preparation for the time between the ‘Technical go live’ (the point at which the Target Supplier System is ready to be used) and the ‘Business/Practice switchover' (the point at which the Practice starts to use the new system as the primary system).
 
 During the cutover period, any activity that takes place at your practice will not automatically transfer to your target supplier’s system. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your cutover date.
 
