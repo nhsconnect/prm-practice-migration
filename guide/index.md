@@ -2,36 +2,107 @@
 layout: page_with_sidebar
 permalink: /guide
 title: Get started
-subtitle: Page subtitle goes here
+subtitle: How to start your migration to another clinical system
 nextpage: /guide/kickoff
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
+## Introduction
 
-## Example heading 2 (h2)
+This guide aims to help Practices, Commissioning Support Units (CSUs) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
 
-Nullam vitae justo et lectus fringilla ullamcorper. Duis sed erat mauris. Morbi ut condimentum ligula, sit amet sollicitudin justo. In pharetra ut orci ut lobortis. Cras accumsan, sapien in ultricies condimentum, leo nibh pretium est, in maximus dui nisi non turpis. Vestibulum eu ante blandit, [example external link](https://beta.nhs.uk/service-manual/)bibendum quam id, faucibus libero. Nullam maximus enim sed eleifend consectetur. Aliquam libero tortor, dignissim vel diam et, elementum varius sem. [example internal link](/feedback/). 
+Approaches to migrating can differ by region, this guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
-## Example heading 3 (h3)
+The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
 
-Donec vulputate odio at ipsum porta, eu hendrerit orci pellentesque. Ut malesuada nulla eu ante blandit, et facilisis odio laoreet. Aenean a hendrerit quam, at ultrices ligula. Quisque volutpat lacus ut urna tempor dignissim.
 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
+## How long does a migration take?
 
-Cras accumsan, sapien in ultricies condimentum...
+Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate in the Tracking Database (detailed on this page) to the end of the Post Go Live activity is complete.
 
-1. Ordered list item
-2. Ordered list item
-3. Ordered list item
-4. Ordered list item
-5. Ordered list item
 
-## Example heading 4 (h4)
+## Overview of key phases
 
-Proin suscipit massa in magna sagittis molestie non sit amet dolor. Phasellus convallis consectetur lectus et tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. __emphasis__ a neque nec imperdiet. Praesent maximus, justo vitae ultrices porttitor, sapien risus gravida nibh, ut suscipit nulla purus sed risus. 
+Migrations take a lot of planning and effort from Practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
 
-Sed vel mattis odio. Nullam dictum augue sem, sit amet rutrum lorem lobortis vel. Cras eu orci odio. Vivamus dolor dui, dignissim a pellentesque cursus, iaculis at ipsum. Proin mauris odio, dapibus eget orci id, cursus pharetra elit. Morbi sed dolor sed dolor imperdiet porta in at ligula. Curabitur lacinia turpis ac elit ornare scelerisque. Vestibulum dictum justo nec leo accumsan efficitur.
+Here is an overview of the key phases...
+
+
+| Phase                                                    | Estimated timeline |
+|----------------------------------------------------------|--------------------|
+| __[Procurement](#ready-to-get-started)__ <br>Securing funding and the notification / agreement with the Target supplier (New) and the Source Supplier (Old) via the [Tracking Database](#register-the-migration-on-the-tracking-database) | 1-2 weeks |
+| __[Kickoff](kickoff)__ <br>Gathering all the key people who will be involved in your migration to discuss the end to end process of migrating your system    | 1 day |
+| __[Technical Survey](technical-survey)__ <br>Checking the existing hardware and software at the Practice for compatibility | 1 day |
+| __[Early Preparation & Planning](early-prep-and-planning)__ <br>Critical activities Practices can start doing to get ahead and prepare for the later stages such as cleaning existing data, notifying 3rd Party services and patients | 1-2 weeks |
+| __[Initial Data Production (IDP)](initial-data-production)__ <br>The Initial Data Production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into the new system. The Practice then test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 1 day |
+| __[Data Checking](initial-data-production#data-checking)__ <br>The Practice test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 3 days - 3 weeks |
+| __[Data recheck & Sign off](initial-data-production#data-checking)__ <br>Rechecking the data after the Target Supplier has amended any issues found before signing off that the data is accurate and the Practice is satisfied with the quality of the data | 1-5 days |
+| __[Cut-over Planning & Preparation](planning-for-cut-over)__ <br>Preparation and activities to reduce the impact of the Cut-over & data re-entry | - |
+| __Final Data Production__ <br> Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. The final data extract is provided to the new supplier, who import it into the new system.| 1 day |
+| __[Cut-over period](cutover-and-go-live)__ <br> Manual processes are put in place whilst the Practice check the data accuracy on the new system and receive training | 3 days to 2 weeks |
+| __Go Live__ <br> The point at which the Practice signs off that the data is accurate and starts to use the new system as the primary system | 1 day |
+| __[Post Go Live](post-go-live)__ <br> Practice staff re-enter data for Appointments, Prescriptions etc that took place during the Cut-over period | 5 days - 2 weeks |
+| __[End of migration](wrap-up-your-migration)__ <br> The point at which all data has been re-entered, training receiced and the Practice is comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice| - |
+
+
+
+## Ready to get started?
+
+Once the Practice and Commissioning Clinical Group have agreed that the Practice will migrate to a new Clinical System the first step is to agree a Go Live date, register the migration on the Tracking Database and informing both the current and new suppliers of the intended change.
+
+
+### Agree a provisional Go Live date
+
+A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Commissioning Support Unit (CSU) and the Commissioning Clinical Group (CCG)
+
+
+{%- capture lesson_learnt_1 -%}
+__Lesson learnt__ - Avoid busy periods such as Flu season, QOF or holiday periods and watch out for any periods with a high volume of staff on training or annual leave.
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
+
+
+### Register the migration on the Tracking Database
+
+The initial registration of the migration on the [Tracking Database](https://digital.nhs.uk/services/tracking-database) is usually completed by the Commissioning Support Unit (CSU) however this may differ by region.
+
+
+#### Procure the new system
+
+* A _Schedule A_ document is completed for the Target Supplier service and is “called off”/logged in the Tracking Database
+
+* The Commissioning Clinical Group (CCG) accepts the _Schedule A_ in the Tracking Database
+
+* The Target Supplier receives the _Schedule A_ notification & accepts it
+
+* The Target Supplier will confirm the availability of the preferred Go live dates
+
+
+{%- capture lesson_learnt_2 -%}
+__Lesson learnt__ - Submodules of the new clinical system may need to be raised in a _Schedule A_, this activity can be missed. E.g. Appointments, Docman
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
+
+
+#### Decommission the existing/old system system
+
+The same process happens for the decommissioning of the Source Supplier, a _Schedule A_ is “called off”/logged in the Tracking Database.
+
+
+{%- capture lesson_learnt_3 -%}
+__Lesson learnt__ - If the _Schedule A_ to decommission the source supplier’s system is not sent at this point the NHS will continue to pay for the service for longer than needed.
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
+
+Important - At this point, you should think about submitting a [formal data extract request to the Source Supplier](early-prep-and-planning#request-a-data-extract-from-your-existing-supplier) to avoid any delays to your migration.
+
+The Source Suppliers have varying lead times/notice periods to provide this data upon request (for example, a supplier may require up to 5 weeks notice). 
+
+
+{%- capture lesson_learnt_4 -%}
+__Lesson learnt__ - __Any delays to requesting the data extract may impact the migration timeline__ if it’s not sent well in advance the [Initial Data Production day](initial-data-production).
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_4 accessibility_text="Lesson learnt" markdown=true -%}

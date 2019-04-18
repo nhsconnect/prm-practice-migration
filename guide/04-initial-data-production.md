@@ -41,6 +41,8 @@ __Lesson learnt__ - try to make sure that more than one member of staff attend t
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
+
+
 ## Data Checking
 
 Data checking generally happens in 2-3 phases…
@@ -69,6 +71,7 @@ __Lesson learnt__ - If possible, try to arrange access to additional support fro
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
+
 
 ## What to test
 
