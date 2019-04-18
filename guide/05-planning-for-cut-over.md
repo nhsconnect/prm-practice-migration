@@ -2,9 +2,9 @@
 layout: page_with_sidebar
 permalink: /guide/planning-for-cut-over
 title: Planning for cut-over
-subtitle: Page subtile goes here
-nextpage:
-previouspage:
+subtitle: Decide what processes to follow during cutover and the approach to data re-entry
+nextpage: /guide/cutover-and-go-live
+previouspage: /guide/initial-data-production
 breadcrumbparent: /guide
 ---
 
