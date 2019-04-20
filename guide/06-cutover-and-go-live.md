@@ -3,39 +3,82 @@ layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
 title: Cut-over and Go Live
 subtitle: Page subtile goes here
-nextpage:
-previouspage:
+nextpage: /guide/post-go-live
+previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
 ---
 
 ## What is it and purpose
 
-During the cut-over stage, you will carry out all the activities planned for in the Cut-over preparation work[(/guide/planning-for-cut-over)].
+During the cut-over stage, you will carry out all the activities planned for in the Cut-over preparation work[Cut-over preparation work](/guide/planning-for-cut-over)].
 
-## Example heading 2 (h2)
+## Who is involved
+* Practice Staff
+* CSU Project Manager
+* CSU Trainers
 
-Nullam vitae justo et lectus fringilla ullamcorper. Duis sed erat mauris. Morbi ut condimentum ligula, sit amet sollicitudin justo. In pharetra ut orci ut lobortis. Cras accumsan, sapien in ultricies condimentum, leo nibh pretium est, in maximus dui nisi non turpis. Vestibulum eu ante blandit, [example external link](https://beta.nhs.uk/service-manual/)bibendum quam id, faucibus libero. Nullam maximus enim sed eleifend consectetur. Aliquam libero tortor, dignissim vel diam et, elementum varius sem. [example internal link](/feedback/). 
+## What to expect - Cut-over
 
-## Example heading 3 (h3)
+Practices can choose to continue to add data into the old supplier's system, but data won’t be carried over, so for some processes they may use paper or manual processes.  
 
-Donec vulputate odio at ipsum porta, eu hendrerit orci pellentesque. Ut malesuada nulla eu ante blandit, et facilisis odio laoreet. Aenean a hendrerit quam, at ultrices ligula. Quisque volutpat lacus ut urna tempor dignissim.
+Avoid reviews and other clinic sessions with high volume of patients during this period e.g. Asthma reviews.  
 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
+Reduce referrals to urgent only cases, retain a copy for re-entry.  
 
-Cras accumsan, sapien in ultricies condimentum...
+Patient consultations details are printed off and stored in a folder for re-entry after Go Live.  
 
-1. Ordered list item
-2. Ordered list item
-3. Ordered list item
-4. Ordered list item
-5. Ordered list item
+Practice staff receive training from CSU for new system and processes.  
 
-## Example heading 4 (h4)
+DM&D (Dictionary of Medication and Devices) mapping is done for Electronic Prescription Service.  
 
-Proin suscipit massa in magna sagittis molestie non sit amet dolor. Phasellus convallis consectetur lectus et tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. __emphasis__ a neque nec imperdiet. Praesent maximus, justo vitae ultrices porttitor, sapien risus gravida nibh, ut suscipit nulla purus sed risus. 
+Practice staff re-check patient records on the new system.  
 
-Sed vel mattis odio. Nullam dictum augue sem, sit amet rutrum lorem lobortis vel. Cras eu orci odio. Vivamus dolor dui, dignissim a pellentesque cursus, iaculis at ipsum. Proin mauris odio, dapibus eget orci id, cursus pharetra elit. Morbi sed dolor sed dolor imperdiet porta in at ligula. Curabitur lacinia turpis ac elit ornare scelerisque. Vestibulum dictum justo nec leo accumsan efficitur.
+Practice staff re-check QOF and other reports.  
+
+Practice signs off Go-live Data and provides confirmation to the Supplier.  
+
+CSU configure scanning device, check in and call waiting boards etc.  
+
+Incompatible equipment is replaced.  
+
+Smartcard activation is completed by the CSU. New system configured for staff, roles, names of sites (can also be the responsibility of the Practice Manager).  
+
+## What to expect - Go Live
+
+Practice goes live on the new supplier's system. Old system is now read only and available for another 45 days.
+This stage usually takes two days. Technical Go Live takes place one day before Business Go Live.
+
+CSU on site to provide support and training.
+In some circumstances, the Target supplier trainers arrive at the practice.
+
+Some CSU provide training support on the new system and processes ongoing throughout cut-over for Practice staff trained, Dispensary staff and Nurses etc
+
+Third party systems come back online.
+
+Appointments and roles set up in the morning, roles are set up in the new system.
+
+Paper data collected and managed manually over the cut-over period is re-entered: 
+- Appointments
+- Consultations
+- Lab results
+- Registration tasks
+- Patient opt out codes
+
+QOF score reports checked and markers are updated.  
+
+Activity to fix data and code mapping starts for degraded codes.  
+
+
+## What to look out for
+
+DM&D and QOF are only available 1-2 days before Go Live and if not MD&D is not checked, it causes issues with EPS after Go Live.  
+
+Staff availability for cut-over tasks.  
+
+Confirm your Go Live date with the supplier again to make sure there is no change in their schedules.  
+
+Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in paths.  
+
+Fixing some degraded codes and data can take practice weeks or months, due to poor transfer into the new system.
+
+New Patients cannot complete registration and are asked to come back after the cut-off period.  
