@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
 title: Cut-over and Go Live
-subtitle: Page subtile goes here
+subtitle: How to organise the cut-over and Go Live days
 nextpage: /guide/post-go-live
 previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
@@ -16,6 +16,7 @@ During the cut-over stage, you will carry out all the activities planned for in 
 * Practice Staff
 * CSU Project Manager
 * CSU Trainers
+* Target Supplier
 
 ## What to expect - Cut-over
 
@@ -42,6 +43,10 @@ CSU configure scanning device, check in and call waiting boards etc.
 Incompatible equipment is replaced.  
 
 Smartcard activation is completed by the CSU. New system configured for staff, roles, names of sites (can also be the responsibility of the Practice Manager).  
+
+Supplier checks a patient registration to ensure that the Registration link is active in the live system.  
+
+Target Supplier enables the new system.
 
 ## What to expect - Go Live
 
