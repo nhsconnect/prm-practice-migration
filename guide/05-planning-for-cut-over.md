@@ -104,7 +104,8 @@ During the ‘Planning for the cut-over’ stage, you should gather all the key 
 
 ### Referrals: 
  
-* Print an extra copy of any referrals done during cut-over period. These can then be scanned into the target supplier system when you are live.  
+* If possible, reduce referrals to urgent only cases
+* Print an extra copy of any referrals done during cut-over period. These can then be scanned into the target supplier system when you are live.   
 
 
 ### Scanning:
