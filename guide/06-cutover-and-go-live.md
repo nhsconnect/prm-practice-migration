@@ -2,88 +2,115 @@
 layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
 title: Cut-over and Go Live
-subtitle: How to organise the cut-over and Go Live days
+subtitle: Transitioning to the new core clinical system
 nextpage: /guide/post-go-live
 previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
 ---
 
-## What is it and purpose
-
-During the cut-over stage, you will carry out all the activities planned for in the Cut-over preparation work[Cut-over preparation work](/guide/planning-for-cut-over)].
+During the cut-over stage, you will carry out all the activities you have planned for, in the [cut-over preparation phase](/prm-practice-migration/guide/planning-for-cut-over).
 
 ## Who is involved
 * Practice Staff
-* CSU Project Manager
-* CSU Trainers
+* Project Manager
+* Trainers
 * Target Supplier
 
-## What to expect - Cut-over
 
-Practices can choose to continue to add data into the old supplier's system, but data won’t be carried over, so for some processes they may use paper or manual processes.  
+## What to expect during the cutover
 
-Avoid reviews and other clinic sessions with high volume of patients during this period e.g. Asthma reviews.  
 
-Reduce referrals to urgent only cases, retain a copy for re-entry.  
+### Final Data Production 
+The cutover will start with a ‘Final Data Production’. Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. 
 
-Patient consultations details are printed off and stored in a folder for re-entry after Go Live.  
+The final data extract is provided to the new supplier, who import it into the new system.
 
-Practice staff receive training from CSU for new system and processes.  
 
-DM&D (Dictionary of Medication and Devices) mapping is done for Electronic Prescription Service.  
+### Manual processes are put in place
+[Refer back to the Cut-over planning for further details of the processes](/prm-practice-migration/guide/planning-for-cut-over#appointments)
 
-Practice staff re-check patient records on the new system.  
 
-Practice staff re-check QOF and other reports.  
+### Data re-checking
 
-Practice signs off Go-live Data and provides confirmation to the Supplier.  
+The Practice should re-check the patients identified and tested previously as part of the Initial Data Production](initial-data-production) as well as random patients. 
 
-CSU configure scanning device, check in and call waiting boards etc.  
+Practice staff re-check reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
 
-Incompatible equipment is replaced.  
 
-Smartcard activation is completed by the CSU. New system configured for staff, roles, names of sites (can also be the responsibility of the Practice Manager).  
+### Training on the new system
 
-Supplier checks a patient registration to ensure that the Registration link is active in the live system.  
+Practice staff should receive [additional] training for the new system and any change in processes.  
 
-Target Supplier enables the new system.
+{%- capture lesson_learnt_1 -%}
+__Lesson learnt__ - Remember to include any Clinical staff who may work remotely
+{%- endcapture -%}
 
-## What to expect - Go Live
+{%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 
-Practice goes live on the new supplier's system. Old system is now read only and available for another 45 days.
-This stage usually takes two days. Technical Go Live takes place one day before Business Go Live.
 
-CSU on site to provide support and training.
-In some circumstances, the Target supplier trainers arrive at the practice.
+### Dictionary of Medication and Devices mapping
 
-Some CSU provide training support on the new system and processes ongoing throughout cut-over for Practice staff trained, Dispensary staff and Nurses etc
+Dictionary of Medication and Devices (DM&D) mapping needs to be done for the Electronic Prescription Service (EPS) during the cut-over
 
-Third party systems come back online.
 
-Appointments and roles set up in the morning, roles are set up in the new system.
+{%- capture lesson_learnt_2 -%}
+__Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if the DM&D is not checked, it causes issues with Electronic Prescription Service after Go Live. 
+{%- endcapture -%}
 
-Paper data collected and managed manually over the cut-over period is re-entered: 
-- Appointments
-- Consultations
-- Lab results
-- Registration tasks
-- Patient opt out codes
+{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
-QOF score reports checked and markers are updated.  
 
-Activity to fix data and code mapping starts for degraded codes.  
+### Configure devices
+
+Scanning devices, check in and call waiting boards etc are configured. This is usually completed by the Clinical Support Unit (CSU)  
+
+
+### Hardware replacement
+
+By now, incompatible equipment identified in the [Technical Survey](technical-survey) should be replaced and tested.
+
+
+### Smartcards activated
+
+Smartcards will need to be activated. The new system is configured for staff, roles, names of sites. Who does this varies between the Commissioning Support Unit, Trainers and Practice Managers
+
+
+### Check Registration links
+
+The Source Supplier should check patient registration links are working in the new system, the Registrations clerk is usually involved with this activity.
+
+
+### Sign off Go Live Data 
+
+After re-checking, if successful and the Practice is happy that all the data has transferred and the migration is successful, the Practice signs off Go Live Data and provides confirmation to the Supplier.  
+
+
+## Go Live
+
+Following the above actions and Sign off of the Go Live Data, the Practice goes live on the new supplier's system. 
+
+The old system is now read only and available for another 45 days as standard (Check this with your old supplier to ensure that they do not terminate access early)
+
+Third party systems should come back online.
+
+
+{%- capture lesson_learnt_3 -%}
+__Lesson learnt__ - Remember to notify and chase third party suppliers and services that were switched off during the cut-over period (e.g. Electronic Prescription Service, Pathology etc)
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
+
 
 
 ## What to look out for
 
-DM&D and QOF are only available 1-2 days before Go Live and if not MD&D is not checked, it causes issues with EPS after Go Live.  
+* Staff availability for cut-over tasks.  
 
-Staff availability for cut-over tasks.  
+* Confirm your Go Live date with the Target Supplier again to make sure there is no change in their schedules.  
 
-Confirm your Go Live date with the supplier again to make sure there is no change in their schedules.  
+* Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in paths.  
 
-Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in paths.  
+* Fixing some degraded codes and data can take practice weeks or months, due to poor transfer into the new system.
 
-Fixing some degraded codes and data can take practice weeks or months, due to poor transfer into the new system.
-
-New Patients cannot complete registration and are asked to come back after the cut-off period.  
+* New Patients cannot complete registration until after the cut-off period so you will need to ask them to come back after Go Live.
+ 
