@@ -69,6 +69,10 @@ During the ‘Planning for the cut-over’ stage, you should gather all the key 
 ### Consultations: 
  
 * Carry on as normal entering notes in the old system and manually transfer these to target source supplier as part of the data re-entry process once you have gone live.  
+* Patient consultations details can be printed off and stored in a folder (separate folder for each day) for re-entry after Go Live.
+  * Some practices choose to copy and paste notes from the old system to the new
+  * Some practices choose to retype the notes from the printouts
+
 
 
 ### Home visits:  
