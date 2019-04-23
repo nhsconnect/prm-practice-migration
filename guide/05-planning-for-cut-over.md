@@ -27,10 +27,16 @@ During the cutover, the key activities are…
 * The Practice will test and sign off the data
 * The Practice will record any new data for manual re-entry after Go Live and when the cutover ends
 
-*During Cutover, any data that is entered into the old system will not automatically transfer to your target supplier’s system*. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your cut-over date.
+
+{%- capture lesson_learnt_1 -%}
+**During Cutover, any data that is entered into the old system will not automatically transfer to your target supplier’s system**. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your cut-over date.
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 
 
 ## Planning for the cut-over
+
 
 During the ‘Planning for the cut-over’ stage, you should gather all the key people who will be involved in your cut-over period to discuss how you are going to run the practice activities during this time. The objective is to decide what processes to follow during cut-over to ensure the practice runs smoothly and how you will approach data re-entry (and how to minimise the amount of re-entry needed). 
 
@@ -67,7 +73,7 @@ During the ‘Planning for the cut-over’ stage, you should gather all the key 
 
 ### Home visits:  
 
-Keep a record of requested visits so that you know which patients have data that need transferring once you are live.  
+* Keep a record of requested visits so that you know which patients have data that need transferring once you are live.  
 
 
 ### Telephone calls to patients
