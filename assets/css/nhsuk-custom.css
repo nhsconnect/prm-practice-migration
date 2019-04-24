@@ -22,3 +22,7 @@
 .nhsuk-hero {
     margin-bottom: 35px;
 }
+@media (min-width: 61.875em)
+.nhsuk-header__navigation-list {
+    justify-content: normal;
+}
