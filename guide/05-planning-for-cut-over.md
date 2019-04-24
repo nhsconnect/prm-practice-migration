@@ -99,7 +99,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Home visits:  
 
-Keep a record of requested visits so that you know which patients have data that need transferring once you are live.  
+* Keep a record of requested visits so that you know which patients have data that need transferring once you are in the Post Go Live phase.  
 
 
 ### Telephone calls to patients
