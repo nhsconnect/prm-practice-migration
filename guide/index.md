@@ -10,7 +10,7 @@ nextpage: /guide/kickoff
 
 This guide aims to help Practices, Commissioning Support Units (CSUs) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
 
-Approaches to migrating can differ by region, this guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
+Approaches to migrating can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
 
@@ -31,13 +31,13 @@ Here is an overview of the key phases...
 |----------------------------------------------------------|--------------------|
 | __[Procurement](#ready-to-get-started)__ <br>Securing funding and the notification / agreement with the Target supplier (New) and the Source Supplier (Old) via the [Tracking Database](#register-the-migration-on-the-tracking-database) | 1-2 weeks |
 | __[Kickoff](/prm-practice-migration/guide/kickoff)__ <br>Gathering all the key people who will be involved in your migration to discuss the end to end process of migrating your system    | 1 day |
-| __[Technical Survey](/prm-practice-migration/guide/technical-survey)__ <br>Checking the existing hardware and software at the Practice for compatibility | 1 day |
-| __[Early Preparation & Planning](/prm-practice-migration/guide/early-prep-and-planning)__ <br>Critical activities Practices can start doing to get ahead and prepare for the later stages such as cleaning existing data, notifying 3rd Party services and patients | 1-2 weeks |
-| __[Initial Data Production (IDP)](/prm-practice-migration/guide/initial-data-production)__ <br>The Initial Data Production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into the new system. The Practice then test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 1 day |
-| __[Data Checking](/prm-practice-migration/guide/initial-data-production#data-checking)__ <br>The Practice test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 3 days - 3 weeks |
-| __[Data recheck & Sign off](/prm-practice-migration/guide/initial-data-production#data-checking)__ <br>Rechecking the data after the Target Supplier has amended any issues found before signing off that the data is accurate and the Practice is satisfied with the quality of the data | 1-5 days |
-| __[Cut-over Planning & Preparation](/prm-practice-migration/guide/planning-for-cut-over)__ <br>Preparation and activities to reduce the impact of the Cut-over & data re-entry | - |
-| __[Final Data Production](/prm-practice-migration/guide/cutover-and-go-live#final-data-production)__ <br> Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. The final data extract is provided to the new supplier, who import it into the new system.| 1 day |
+| __[Technical survey](/prm-practice-migration/guide/technical-survey)__ <br>Checking the existing hardware and software at the Practice for compatibility | 1 day |
+| __[Early preparation and planning](/prm-practice-migration/guide/early-prep-and-planning)__ <br>Critical activities Practices can start doing to get ahead and prepare for the later stages such as cleaning existing data, notifying 3rd Party services and patients | 1-2 weeks |
+| __[Initial data production (IDP)](/prm-practice-migration/guide/initial-data-production)__ <br>The Initial Data Production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into the new system. The Practice then test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 1 day |
+| __[Data checking](/prm-practice-migration/guide/initial-data-production#data-checking)__ <br>The Practice test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 3 days - 3 weeks |
+| __[Data recheck and sign off](/prm-practice-migration/guide/initial-data-production#data-checking)__ <br>Rechecking the data after the Target Supplier has amended any issues found before signing off that the data is accurate and the Practice is satisfied with the quality of the data | 1-5 days |
+| __[Cut-over planning and preparation](/prm-practice-migration/guide/planning-for-cut-over)__ <br>Preparation and activities to reduce the impact of the Cut-over & data re-entry | - |
+| __[Final data production](/prm-practice-migration/guide/cutover-and-go-live#final-data-production)__ <br> Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. The final data extract is provided to the new supplier, who import it into the new system.| 1 day |
 | __[Cut-over period](/prm-practice-migration/guide/cutover-and-go-live)__ <br> Manual processes are put in place whilst the Practice check the data accuracy on the new system and receive training | 3 days to 2 weeks |
 | __[Go Live](/prm-practice-migration/guide/cutover-and-go-live#sign-off-go-live-data)__ <br> The point at which the Practice signs off that the data is accurate and starts to use the new system as the primary system | 1 day |
 | __[Post Go Live](/prm-practice-migration/guide/post-go-live)__ <br> Practice staff re-enter data for Appointments, Prescriptions etc that took place during the Cut-over period | 5 days - 2 weeks |
@@ -73,7 +73,7 @@ The initial registration of the migration on the [Tracking Database](https://dig
 
 * The Commissioning Clinical Group (CCG) accepts the _Schedule A_ in the Tracking Database
 
-* The Target Supplier receives the _Schedule A_ notification & accepts it
+* The Target Supplier receives the _Schedule A_ notification and accepts it
 
 * The Target Supplier will confirm the availability of the preferred Go live dates
 
