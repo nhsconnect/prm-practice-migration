@@ -2,37 +2,30 @@
 layout: page_with_sidebar
 permalink: /guide/training
 title: Training
-subtitle: Page subtile goes here
+subtitle: Tips for training on the new clinical system
 nextpage:
 previouspage:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id elit a odio semper vestibulum. Quisque venenatis, eros consequat feugiat porttitor, est elit ullamcorper massa, a porta massa lectus vitae nisl. 
+The approach, amount and timing of training widely differs from region to region and can happen throughout the end to end migration process. 
 
-## Example heading 2 (h2)
+* Some Practices receive training from the Clinical Support Units (CSUs) where they have dedicated trainers
 
-Nullam vitae justo et lectus fringilla ullamcorper. Duis sed erat mauris. Morbi ut condimentum ligula, sit amet sollicitudin justo. In pharetra ut orci ut lobortis. Cras accumsan, sapien in ultricies condimentum, leo nibh pretium est, in maximus dui nisi non turpis. Vestibulum eu ante blandit, [example external link](https://beta.nhs.uk/service-manual/)bibendum quam id, faucibus libero. Nullam maximus enim sed eleifend consectetur. Aliquam libero tortor, dignissim vel diam et, elementum varius sem. [example internal link](/feedback/). 
+* Some Practices receive training from the Target Supplier (The new supplier of the GP Core System)
 
-## Example heading 3 (h3)
 
-Donec vulputate odio at ipsum porta, eu hendrerit orci pellentesque. Ut malesuada nulla eu ante blandit, et facilisis odio laoreet. Aenean a hendrerit quam, at ultrices ligula. Quisque volutpat lacus ut urna tempor dignissim.
+## General recommendations for training
 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
-* Unordered list item 
+* Book rooms for training early
 
-Cras accumsan, sapien in ultricies condimentum...
+* After kick-off and before cut-over meeting, hold a training meeting to look at the training needs at an individual basis, create a training schedule and slot staff in
 
-1. Ordered list item
-2. Ordered list item
-3. Ordered list item
-4. Ordered list item
-5. Ordered list item
+* If possible, draft in additional support/cover so that there is dedicated people/time for training on the new system
 
-## Example heading 4 (h4)
+* Remember to include staff who may work remotely / away from the Practice building on training
 
-Proin suscipit massa in magna sagittis molestie non sit amet dolor. Phasellus convallis consectetur lectus et tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. __emphasis__ a neque nec imperdiet. Praesent maximus, justo vitae ultrices porttitor, sapien risus gravida nibh, ut suscipit nulla purus sed risus. 
+* Supplier trainers tend to follow fixed training plans so make sure to agree upfront what the Practice needs are and whether you want to deviate from the planned agenda.
 
-Sed vel mattis odio. Nullam dictum augue sem, sit amet rutrum lorem lobortis vel. Cras eu orci odio. Vivamus dolor dui, dignissim a pellentesque cursus, iaculis at ipsum. Proin mauris odio, dapibus eget orci id, cursus pharetra elit. Morbi sed dolor sed dolor imperdiet porta in at ligula. Curabitur lacinia turpis ac elit ornare scelerisque. Vestibulum dictum justo nec leo accumsan efficitur.
+* Arrange pre-cutover training as close to the cutover date as you can for training information retention
+
+* If possible, try to hold onto some training days to use after the migration and use for times where staff will be using a different part of the system or module. For example, you may want to reserve time for Quality Outcome Framework (QOF) module training when QOF is due. If the practice covered this module during the migration in September, but do not use this part of the system until February/March they may not retain all the information
