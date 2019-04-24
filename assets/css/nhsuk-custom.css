@@ -18,11 +18,11 @@
     list-style: none;
     padding-left: 0; 
 }
-
 .nhsuk-hero {
     margin-bottom: 35px;
 }
-@media (min-width: 61.875em)
-.nhsuk-header__navigation-list {
-    justify-content: normal;
+@media (min-width:61.875em) {
+    .nhsuk-header__navigation-list {
+        justify-content: normal;
+    }
 }
