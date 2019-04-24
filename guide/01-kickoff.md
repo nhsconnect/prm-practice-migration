@@ -27,7 +27,7 @@ Note: When Commisioning Support Units (CSUs) are leading the migration, they may
 
 ## Key milestones, activities, dates and targets
 
-By now you should have agreed on your Go Live date, look at the [surrounding phases](/prm-practice-migration/guide) and put dates in your plan of when the prior activities need to be completed. It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what are the key activities within them.
+By now you should have agreed on your Go Live date, look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when the prior activities need to be completed. It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what are the key activities within them.
 
 As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
 
@@ -102,7 +102,7 @@ Now is also a good time to introduce the Data Checking tasks and what the practi
 
 
 ### Technical Survey and Hardware
-If the Practice is not already aware, the Technical survey (next phase) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and CCG are aware of this possibility before the Technical survey is completed.
+If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try schedule the day after the Kickoff) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and CCG are aware of this possibility before the Technical survey is completed.
 
 
 ### Notification of 3rd parties and links
