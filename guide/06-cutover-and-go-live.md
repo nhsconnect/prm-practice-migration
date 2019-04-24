@@ -39,13 +39,14 @@ Practice staff re-check reports such as QOF and indicator points, cytology and i
 
 ### Training on the new system
 
-Practice staff should receive [additional] training for the new system and any change in processes.  
+Practice staff should receive [training for the new system](/prm-practice-migration/guide/training) during the Cut-over period including training for any changes to practice processes.  
 
 {%- capture lesson_learnt_1 -%}
 __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
+
 
 
 ### Dictionary of Medication and Devices mapping
