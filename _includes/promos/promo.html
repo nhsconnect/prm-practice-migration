@@ -15,7 +15,7 @@
 <div class="nhsuk-grid-row nhsuk-promo-group">
     {%- for promo in include.promo_content -%}
     <div class="{{size}} nhsuk-promo-group__item">
-       {%- include promos/promo_item.html title=promo.title description=promo.description image=promo.image -%}
+       {%- include promos/promo_item.html title=promo.title description=promo.description image=promo.image link=promo.link -%}
     </div>
     {%- endfor -%}
 </div>
