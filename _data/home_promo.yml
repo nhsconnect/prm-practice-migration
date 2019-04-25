@@ -1,13 +1,13 @@
 promo_items:
   - title: Practice managers and staff
     description: 
-    link: /
+    link: /practice-staff
     image: /assets/images/nhs-home-3.jpg
   - title: Project managers and Delivery partners
     description: 
-    link: /
+    link: /project-managers
     image: /assets/images/nhs-home-1.jpg
   - title: Clinical Comissioning Groups (CCG)
     description: 
-    link: /
+    link: /clinical-comissioning-groups
     image: /assets/images/nhs-home-2.jpg
