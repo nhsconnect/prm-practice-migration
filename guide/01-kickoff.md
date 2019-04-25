@@ -57,7 +57,7 @@ Here is a list of common people and organisations to get you started.
 * Clinical staff (including people who may work remotely)
 * Commissioning Support Unit (CSU)
 * Explore with your CSU the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
-* Commissioning Clinical Group (CCG)
+* Clinical Commissioning Group (CCG)
 * Target supplier - The new supplier of the GP Core System
 * Source supplier - Existing/old supplier of the GP Core System
 * Surrounding and community services - Pharmacies, Prescriptions, Test labs etc 

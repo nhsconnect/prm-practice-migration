@@ -8,7 +8,7 @@ nextpage: /guide/kickoff
 
 ## Introduction
 
-This guide aims to help Practices, Commissioning Support Units (CSUs) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
+This guide aims to help Practices, Commissioning Support Units (CSUs) and Clinical Commissioning Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
 
 Approaches to migrating can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
@@ -47,12 +47,12 @@ Here is an overview of the key phases...
 
 ## Ready to get started?
 
-Once the Practice and Commissioning Clinical Group have agreed that the Practice will migrate to a new Clinical System the first step is to agree a Go Live date, register the migration on the Tracking Database and informing both the current and new suppliers of the intended change.
+Once the Practice and Clinical Commissioning Group have agreed that the Practice will migrate to a new Clinical System the first step is to agree a Go Live date, register the migration on the Tracking Database and informing both the current and new suppliers of the intended change.
 
 
 ### Agree a provisional Go Live date
 
-A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Commissioning Support Unit (CSU) and the Commissioning Clinical Group (CCG)
+A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Commissioning Support Unit (CSU) and the Clinical Commissioning Group (CCG)
 
 
 {%- capture lesson_learnt_1 -%}
@@ -71,7 +71,7 @@ The initial registration of the migration on the [Tracking Database](https://dig
 
 * A _Schedule A_ document is completed for the Target Supplier service and is “called off”/logged in the Tracking Database
 
-* The Commissioning Clinical Group (CCG) accepts the _Schedule A_ in the Tracking Database
+* The Clinical Commissioning Group (CCG) accepts the _Schedule A_ in the Tracking Database
 
 * The Target Supplier receives the _Schedule A_ notification and accepts it
 

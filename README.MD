@@ -1,6 +1,6 @@
 # GP Clinical System Migration Guide
 
-This guide aims to help Practices, Commissioning Support Units (CSUs) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
+This guide aims to help Practices, Commissioning Support Units (CSUs) and Clinical Commissioning Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
 
 You can find the guide at https://nhsconnect.github.io/prm-practice-migration
 
