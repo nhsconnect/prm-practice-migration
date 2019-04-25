@@ -16,17 +16,19 @@ Following your Kickoff meeting an engineer will need to complete a Technical Sur
 
 The survey is to check the existing practice setup, focused mainly on the following three areas...
 
-* __Hardware__ – All Hardware should be checked (client PCs, servers, arrivals kiosk, call display etc.) to ensure that they meet the required minimum specification for running the Target System. For dispensing practices, scanner and label printer compatibility also needs to be checked.
-* __Network__ – Any existing network issues that may require addressing & may require extra chargeable engineering services, post go live, 
+* __Hardware__ – All Hardware, such as client PCs, servers, arrivals kiosk, call display etc. should be checked to ensure that they meet the required minimum specification for running the Target System. For dispensing practices, scanner and label printer compatibility also needs to be checked.
+* __Network__ – Any existing network issues that may require addressing and may require extra chargeable engineering services, post go live, 
 * __3rd party application/software compatibility__ - Applications that the Practice may use that are not part of the existing/old core Clinical system, but may be connecting to it, for example DocMan or Apollo Scan for document scanning and management
 
 
 
-Some Commissioning Support Units (CSUs) will download and install the Target System icons, to all the compatible devices following the survey.
+Some Commissioning Support Units (CSUs) will download and install the Target System icons, to all the compatible devices following the survey, but this may only be installed on a small number of devices by suppliers.
 
 ## Who completes this activity?
 
-The Technical Survey can be completed by the Target Supplier or in some cases by an engineer from the Commissioning Support Unit (CSU), check to see who will complete this activity.
+The Technical Survey can be completed by the Target Supplier, or in some cases by an engineer from the Commissioning Support Unit (CSU).
+
+Make sure to check to see who will complete this activity.
 
 
 
