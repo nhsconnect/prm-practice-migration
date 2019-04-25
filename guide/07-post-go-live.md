@@ -3,7 +3,7 @@ layout: page_with_sidebar
 permalink: /guide/post-go-live
 title: Post Go Live
 subtitle: What happens after Go Live
-nextpage: /guide/wrap-up-your-migration
+nextpage: /guide/end-of-migration
 previouspage: /guide/cutover-and-go-live
 breadcrumbparent: /guide
 ---

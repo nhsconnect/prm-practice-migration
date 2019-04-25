@@ -16,5 +16,5 @@ sidebar_items:
     url: /guide/cutover-and-go-live
   - title: Post Go Live
     url: /guide/post-go-live
-  - title: Wrap up your Migration
-    url:  /guide/wrap-up-your-migration
+  - title: End of your Migration
+    url:  /guide/end-of-migration
