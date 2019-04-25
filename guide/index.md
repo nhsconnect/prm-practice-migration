@@ -41,7 +41,7 @@ Here is an overview of the key phases...
 | __[Cut-over period](/prm-practice-migration/guide/cutover-and-go-live)__ <br> Manual processes are put in place whilst the Practice check the data accuracy on the new system and receive training | 3 days to 2 weeks |
 | __[Go Live](/prm-practice-migration/guide/cutover-and-go-live#sign-off-go-live-data)__ <br> The point at which the Practice signs off that the data is accurate and starts to use the new system as the primary system | 1 day |
 | __[Post Go Live](/prm-practice-migration/guide/post-go-live)__ <br> Practice staff re-enter data for Appointments, Prescriptions etc that took place during the Cut-over period | 5 days to 2 weeks |
-| __[End of migration](/prm-practice-migration/guide/wrap-up-your-migration)__ <br> The point at which all data has been re-entered, training receiced and the Practice is comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice| - |
+| __[End of migration](/prm-practice-migration/guide/wrap-up-your-migration)__ <br> The point at which all data has been re-entered, training received and the Practice is comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice| - |
 
 
 
