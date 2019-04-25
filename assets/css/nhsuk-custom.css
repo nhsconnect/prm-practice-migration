@@ -26,3 +26,9 @@
         justify-content: normal;
     }
 }
+@media (max-width:453px) {
+    .nhsuk-header__service-name {
+        width: 13em;
+    }
+}
+
