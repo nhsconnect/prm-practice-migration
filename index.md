@@ -8,7 +8,8 @@ show_hero: true
 ---
 
 ## About this guide
-This guide aims to help Practices, Commissioning Support Units (CSUs) and Clinical Commissioning Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
+
+This guide aims to help Practices, Delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
 
 Whilst approaches to migrating can differ by region, this guide contains a collection of common phases and strategies 
 aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
@@ -20,6 +21,7 @@ aimed at reducing the impact to Practice staff and minimising the amount of manu
     {%- include promos/promo.html size="third" promo_content=site.data.home_promo.promo_items -%}
 
 {%- endif -%}
+
 
 ## Help us improve this guide
 
