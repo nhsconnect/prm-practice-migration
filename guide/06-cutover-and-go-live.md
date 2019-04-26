@@ -8,7 +8,7 @@ previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
 ---
 
-During the cut-over stage, you will carry out all the activities you have planned for, in the [cut-over preparation phase](/prm-practice-migration/guide/planning-for-cut-over).
+During the cut-over phase, you will carry out all the activities planned for in the [cut-over preparation phase](/prm-practice-migration/guide/planning-for-cut-over).
 
 ## Who is involved
 * Practice Staff
@@ -19,22 +19,21 @@ During the cut-over stage, you will carry out all the activities you have planne
 
 ## What to expect during the cutover
 
-
-### Final Data Production 
-The cutover will start with a ‘Final Data Production’. Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. 
+### Final data production 
+The cutover will start with a ‘Final data production’. Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. 
 
 The final data extract is provided to the new supplier, who import it into the new system.
 
 
 ### Manual processes are put in place
-[Refer back to the Cut-over planning for further details of the processes](/prm-practice-migration/guide/planning-for-cut-over#appointments)
+[Refer back to the cut-over planning for further details of the processes](/prm-practice-migration/guide/planning-for-cut-over#appointments)
 
 
 ### Data re-checking
 
-The Practice should re-check the patients identified and tested previously as part of the Initial Data Production](initial-data-production) as well as random patients. 
+The practice should re-check the patients identified and tested previously as part of the [initial data production](/prm-practice-migration/guide/initial-data-production) as well as random patients. 
 
-Practice staff re-check reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
+Practice staff should recheck reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and the remapping of local codes.
 
 
 ### Training on the new system
@@ -46,7 +45,6 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-
 
 
 ### Dictionary of Medication and Devices mapping
@@ -71,9 +69,9 @@ Scanning devices, check in and call waiting boards etc are configured. This is u
 By now, incompatible equipment identified in the [Technical Survey](technical-survey) should be replaced and tested.
 
 
-### Smartcards activated
+### Activate Smartcards
 
-Smartcards will need to be activated. The new system is configured for staff, roles, names of sites. Who does this varies between the Commissioning Support Unit, Trainers and Practice Managers
+Smartcards will need to be activated. The new system is configured for staff, roles, names of sites. Who does this varies between the Commissioning Support Unit, Trainers and Practice managers.
 
 
 ### Check Registration links
@@ -83,14 +81,14 @@ The Source Supplier should check patient registration links are working in the n
 
 ### Sign off Go Live Data 
 
-After re-checking, if successful and the Practice is happy that all the data has transferred and the migration is successful, the Practice signs off Go Live Data and provides confirmation to the Supplier.  
+After re-checking, if the practice is satisfied that all the data has been transferred and the migration is successful, the practice can sign off Go Live Data and provide confirmation to the Supplier.  
 
 
 ## Go Live
 
-Following the above actions and Sign off of the Go Live Data, the Practice goes live on the new supplier's system. 
+Following the actions described previously and Sign off of the Go Live Data, the practice goes live on the new supplier's system. 
 
-The old system is now read only and available for another 45 days as standard (Check this with your old supplier to ensure that they do not terminate access early)
+The old system is now read only and available for another 45 days as standard - __check this with your old supplier to ensure that they do not terminate access early__.
 
 Third party systems should come back online.
 
@@ -109,9 +107,10 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 
 * Confirm your Go Live date with the Target Supplier again to make sure there is no change in their schedules.  
 
-* Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in paths.  
+* Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
 
 * Fixing some degraded codes and data can take practice weeks or months, due to poor transfer into the new system.
 
-* New Patients cannot complete registration until after the cut-off period so you will need to ask them to come back after Go Live.
+* New patients cannot complete registration until after the cut-off period so you will need to ask them to come back after Go Live.
+
  
