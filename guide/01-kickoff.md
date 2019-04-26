@@ -8,7 +8,7 @@ previouspage: /guide
 breadcrumbparent: /guide
 ---
 
-## What is a ‘Kickoff’
+## What is a ‘Kickoff’?
 
 A ‘Kickoff’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
 
