@@ -131,7 +131,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Links:
 
-* Cut off dates for reg and path links will be sent to you via e-mail. The backlog of pathology results will be sent electronically once you are live
+* Cut off dates for Registration and Pathology links will be sent to you via e-mail. The backlog of pathology results will be sent electronically once you are live on the new system
 
 
 ### Referrals: 
