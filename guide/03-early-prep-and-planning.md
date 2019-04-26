@@ -56,6 +56,17 @@ The Target Supplier will provide a set of test criteria for data checking follow
 The Practice will need to detail the selected patients in a document provided by the Target Supplier. The selected patients will need to be available on the [Initial Data Production day](initial-data-production).
 
 
+### Is a reconciliation needed?
+
+A reconciliation maybe done between Personal Demographics Service (PDS)  through an Additional Service Request (ASR) to force a patient list synchronisation.
+
+{%- capture lesson_learnt_1 -%}
+__Lesson learnt__ The Personal Demographic Service and NHAIS can get out of sync, thus the reconciliation and any outstanding registration for any patient needs to be done before Go Live, otherwise patient information can be lost and it could also cause issues during data migration.
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
+
+
 ## Notification of 3rd parties and links
 
 Refer back to the list created at the Kickoff of all the supporting/connecting systems and community services that the Clinical system or the practice works with, such as
