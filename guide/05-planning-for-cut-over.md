@@ -166,7 +166,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 
 ### Summarisation and routine data entry:  
-* All of this will need to stop as the information will not be transferred to target supplier
+* Any summarisation and routine data entry during the 'cut-over' period will not be transferred to the new system and will need to be re-entered post Go live
 
 
 
