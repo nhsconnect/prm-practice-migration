@@ -1,7 +1,6 @@
 ---
 layout: page_with_sidebar
 permalink: /guide/kick-off
-redirect_from: "/guide/kickoff"
 title: Kick-off
 subtitle: Get everyone on the same page about what needs to happen and when
 nextpage: /guide/technical-survey
