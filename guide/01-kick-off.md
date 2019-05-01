@@ -10,7 +10,8 @@ breadcrumbparent: /guide
 
 ## What is a ‘Kick-off’?
 
-A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
+A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
+
 
 ### As a priority you should discuss...
 
@@ -33,9 +34,9 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 * Practice managers - Including any staff that will play a role in managing/supporting the migration
 
 
-* Target system supplier - The supplier of the clinical system your are moving to
+* Target system supplier - The supplier of the clinical system you are moving to
 
-Note: When Commissioning Support Units (CSUs) are leading the migration, they may invite other roles to the Kick-off such as Business change, Training leads, Data quality etc.
+Note: When Commissioning Support Units (CSUs) are leading the migration, they may invite other personnel to the Kick-off such as Business change, Training leads, Data quality etc.
 
 ## Key milestones, activities, dates and targets
 
@@ -47,9 +48,9 @@ As you go, you may want to create a shared list of actions for each phase, with 
 
 ## Who, roles and responsibilities
 
-As part of the Kick-off, you should discuss who should be involved in the migration and what their roles and responsibilities will be. If people are not present in the Kick-off, think about how you will onboard them and understand their role to play. As you work through your list of roles, capture and consolidate any contact information for individuals. 
+As part of the Kick-off, you should discuss who should be involved in the migration and what their roles and responsibilities will be. If people are not present in the Kick-off, think about how you will onboard them and understand their role. As you work through your list of roles, capture and consolidate any contact information for individuals. 
 
-Here is a list of common people and organisations to get you started.
+Here is a list of common organisations and functions you may wish to engage with and involve in your migration.
 
 * Project manager
 * Practice manager
@@ -95,7 +96,7 @@ Look at your key dates and the people you need
 
 * Are there any planned events or surgeries during this time that you should rearrange?
 
-The aim is to reduce the amount of normal practice activity happening and increase the availability of people to support the migration.
+The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening and increase the availability of people to support the migration.
 
 ###  Secure your dates and people’s time 
 
@@ -129,9 +130,7 @@ Discuss and plan any housekeeping tasks such as…
 
 * The safe closure of old, duplicate, orphaned records or deceased patients which will not migrate to the new system
 
-* Identifying which letter templates will need to be recreated in the new system. Some practices remove any unused letter templates at this point to make it easier to spot the ones that are needed in the new system
-
-* Identifying which data entry templates will need to be recreated in the new system. Some practices remove any unused data entry templates at this point to make it easier to spot the ones that are needed in the new system
+* Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
 
 * Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example pathology and registration;  as you approach the [Initial data production day](/prm-practice-migration/guide/initial-data-production), you will want to have the least amount of tasks outstanding 
 
