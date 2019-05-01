@@ -8,7 +8,7 @@ previouspage: /guide/technical-survey
 breadcrumbparent: /guide
 ---
 
-This is the time to start completing the items discussed in the Kickoff.
+This is the time to start completing the items discussed in the Kick-off.
 
 
 ## Request a data extract from your existing supplier
@@ -69,7 +69,7 @@ __Lesson learnt__ The Personal Demographic Service and NHAIS can get out of sync
 
 ## Notification of 3rd parties and links
 
-Refer back to the list created at the Kickoff of all the supporting/connecting systems and community services that the Clinical system or the practice works with, such as
+Refer back to the list created at the Kick-off of all the supporting/connecting systems and community services that the Clinical system or the practice works with, such as
 
 * Electronic Prescription Service (EPS)
 

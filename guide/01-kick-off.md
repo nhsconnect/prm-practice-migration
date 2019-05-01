@@ -1,16 +1,17 @@
 ---
 layout: page_with_sidebar
-permalink: /guide/kickoff
-title: Kickoff
+permalink: /guide/kick-off
+redirect_from: "/guide/kickoff"
+title: Kick-off
 subtitle: Get everyone on the same page about what needs to happen and when
 nextpage: /guide/technical-survey
 previouspage: /guide
 breadcrumbparent: /guide
 ---
 
-## What is a ‘Kickoff’?
+## What is a ‘Kick-off’?
 
-A ‘Kickoff’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
+A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to get everyone on the same page about what needs to happen and when.
 
 ### As a priority you should discuss...
 
@@ -25,7 +26,7 @@ A ‘Kickoff’ is where you gather all the key people who will be involved in y
 
 * How you will communicate and share information?
 
-### For the Kickoff meeting, you should involve at a minimum...
+### For the Kick-off meeting, you should involve at a minimum...
 
 * The migration Project manager - This may be a representative from your CSU/CCG or in some cases the Practice manager or lead GP
 
@@ -35,7 +36,7 @@ A ‘Kickoff’ is where you gather all the key people who will be involved in y
 
 * Target system supplier - The supplier of the clinical system your are moving to
 
-Note: When Commissioning Support Units (CSUs) are leading the migration, they may invite other roles to the kickoff such as Business change, Training leads, Data quality etc.
+Note: When Commissioning Support Units (CSUs) are leading the migration, they may invite other roles to the Kick-off such as Business change, Training leads, Data quality etc.
 
 ## Key milestones, activities, dates and targets
 
@@ -47,7 +48,7 @@ As you go, you may want to create a shared list of actions for each phase, with 
 
 ## Who, roles and responsibilities
 
-As part of the Kickoff, you should discuss who should be involved in the migration and what their roles and responsibilities will be. If people are not present in the kickoff, think about how you will onboard them and understand their role to play. As you work through your list of roles, capture and consolidate any contact information for individuals. 
+As part of the Kick-off, you should discuss who should be involved in the migration and what their roles and responsibilities will be. If people are not present in the Kick-off, think about how you will onboard them and understand their role to play. As you work through your list of roles, capture and consolidate any contact information for individuals. 
 
 Here is a list of common people and organisations to get you started.
 
@@ -112,9 +113,9 @@ The aim is to reduce the amount of normal practice activity happening and increa
 
 
 
-## Additional topics for your Kickoff
+## Additional topics for your Kick-off
 
-The Kickoff is a good opportunity to also run through the following...
+The Kick-off is a good opportunity to also run through the following...
 
 
 ### Common data issues, housekeeping and clean up tasks
@@ -140,7 +141,7 @@ Now is also a good time to introduce the [Data checking tasks](/prm-practice-mig
 
 ### Technical survey and hardware
 
-If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule the day after the Kickoff) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
+If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule the day after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
 
 
 ### Notification of 3rd parties and links
