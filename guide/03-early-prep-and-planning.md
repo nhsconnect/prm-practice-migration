@@ -39,10 +39,7 @@ Rectifying the data early and before the [Initial Data Production phase](initial
 * The safe closure of old, duplicate, orphaned records or deceased patients which will not migrate to the new system
 
 
-* Identifying which letter templates will need to be recreated in the new system. Some practices remove any unused letter templates at this point to make it easier to spot the ones that are needed in the new system
-
-
-* Identifying which data entry templates will need to be recreated in the new system. Some practices remove any unused data entry templates at this point to make it easier to spot the ones that are needed in the new system
+* Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
 
 
 * Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example pathology and registration; as you approach the Initial Data Production day, you will want to have the least amount of tasks outstanding 
@@ -51,17 +48,17 @@ Rectifying the data early and before the [Initial Data Production phase](initial
 
 ## Data checking preparation
 
-The Target Supplier will provide a set of test criteria for data checking following the [Initial Data Production day](initial-data-production). The Practice will be asked to find a series of patient records that match this criteria (usually up to 20 records) and a selection of random records. Usually, the Target Supplier or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining records unaided.
+The Target Supplier will provide a set of test criteria for data checking following the [Initial Data Production day](initial-data-production). The Practice will be asked to find a series of patient records that match this criteria (usually up to 20 records) and a selection of random records. Usually, the Target Supplier or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
 
-The Practice will need to detail the selected patients in a document provided by the Target Supplier. The selected patients will need to be available on the [Initial Data Production day](initial-data-production).
+The Practice will need to detail the selected patient records in a document provided by the Target Supplier. The list of selected patient records will need to be available on the [Initial Data Production day](initial-data-production).
 
 
 ### Is a reconciliation needed?
 
-A reconciliation maybe done between Personal Demographics Service (PDS)  through an Additional Service Request (ASR) to force a patient list synchronisation.
+A reconciliation may be completed between Personal Demographics Service (PDS) through an Additional Service Request (ASR) to force a patient list synchronisation.
 
 {%- capture lesson_learnt_1 -%}
-__Lesson learnt__ The Personal Demographic Service and NHAIS can get out of sync, thus the reconciliation and any outstanding registration for any patient needs to be done before Go Live, otherwise patient information can be lost and it could also cause issues during data migration.
+__Recommendation__ The Personal Demographic Service and NHAIS can get out of sync, thus the reconciliation and any outstanding registration for any patient needs to be done before Go Live, otherwise patient information can be lost and it could also cause issues during data migration.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
