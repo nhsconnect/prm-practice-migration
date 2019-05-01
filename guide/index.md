@@ -10,26 +10,26 @@ nextpage: /guide/kickoff
 
 This guide aims to help Practices, Delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one core clinical system to another. 
 
-Approaches to migrating can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
+Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
 
 
 ## How long does a migration take?
 
-Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate in the Tracking Database (detailed on this page) to the end of the Post Go Live activity is complete.
+Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate in the [Tracking Database](/prm-practice-migration/guide#register-the-migration-on-the-tracking-database) to the end of the [Post Go Live](/prm-practice-migration/guide/post-go-live) activity is complete.
 
 
 ## Overview of key phases
 
-Migrations take a lot of planning and effort from Practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
+Migrations require a lot of planning and effort from Practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
 
 Here is an overview of the key phases...
 
 
 | Phase                                                    | Estimated timeline |
 |----------------------------------------------------------|--------------------|
-| __[Procurement](#ready-to-get-started)__ <br>Securing funding and the notification / agreement with the Target supplier (New) and the Source Supplier (Old) via the [Tracking Database](#register-the-migration-on-the-tracking-database) | 1 to 2 weeks |
+| __[Procurement](#ready-to-get-started)__ <br>Secure funding and the notification / agreement with the new supplier (Target) and the old supplier (Source) via the [Tracking Database](#register-the-migration-on-the-tracking-database) | 1 to 2 weeks |
 | __[Kickoff](/prm-practice-migration/guide/kickoff)__ <br>Gathering all the key people who will be involved in your migration to discuss the end to end process of migrating your system    | 1 day |
 | __[Technical survey](/prm-practice-migration/guide/technical-survey)__ <br>Checking the existing hardware and software at the Practice for compatibility | 1 day |
 | __[Early preparation and planning](/prm-practice-migration/guide/early-prep-and-planning)__ <br>Critical activities Practices can start doing to get ahead and prepare for the later stages such as cleaning existing data, notifying 3rd Party services and patients | 1 to 2 weeks |
