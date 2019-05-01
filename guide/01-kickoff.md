@@ -1,7 +1,7 @@
 ---
 layout: page_with_sidebar
 permalink: /guide/kick-off
-redirect_from: "/kickoff/"
+redirect_from: "/prm-practice-migration/guide/kick-off"
 title: kick-off
 subtitle: Get everyone on the same page about what needs to happen and when
 nextpage: /guide/technical-survey
