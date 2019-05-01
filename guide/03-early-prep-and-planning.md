@@ -24,14 +24,14 @@ __The request needs to be completed as early as possible__. The Source Suppliers
 
 1. A request is made to the Source Supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the Commissioning Support Unit (CSU) but this may differ by region. 
 2. The Supplier will send a ‘Data extract request form’ (or similar) directly to the Practice as the Practice is the Controller of the data
-3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered (the Initial Data Production day)
+3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered (the Initial data production day)
 4. The Source Supplier liaises with the Target Supplier to transfer the data safely and securely.
 
 ## Clean up the current system data
 
 The Target supplier (providing the new clinical system) or Commissioning Support Unit (CSU) can advise the Practice on any common/known data issues when migrating to the new system (these may vary from system to system). 
 
-Rectifying the data early and before the [Initial Data Production phase](initial-data-production) will reduce the amount of work the Practice needs to complete during later phases.
+Rectifying the data early and before the [Initial data production phase](initial-data-production) will reduce the amount of work the Practice needs to complete during later phases.
 
 
 ### Tasks include...
@@ -42,15 +42,15 @@ Rectifying the data early and before the [Initial Data Production phase](initial
 * Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
 
 
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example pathology and registration; as you approach the Initial Data Production day, you will want to have the least amount of tasks outstanding 
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example pathology and registration; as you approach the Initial data production day, you will want to have the least amount of tasks outstanding 
 
 
 
 ## Data checking preparation
 
-The Target Supplier will provide a set of test criteria for data checking following the [Initial Data Production day](initial-data-production). The Practice will be asked to find a series of patient records that match this criteria (usually up to 20 records) and a selection of random records. Usually, the Target Supplier or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
+The Target Supplier will provide a set of test criteria for data checking following the [Initial data production day](initial-data-production). The Practice will be asked to find a series of patient records that match this criteria (usually up to 20 records) and a selection of random records. Usually, the Target Supplier or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
 
-The Practice will need to detail the selected patient records in a document provided by the Target Supplier. The list of selected patient records will need to be available on the [Initial Data Production day](initial-data-production).
+The Practice will need to detail the selected patient records in a document provided by the Target Supplier. The list of selected patient records will need to be available on the [Initial data production day](initial-data-production).
 
 
 ### Is a reconciliation needed?
