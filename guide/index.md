@@ -3,7 +3,7 @@ layout: page_with_sidebar
 permalink: /guide
 title: Get started
 subtitle: How to start your migration to another clinical system
-nextpage: /guide/kickoff
+nextpage: /guide/kick-off
 ---
 
 ## Introduction
@@ -30,7 +30,7 @@ Here is an overview of the key phases...
 | Phase                                                    | Estimated timeline |
 |----------------------------------------------------------|--------------------|
 | __[Procurement](#ready-to-get-started)__ <br>Secure funding and the notification / agreement with the new supplier (Target) and the old supplier (Source) via the [Tracking Database](#register-the-migration-on-the-tracking-database) | 1 to 2 weeks |
-| __[Kickoff](/prm-practice-migration/guide/kickoff)__ <br>Gathering all the key people who will be involved in your migration to discuss the end to end process of migrating your system    | 1 day |
+| __[Kick-off](/prm-practice-migration/guide/kick-off)__ <br>Gathering all the key people who will be involved in your migration to discuss the end to end process of migrating your system    | 1 day |
 | __[Technical survey](/prm-practice-migration/guide/technical-survey)__ <br>Checking the existing hardware and software at the Practice for compatibility | 1 day |
 | __[Early preparation and planning](/prm-practice-migration/guide/early-prep-and-planning)__ <br>Critical activities Practices can start doing to get ahead and prepare for the later stages such as cleaning existing data, notifying 3rd Party services and patients | 1 to 2 weeks |
 | __[Initial data production (IDP)](/prm-practice-migration/guide/initial-data-production)__ <br>The Initial Data Production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into the new system. The Practice then test the new system to make sure that the Patient data is accurate and the new system is working as expected. | 1 day |
