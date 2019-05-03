@@ -74,9 +74,9 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 
 * Pharmacies
 
-* Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
+* Subsidiary/Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
 
-__Give notice to them of your system change__. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas DocMan may require 5 days. 
+__Give notice to them of your system change__. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another may require 5 days. 
 
 If you use any third party software as part of your clinical system, please be aware that reconfiguration work may be required by them after you have migrated to the new clinical system [Post Go Live](post-go-live).
 

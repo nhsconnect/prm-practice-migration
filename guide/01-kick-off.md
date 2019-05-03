@@ -131,7 +131,7 @@ Discuss and plan any housekeeping tasks such as…
 
 * Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example pathology and registration;  as you approach the [Initial data production day](/prm-practice-migration/guide/initial-data-production), you will want to have the least amount of tasks outstanding 
 
-Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/early-prep-and-planning#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the Target supplier.
+Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the Target supplier.
 
 
 ### Technical survey and hardware
@@ -152,9 +152,9 @@ Make a list of all the supporting/connecting systems and community services that
 * Pharmacies
 
 
-* Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
+* Subsidiary/Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
 
-Next, plan and schedule how you will give notice to them of your system change. The earlier you give notice of your Cut-over and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas DocMan may require 5 days. 
+Next, plan and schedule how you will give notice to them of your system change. The earlier you give notice of your Cut-over and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another service may require 5 days. 
 
 If you use any third party software as part of your clinical system, please be aware that reconfiguration work may be required by them after you have migrated to the new clinical system [Post Go Live](post-go-live).
 
