@@ -7,6 +7,8 @@ nextpage:
 previouspage:
 ---
 
+## Who provides training?
+
 The approach, amount and timing of training widely differs from region to region and can happen throughout the end to end migration process. 
 
 * Some Practices receive training from the Clinical Support Units (CSUs) where they have dedicated trainers
