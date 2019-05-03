@@ -31,5 +31,5 @@ Example:
 
 | Correctly formatting | Incorrect formatting |
 | -------------------- | -------------------- |
-| `/guide/kickoff`     | `/guide/kickoff/`    |
-|                      | `guide/kickoff`      |
+| `/guide/kick-off`     | `/guide/kick-off/`    |
+|                      | `guide/kick-off`      |
