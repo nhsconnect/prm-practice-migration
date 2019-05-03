@@ -14,7 +14,7 @@ This guide aims to help Practices, Delivery partners (e.g. Commissioning Support
 Whilst approaches to migrating can differ by region, this guide contains a collection of common phases and strategies 
 aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
-{%- include button.html title="Get Started" link="/guide" -%}
+{%- include button.html title="Read the guide" link="/guide" -%}
 
 {%- if site.data.home_promo.promo_items -%}
 
