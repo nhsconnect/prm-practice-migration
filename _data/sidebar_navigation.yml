@@ -1,7 +1,9 @@
 sidebar_title: Guide contents
 sidebar_items:
-  - title: Get started
+  - title: Introduction
     url: /guide
+  - title: Get started
+    url: /guide/get-started
   - title: Kick-off
     url: /guide/kick-off
   - title: Technical survey

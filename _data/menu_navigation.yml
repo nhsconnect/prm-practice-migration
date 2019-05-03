@@ -1,7 +1,7 @@
 menu_items:
   - title: Home
     url: /
-  - title: Get started
+  - title: The guide
     url: /guide
   - title: Improve this guide
     url: /improve-this-guide
