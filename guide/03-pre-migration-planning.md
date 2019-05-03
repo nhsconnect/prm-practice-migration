@@ -1,7 +1,7 @@
 ---
 layout: page_with_sidebar
-permalink: /guide/early-prep-and-planning
-title: Early preparation and planning
+permalink: /guide/pre-migration-tasks
+title: Pre-migration tasks
 subtitle: Things to start doing to get ahead
 nextpage: /guide/initial-data-production
 previouspage: /guide/technical-survey
@@ -36,7 +36,7 @@ Rectifying the data early and before the [Initial data production phase](initial
 
 ### Tasks include...
 
-* The safe closure of old, duplicate, orphaned records or deceased patients which will not migrate to the new system
+* The appropriate management of duplicate, orphaned records or deceased patients which will not migrate to the new system
 
 
 * Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system

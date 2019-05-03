@@ -3,7 +3,7 @@ layout: page_with_sidebar
 permalink: /guide/technical-survey
 title: Technical survey
 subtitle: Checking the existing hardware and software at the Practice for compatibility
-nextpage: /guide/early-prep-and-planning
+nextpage: /guide/pre-migration-tasks
 previouspage: /guide/kick-off
 breadcrumbparent: /guide
 ---

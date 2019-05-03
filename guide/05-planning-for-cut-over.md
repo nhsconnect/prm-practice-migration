@@ -54,7 +54,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ## General preparation
 
-* Notify all the 3rd parties and services to switch off links/communications the day prior to final data production day. As highlighted in the [Kick-off](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and [Early preparation and planning](/prm-practice-migration/guide/early-prep-and-planning#notification-of-3rd-parties-and-links) stages
+* Notify all the 3rd parties and services to switch off links/communications the day prior to final data production day. As highlighted in the [Kick-off](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and [Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links) stages
 
 * Notify Subsidiary Suppliers at least 5 days in advance of the start of the cutover, to provide their own data extract if needed, for example DocMan or Apollo Scan for document scanning and management
 

@@ -8,8 +8,8 @@ sidebar_items:
     url: /guide/kick-off
   - title: Technical survey
     url: /guide/technical-survey
-  - title: Early preparation and planning
-    url: /guide/early-prep-and-planning
+  - title: Pre-migration tasks
+    url: /guide/pre-migration-tasks
   - title: Initial data production
     url: /guide/initial-data-production
   - title: Planning for the cut-over

@@ -125,7 +125,7 @@ If you have access to a Data Quality team (possibly part of your Commissioning S
 
 Discuss and plan any housekeeping tasks such as…
 
-* The safe closure of old, duplicate, orphaned records or deceased patients which will not migrate to the new system
+* The appropriate management of duplicate, orphaned records or deceased patients which will not migrate to the new system
 
 * Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
 
