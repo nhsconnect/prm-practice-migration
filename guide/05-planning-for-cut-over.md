@@ -92,6 +92,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 
   -- Some practices choose to copy and paste notes from the old system to the new
+  
   -- Some practices choose to retype the notes from the printouts
 
 
