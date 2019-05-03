@@ -4,7 +4,7 @@ permalink: /guide/kick-off
 title: Kick-off
 subtitle: Get everyone on the same page about what needs to happen and when
 nextpage: /guide/technical-survey
-previouspage: /guide
+previouspage: /guide/get-started
 breadcrumbparent: /guide
 ---
 
@@ -102,12 +102,9 @@ The aim is to ensure a successful migration and limit the impact on the practice
 
 * Block time for your key dates
 
+* Encourage staff to keep these dates free and if possible avoid booking holidays on these dates
 
-* Prevent new holidays being booked on these dates
-
-
-* Prevent any events or clinical reviews from being planned at this time e.g. Asthma reviews
-
+* If possible, and alternative dates are available, avoid planning any events or clinical reviews at this time that may increase the workload of the practice e.g. Asthma reviews
 
 * Pre-book rooms for training / testing and any other migration activity
 
@@ -139,7 +136,7 @@ Now is also a good time to introduce the [Data checking tasks](/prm-practice-mig
 
 ### Technical survey and hardware
 
-If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule the day after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
+If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
 
 
 ### Notification of 3rd parties and links
