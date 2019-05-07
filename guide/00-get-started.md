@@ -71,13 +71,13 @@ __Lesson learnt__ - If the _Schedule A_ to decommission the source supplier’s 
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
 
-__Important__ - At this point, you should think about submitting a [formal data extract request to the Source Supplier](/prm-practice-migration/guide/early-prep-and-planning#request-a-data-extract-from-your-existing-supplier) to avoid any delays to your migration.
+__Important__ - At this point, you should think about submitting a [formal data extract request to the Source Supplier](/prm-practice-migration/guide/pre-migration-tasks#request-a-data-extract-from-your-existing-supplier) to avoid any delays to your migration.
 
 The Source Suppliers have varying lead times/notice periods to provide this data upon request (for example, a supplier may require up to 5 weeks notice). 
 
 
 {%- capture lesson_learnt_4 -%}
-__Lesson learnt__ - __Any delays to [requesting the data extract](/prm-practice-migration/guide/early-prep-and-planning#request-a-data-extract-from-your-existing-supplier) may impact the migration timeline__ if it’s not sent well in advance of the [initial data production day](/prm-practice-migration/guide/initial-data-production).
+__Lesson learnt__ - __Any delays to [requesting the data extract](/prm-practice-migration/guide/pre-migration-tasks#request-a-data-extract-from-your-existing-supplier) may impact the migration timeline__ if it’s not sent well in advance of the [initial data production day](/prm-practice-migration/guide/initial-data-production).
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_4 accessibility_text="Lesson learnt" markdown=true -%}
