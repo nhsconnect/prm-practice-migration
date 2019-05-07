@@ -11,7 +11,7 @@ breadcrumbparent: /guide
 This is the time to start completing the items discussed in the Kick-off.
 
 
-## Request a data extract from your existing supplier
+## Request a data extract from your existing supplier {#request-data-extract}
 
 Ahead of the [Initial data production phase](initial-data-production), a formal data extract request needs to be sent to the Source Supplier (Existing/old supplier of the GP Core System) using the steps detailed below. This is a formal notification from the data owner (the practice) to the supplier for them to provide the current data stored in the current clinical system.
 
@@ -46,7 +46,7 @@ Rectifying the data early and before the [Initial data production phase](initial
 
 
 
-## Data checking preparation
+## Data checking preparation {#data-checking-prep}
 
 The Target Supplier will provide a set of test criteria for data checking following the [Initial data production day](initial-data-production). The Practice will be asked to find a series of patient records that match this criteria (usually up to 20 records) and a selection of random records. Usually, the Target Supplier or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
 

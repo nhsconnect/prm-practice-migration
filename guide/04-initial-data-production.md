@@ -25,8 +25,8 @@ The initial data production is the point at which a copy of the existing clinica
 
 The following activities should have been completed in advance…
 
-* The data extract has been requested from the existing supplier in advance (see previous phase)
-* The practice has identified the patient records matching criteria provided by the Target Supplier for testing (see previous phase)
+* The data extract has been requested from the existing supplier in advance ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract))
+* The practice has identified the patient records matching criteria provided by the Target Supplier for testing ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep))
 * Rooms have been booked for initial data production meetings, training and data checking activities
 
 
