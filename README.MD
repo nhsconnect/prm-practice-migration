@@ -33,3 +33,19 @@ Example:
 | -------------------- | -------------------- |
 | `/guide/kick-off`     | `/guide/kick-off/`    |
 |                      | `guide/kick-off`      |
+
+
+### Linking to a particular section within the guide
+There is often a need to link to a particular section of the guide, this may be to a point half way down on a long page. To do this you can use bookmarks. Every Heading you create will auto generate a bookmark that you can link to
+
+For example, if you have a heading such as:
+
+```### Notification of 3rd parties and links```
+
+Will auto generate a heading with an ID as follows:
+
+```<h2 id="notification-of-3rd-parties-and-links">Notification of 3rd parties and links</h2>```
+
+You can also define a custom ID to guarrantee the integrity of any links should the heading copy be changed. You do this using the following syntax
+
+```### Notification of 3rd parties and links  {#notify-3rd-parties}```
