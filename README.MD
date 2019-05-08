@@ -49,3 +49,7 @@ Will auto generate a heading with an ID as follows:
 You can also define a custom ID to guarrantee the integrity of any links should the heading copy be changed. You do this using the following syntax
 
 ```### Notification of 3rd parties and links  {#notify-3rd-parties}```
+
+Which will auto generate a heading with an ID as follows:
+
+```<h2 id="#notify-3rd-parties">Notification of 3rd parties and links</h2>```
