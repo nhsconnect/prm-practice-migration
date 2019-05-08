@@ -83,7 +83,7 @@ Alongside checking the identified patient records, the practice will be asked to
 The data checking is a manual process; in most circumstances the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing system and the other displaying the new system. Staff will cross reference the two to check their consistency.
 
 
-### Reporting issues with data
+### Reporting issues with data {#reporting-issues-with-data}
 
 We recommend that issues are logged and reported to the Target Supplier as soon as they are found.
 
@@ -96,6 +96,6 @@ The Target Supplier will notify the practice when the issues have been fixed and
 For quality assurance we recommend that the practice recheck all identified records, not just the ones with issues.
 
 
-## Signing off the data checking
+## Signing off the data checking {#signing-off-the-data-checking}
 
 Once all issues have been addressed and all data checking tasks have been rechecked, the practice will be asked to ‘Sign off’ that the data is accurate and the practice is satisfied with the quality of the data.

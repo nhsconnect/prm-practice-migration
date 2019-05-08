@@ -11,7 +11,7 @@ breadcrumbparent: /guide
 By now you will have completed the Go-Live steps and the practice staff are now using the new clinical system and all data entered from now on will be maintained.
 
 
-## Switch links back on and notify 3rd parties
+## Switch links back on and notify 3rd parties {#switch-on-links}
 
 Now your new system is up and running you can contact all the connecting systems and community services that the Clinical system or the Practice works with, to switch services back on, for example:
 

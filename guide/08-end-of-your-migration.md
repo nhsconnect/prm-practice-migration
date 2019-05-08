@@ -20,7 +20,7 @@ Practices sometimes require an extension to the 45 days, this should be agreed w
 
 
 
-## Update the tracking database
+## Update the tracking database {#update-the-tracking-database}
 
 After the Practice has migrated, the [Tracking database](https://digital.nhs.uk/services/tracking-database) should be updated with the date of which deployment occurred. 
 
