@@ -62,7 +62,7 @@ Here is a list of common organisations and functions you may wish to engage with
 * Clinical Commissioning Group (CCG)
 * Target supplier - The new supplier of the GP Core System
 * Source supplier - Existing/old supplier of the GP Core System
-* Surrounding and community services - Pharmacies, Prescriptions, Test labs etc 
+* Surrounding and community services - Pharmacies, Prescriptions, Test labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr) etc 
 * Third party system suppliers, for example DocMan
 
 
@@ -143,13 +143,25 @@ If the Practice is not already aware, the [Technical survey](/prm-practice-migra
 
 Make a list of all the supporting/connecting systems and community services that the Clinical system or the Practice works with, for example...
 
-* Electronic Prescription Service (EPS)
+* [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
+
+
+* [GP2GP](https://digital.nhs.uk/services/gp2gp)
+
+
+* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
 
 
 * Pathology and test labs
 
 
 * Pharmacies
+
+
+* Hospital letters
+
+
+* [Primary Care Support England](https://pcse.england.nhs.uk/)
 
 
 * Subsidiary/Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management

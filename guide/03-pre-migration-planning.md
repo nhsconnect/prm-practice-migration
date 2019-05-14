@@ -68,11 +68,26 @@ __Recommendation__ The Personal Demographic Service and NHAIS can get out of syn
 
 Refer back to the list created at the Kick-off of all the supporting/connecting systems and community services that the Clinical system or the practice works with, such as
 
-* Electronic Prescription Service (EPS)
+* [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
+
+
+* [GP2GP](https://digital.nhs.uk/services/gp2gp)
+
+
+* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
+
 
 * Pathology and test labs
 
+
 * Pharmacies
+
+
+* Hospital letters
+
+
+* [Primary Care Support England](https://pcse.england.nhs.uk/)
+
 
 * Subsidiary/Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
 
