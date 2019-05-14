@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/initial-data-production
 title: Initial data production
-subtitle: Testing the data quality in the new system 
+subtitle: Testing the data quality in a test system 
 nextpage: /guide/planning-for-cut-over
 previouspage: /guide/pre-migration-tasks
 breadcrumbparent: /guide
@@ -10,14 +10,14 @@ breadcrumbparent: /guide
 
 ## What is it and purpose
 
-The initial data production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into the new system. The practice then test the new system to make sure that the patient data is accurate and the new system is working as expected. 
+The initial data production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into a test system. The Practice perform data checking tasks in the test system to make sure that the imported Patient data matches how it was when it was taken from the existing system and the test system is working as expected.
 
 
 ## Who is involved?
 
 * The Source Supplier  - who provide the data extract from the existing system
-* The Target Supplier - who visit the practice and import the data into the new system
-* The practice staff - who test the data and new system
+* The Target Supplier - who visit the practice and import the data into a test system
+* The practice staff - who test the data and in the test system
 * The Delivery Partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)
 
 
@@ -80,7 +80,7 @@ The majority of testing will be focused on the identified patient records matchi
 
 Alongside checking the identified patient records, the practice will be asked to check and compare reports such as QOF reports and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
 
-The data checking is a manual process; in most circumstances the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing system and the other displaying the new system. Staff will cross reference the two to check their consistency.
+The data checking is a manual process; in most circumstances the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing system and the other displaying the test version of the new system. Staff will cross reference the two to check their consistency.
 
 
 ### Reporting issues with data {#reporting-issues-with-data}
