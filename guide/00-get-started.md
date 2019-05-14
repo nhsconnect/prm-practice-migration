@@ -7,7 +7,7 @@ previouspage: /guide
 nextpage: /guide/kick-off
 ---
 
-## Decision to migrate and funding
+## The decision to migrate and funding {#decision-to-migrate-and-funding}
 
 This guide offers guidance from the point at which the practice and Clinical Commissioning Group (CCG) have agreed to migrate to a new clinical System and are ready to start the migration process. 
 
