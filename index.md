@@ -16,12 +16,6 @@ aimed at reducing the impact to Practice staff and minimising the amount of manu
 
 {%- include button.html title="Read the guide" link="/guide" -%}
 
-{%- if site.data.home_promo.promo_items -%}
-
-    {%- include promos/promo.html size="third" promo_content=site.data.home_promo.promo_items -%}
-
-{%- endif -%}
-
 
 ## Help us improve this guide
 
