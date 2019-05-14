@@ -47,7 +47,7 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 
 
-### Dictionary of Medication and Devices mapping
+### Dictionary of Medication and Devices mapping {#dictionary-of-medication-and-devices-mapping}
 
 Dictionary of Medication and Devices (DM&D) mapping needs to be done for the Electronic Prescription Service (EPS) during the cut-over
 
