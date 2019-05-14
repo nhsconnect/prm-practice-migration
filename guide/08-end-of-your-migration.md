@@ -10,7 +10,8 @@ breadcrumbparent: /guide
 
 The migration will end at the point at which all data has been re-entered, practice staff are trained and are comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice.
 
-## The ‘run-off period’
+
+## The ‘run-off period’ {#the-run-off-period}
 
 The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period is usually 45 days however, this should be agreed with the suppliers 
 
