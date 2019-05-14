@@ -8,7 +8,7 @@ previouspage: /guide/kick-off
 breadcrumbparent: /guide
 ---
 
-Following your Kick-off meeting an engineer will need to complete a Technical Survey on site at the practice. 
+Following your Kick-off meeting, an engineer will need to complete a Technical Survey on site at the practice. 
 
 
 
@@ -16,9 +16,9 @@ Following your Kick-off meeting an engineer will need to complete a Technical Su
 
 The survey is to check the existing practice setup, focused mainly on the following three areas...
 
-* __Hardware__ – All Hardware, such as client PCs, servers, arrivals kiosk, call display etc. should be checked to ensure that they meet the required minimum specification for running the Target System. For dispensing practices, scanner and label printer compatibility also needs to be checked.
+* __Hardware__ – All Hardware, such as client PCs, servers, arrivals kiosk, call display etc. should be checked to ensure that they meet the required minimum specification for running the Target System. For dispensing practices, scanner and label printer compatibility also need to be checked.
 * __Network__ – Any existing network issues that may require addressing and may require extra chargeable engineering services, post go live, 
-* __3rd party application/software compatibility__ - Applications that the Practice may use that are not part of the existing/old core Clinical system, but may be connecting to it, for example DocMan or Apollo Scan for document scanning and management
+* __3rd party application/software compatibility__ - Applications that the Practice may use that are not part of the existing/old core Clinical system but may be connecting to it. For example, DocMan or Apollo Scan for document scanning and management
 
 
 
@@ -32,7 +32,7 @@ Make sure to check to see who will complete this activity.
 
 
 
-## Outcome of the Technical Survey
+## The outcome of the Technical Survey {#outcome-of-the-technical-survey}
 
 The Technical survey may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. Any additional costs should be discussed with the Clinical Commissioning Group (CCG).
 
