@@ -13,12 +13,12 @@ breadcrumbparent: /guide
 A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
 
 
-### As a priority you should discuss...
+### As a priority, you should discuss...
 
 * The key milestones and week by week activities
 
 
-* Agree dates and targets for the above milestones and activities
+* Agree on dates and targets for the above milestones and activities
 
 
 * Who will be involved in the migration and what are their roles and responsibilities?
@@ -40,7 +40,7 @@ Note: When Commissioning Support Units (CSUs) are leading the migration, they ma
 
 ## Key milestones, activities, dates and targets
 
-By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key are activities within them.
+By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them.
 
 As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
 
@@ -63,7 +63,7 @@ Here is a list of common organisations and functions you may wish to engage with
 * Target supplier - The new supplier of the GP Core System
 * Source supplier - Existing/old supplier of the GP Core System
 * Surrounding and community services - Pharmacies, Prescriptions, Test labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr) etc 
-* Third party system suppliers, for example DocMan
+* Third party system suppliers, for example, DocMan or Apollo Scan
 
 
 
@@ -106,7 +106,7 @@ The aim is to ensure a successful migration and limit the impact on the practice
 
 * If possible, and alternative dates are available, avoid planning any events or clinical reviews at this time that may increase the workload of the practice e.g. Asthma reviews
 
-* Pre-book rooms for training / testing and any other migration activity
+* Pre-book rooms for training, testing and any other migration activity
 
 
 
@@ -115,7 +115,7 @@ The aim is to ensure a successful migration and limit the impact on the practice
 The Kick-off is a good opportunity to also run through the following...
 
 
-### Common data issues, housekeeping and clean up tasks
+### Common data issues, housekeeping and clean-up tasks
 
 Ask the Target supplier or Commissioning Support Unit (CSU) to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
 
@@ -129,7 +129,7 @@ Discuss and plan any housekeeping tasks such as…
 
 * Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
 
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example pathology and registration;  as you approach the [Initial data production day](/prm-practice-migration/guide/initial-data-production), you will want to have the least amount of tasks outstanding 
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Initial data production day](/prm-practice-migration/guide/initial-data-production), you will want to have the least amount of tasks outstanding 
 
 Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the Target supplier.
 
@@ -164,7 +164,7 @@ Make a list of all the supporting/connecting systems and community services that
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
 
 
-* Subsidiary/Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
+* Subsidiary/Third party software/system suppliers, for example, DocMan or Apollo Scan for document scanning and management
 
 Next, plan and schedule how you will give notice to them of your system change. The earlier you give notice of your Cut-over and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another service may require 5 days. 
 
@@ -174,12 +174,14 @@ Add a task to your plan to contact and remind each party the week before and on 
 
 ### Notification of Patients
 
-During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service system (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters many weeks in advance to create awareness. You may also want to discuss what online messaging is put in place when the service is removed e.g. what happens if a patient tries to access the online service when it ceases to be available. You may want to add this as a topic on the practice patient forum.
+During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service system (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters for many weeks in advance to create awareness. 
+
+You may also want to discuss what online messaging is put in place when the service is removed e.g. what happens if a patient tries to access the online service when it ceases to be available. You may want to add this as a topic on the practice patient forum.
 
 
 ### Make staff aware of the coming changes
 
-Are the practice staff (and any people who work remotely) aware of the change? Think about what questions they may have and how you plan to answer them.
+Are the practice staff (and anyone who works remotely) aware of the change? Think about what questions they may have and how you plan to answer them.
 
 
 ### Training
