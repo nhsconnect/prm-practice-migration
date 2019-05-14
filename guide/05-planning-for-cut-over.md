@@ -126,7 +126,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 * To reduce the amount of effort re-entering prescription data, some practices choose to:  
 
 
-  -- Issue two prescriptions (either posted dated or amendment to quantity) from the month before the ‘cut-over’ begins until a week after Go-Live
+  -- Issue two prescriptions (either post-dated or by amending the quantity) from the month before the ‘cut-over’ begins until a week after Go-Live. Note: Do not post-date prescriptions sent via Electronic Prescription Service (EPS)
 
 
   -- For Electronic Prescription Service (EPS) repeat prescriptions, practices can revert back to issuing FP10 forms from the month before the ‘cut-over’ begins until a week after Go-Live. Changing the option from EPS to FP10 forms needs to happen on an individual patient basis. This can be done at the point of ordering all medications
