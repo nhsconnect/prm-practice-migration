@@ -10,23 +10,12 @@ breadcrumbparent: /guide
 
 ## What is the cut-over?
 
-The ‘cut-over’ is the transition from the old to the new system. 
+‘Cut-over’ is the period between final data production from the existing system and the golive in the new system. 
 
-### The cut-over begins when…
 
-* The new system is accessible to the practice, although it may not contain the data
+### During the cut-over
 
 * Data entered into the old system will no longer be carried across into the new system (note: practices may still enter data but it will not be migrated).
-
-### The cut-over ends when…
-
-* The data has been imported into the new system and tested
-
-* The practice starts to use the new system as the primary system
-
-### During the cut-over, the key activities are…
-
-* Source Supplier will export the data and provide it to the Target Supplier. 
 
 
 * The Target supplier will import the data into the new system
@@ -37,12 +26,6 @@ The ‘cut-over’ is the transition from the old to the new system.
 
 * The practice will record any new data for manual re-entry after Go Live and when the cutover ends
 
-
-{%- capture lesson_learnt_1 -%}
-**During the ‘cut-over’, any data that is entered into the old system will not automatically transfer to your target supplier’s system**. Hence, it is important to plan for it ahead of time, usually a few weeks prior to your ‘cut-over’ date.
-{%- endcapture -%}
-
-{%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 
 
 ## Planning for the cut-over
@@ -76,17 +59,15 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Appointments:  
 
-* Switch to emergency only appointments or reduce the number of pre-booked appointments during the cut-over period and the Post Go Live week(s) - this is to ease the pressure on the staff but also to reduce the number of appointments that you will need to re-enter in Post Go Live
+
+* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the target supplier’s system. Ensure that these slots are placed in the existing system rotas to enable transfer to the new system
 
 
-* Schedule less slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the target supplier’s system
+* Build rotas on the test system before the cut-over. Don't put the rotas onto the existing system for further in advance than two weeks post go live with the new system as all booked appointments will need to be manually transferred
 
 
-* Build rotas on the Deployment system before the cut-over 
+* If possible reschedule data rich chronic disease clinics so that these are not taking place during the cutover period. 
 
-
-* Avoid holding any special clinics such as Asthma Reviews in the week before, during and initial weeks after cut-over to again reduce pressure and re-entry
-* When you do have to book appointments you can book them in the old system, print it out and then keep a copy of it for re-entry after the ‘cut-over’. 
 
 
 ### Consultations: 
@@ -137,7 +118,9 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Links:
 
-* Cut off dates for Registration and Pathology links will be sent to you via e-mail. The backlog of pathology results will be sent electronically once you are live on the new system
+* Recommended cut off periods for Registration and Pathology links will have been advised by the new system supplier, ensure that you know who will be notifying the services. 
+
+* The backlog of pathology results should be sent electronically once you are live on the new system but you will need to confirm with your local provider. 
 
 
 ### Referrals: 
@@ -158,7 +141,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 * Ask the service to stop sending messages from two days before cut-over starts until after go-live
 
 
-### 111 messages/Incoming clinical correspondence: {#111-messages}
+### 111 messages/Incoming clinical correspondence:  {#one-one-one-messages}
 
 * Leave all the messages received during the cut-over period in the generic mailbox as they can be picked up from there and dropped into the target system once you are live
 

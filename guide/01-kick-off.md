@@ -26,6 +26,7 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 
 * How you will communicate and share information?
 
+
 ### For the Kick-off meeting, you should involve at a minimum...
 
 * The migration Project manager - This may be a representative from your CSU/CCG or in some cases the Practice manager or lead GP
@@ -60,10 +61,10 @@ Here is a list of common organisations and functions you may wish to engage with
 * Commissioning Support Unit (CSU)
 * Explore with your CSU the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * Clinical Commissioning Group (CCG)
-* Target supplier - The new supplier of the GP Core System
-* Source supplier - Existing/old supplier of the GP Core System
-* Surrounding and community services - Pharmacies, Prescriptions, Test labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr) etc 
-* Third party system suppliers, for example, DocMan or Apollo Scan
+* Target supplier - The new supplier of the GP clinical system
+* Source supplier - Existing supplier of the GP clinical system
+* Surrounding and community services - Pharmacies, Pathology labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr), Out of hours, 111 and any screening services etc 
+* Any third party system supplier that integrates with your core clinical system, for example, DocMan or Apollo Scan, DispensIT
 
 
 
@@ -96,7 +97,7 @@ Look at your key dates and the people you need
 
 * Are there any planned events or surgeries during this time that you should rearrange?
 
-The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening and increase the availability of people to support the migration.
+The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [cutover period](/guide/cut-over) (and 2 days after Go Live) and increase the availability of people to support the migration.
 
 ###  Secure your dates and people’s time 
 
@@ -125,11 +126,11 @@ If you have access to a Data Quality team (possibly part of your Commissioning S
 
 Discuss and plan any housekeeping tasks such as…
 
-* The appropriate management of duplicate, orphaned records or deceased patients which will not migrate to the new system
+* The appropriate management of duplicate and orphaned records which will not migrate to the new system
 
-* Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
+* Complete a review of letter and data entry templates to identifty those that will need to be re-entered into the new system. Note; letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need in the new system
 
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Initial data production day](/prm-practice-migration/guide/initial-data-production), you will want to have the least amount of tasks outstanding 
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have the least amount of tasks outstanding 
 
 Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the Target supplier.
 
@@ -137,6 +138,10 @@ Now is also a good time to introduce the [Data checking tasks](/prm-practice-mig
 ### Technical survey and hardware
 
 If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
+
+Compile a list of third party software that integrates with the current GP clinical system.
+
+Please note that it is the responsibility of the Practice to ensure that thay have contacted the third party software supplier to check if the software is compatible with the new system and agree any actions required for implementation.
 
 
 ### Notification of 3rd parties and links
@@ -152,13 +157,11 @@ Make a list of all the supporting/connecting systems and community services that
 * [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
 
 
-* Pathology and test labs
+* Pathology labs and any other services or providers that send information and results automatically to the exitsting system. For example, Bowel screening, Hospital letters, 111, Out of hours
 
 
 * Pharmacies
 
-
-* Hospital letters
 
 
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
@@ -178,6 +181,8 @@ During the migration, you may need to remove access to online services such as t
 
 You may also want to discuss what online messaging is put in place when the service is removed e.g. what happens if a patient tries to access the online service when it ceases to be available. You may want to add this as a topic on the practice patient forum.
 
+Remember to make any necessary changes to your Practice website. For example, Online Access Links.
+
 
 ### Make staff aware of the coming changes
 
@@ -186,4 +191,4 @@ Are the practice staff (and anyone who works remotely) aware of the change? Thin
 
 ### Training
 
-We recommend you discuss how you will approach training at a high level. [Read more about training](training).
+We recommend you find out who will deliver training and make contact with the relevant team to discuss delivery. [Read more about training](training).

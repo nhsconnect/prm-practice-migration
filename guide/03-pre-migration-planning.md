@@ -13,19 +13,19 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your existing supplier {#request-data-extract}
 
-Ahead of the [Initial data production phase](initial-data-production), a formal data extract request needs to be sent to the Source Supplier (Existing/old supplier of the GP Core System) using the steps detailed below. This is a formal notification from the data owner (the practice) to the supplier for them to provide the current data stored in the current clinical system.
+Ahead of the [Initial data production phase](initial-data-production), a formal data extract request needs to be sent to the Source Supplier (Existing/old supplier of the GP Core System) using the steps detailed below. This is a formal notification from the practice to the supplier for them to provide the current data stored in the current clinical system.
 
 This will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
-__The request needs to be completed as early as possible__. The Source Suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__ if it’s not sent prior to the [Initial data production day](initial-data-production).
+__The request needs to be completed as early as possible__. The Source Suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
 
 ### Steps to requesting the Data extract
 
 1. A request is made to the Source Supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the Commissioning Support Unit (CSU) but this may differ by region. 
-2. The Supplier will send a ‘Data extract request form’ (or similar) directly to the Practice as the Practice is the Controller of the data
-3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered (the Initial data production day)
-4. The Source Supplier liaises with the Target Supplier to transfer the data safely and securely.
+2. The Supplier will send a ‘Data extract request form’ (or similar) directly to the Practice 
+3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered as advised by the new supplier
+4. The Source Supplier will ensure that the data is transferred to the Target Supplier safely and securely.
 
 ## Clean up the current system data
 
@@ -36,7 +36,7 @@ Rectifying the data early and before the [Initial data production phase](initial
 
 ### Tasks include...
 
-* The appropriate management of duplicate, orphaned records or deceased patients which will not migrate to the new system
+* The appropriate management of duplicate and orphaned records which will not migrate to the new system
 
 
 * Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system

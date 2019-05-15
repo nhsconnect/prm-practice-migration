@@ -16,18 +16,10 @@ The initial data production is the point at which a copy of the existing clinica
 ## Who is involved?
 
 * The Source Supplier  - who provide the data extract from the existing system
-* The Target Supplier - who visit the practice and import the data into a test system
+* The Target Supplier - who import the data into a test system and visit the practice help them prepare for the data checking phase
 * The practice staff - who test the data and in the test system
 * The Delivery Partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)
 
-
-## Preparation
-
-The following activities should have been completed in advance…
-
-* The data extract has been requested from the existing supplier in advance ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract))
-* The practice has identified the patient records matching criteria provided by the Target Supplier for testing ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep))
-* Rooms have been booked for initial data production meetings, training and data checking activities
 
 
 ## Setup access to the new system
@@ -45,6 +37,16 @@ __Lesson learnt__ - try to make sure that more than one member of staff attend t
 
 ## Data checking
 
+### Preparation
+
+The following activities should have been completed in advance…
+
+* The data extract has been requested from the existing supplier in advance ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract))
+* The practice has identified the patient records matching criteria provided by the Target Supplier for testing ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep))
+* Rooms have been booked for initial data production meetings, training and data checking activities
+
+### Data checking phases
+
 Data checking generally happens in 2-3 phases:
 
 1. Initial data checking and reporting of any issues
@@ -58,15 +60,17 @@ All parties should agree on a timeline and target date for when the data checkin
 
 We advise you to plan for between 3-5 days for each data checking phase. However, the rechecking phases may not take as long as the initial data checking.
 
+Clinical input will be required and the level of input may vary per practice. Please bear in mind that the Lead clinician will be responsible for signing off the data checking phase.
+
 The Target Supplier should assist the practice on the first day of Phase 1 Initial data checking. 
 
 {%- capture lesson_learnt_2 -%}
-__Lesson learnt__ - Try to block out time and dedicated staff to complete the data checking activity. If you have the ability, arrange cover for the staff to complete the daily running of the practice. Practices may not have dedicated time and people to do data checking causing additional strain on staff and risking a delay to the migration.{%- endcapture -%}
+__Lesson learnt__ - You will need to block out time and dedicated staff to complete the data checking activity as any delays in completing this phase will impact the Go Live date.{%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
 {%- capture lesson_learnt_3 -%}
-__Lesson learnt__ - If possible, try to arrange access to additional support from the Target Supplier or the Commissioning Support Unit (CSU) for all the initial data checking days. This is the period whereby staff are learning the new system for the first time and may have lots of questions that need answering. If not answered quickly, these questions or uncertainty could block or delay the data checking phase.
+__Lesson learnt__ - If possible, try to arrange access to additional support from the Target Supplier or the GP IT Delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
@@ -74,13 +78,13 @@ __Lesson learnt__ - If possible, try to arrange access to additional support fro
 
 ## What to test
 
-The Target Supplier or Delivery partner (Such as a Commissioning Support Unit) should provide a complete list of data checking activities.
+The Target Supplier should provide a complete list of data checking activities.
 
 The majority of testing will be focused on the identified patient records matching the criteria supplied by the Target Supplier along with the random patients.
 
 Alongside checking the identified patient records, the practice will be asked to check and compare reports such as QOF reports and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
 
-The data checking is a manual process; in most circumstances, the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing system and the other displaying the test version of the new system. Staff will cross-reference the two to check their consistency.
+The data checking is a manual process; ideally, the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing system and the other displaying the test version of the new system. Staff will cross-reference the two to check their consistency.
 
 
 ### Reporting issues with data {#reporting-issues-with-data}
@@ -92,8 +96,6 @@ Each Target Supplier will have a set method of how they would like the issues to
 At the end of each data checking phase, there will be a period whereby the Target Supplier will review and address the issues found, this may vary depending on the complexity of the issues reported.
 
 The Target Supplier will notify the practice when the issues have been fixed and the practice will then need to check the issue.
-
-For quality assurance, we recommend that the practice recheck all identified records, not just the ones with issues.
 
 
 ## Signing off the data checking {#signing-off-the-data-checking}
