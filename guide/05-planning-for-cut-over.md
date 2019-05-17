@@ -39,9 +39,9 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 * Notify all the 3rd parties and services to switch off links/communications 1-2 days prior to final data production day. As highlighted in the [Kick-off](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and [Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links) stages
 
-* You may also need to migrate data from Subsidiary Suppliers, for example DocMan or Apollo Scan for document scanning and management, if you are changing these subsidiary systems as part of your Core Clinical System migration.
+* You may also need to migrate data from Subsidiary Suppliers, for example DocMan or Apollo Scan for document scanning and management, if you are changing these subsidiary systems as part of your principal clinical system migration.
 
-   -- The data extract from a Subsidiary Supplier to be completed at the same point in time as any data extract is completed for your existing Core Clinical System
+   -- The data extract from a Subsidiary Supplier to be completed at the same point in time as any data extract is completed for your existing principal clinical system
 
    -- This applies to both the Initial data extract and the Final data extract
 

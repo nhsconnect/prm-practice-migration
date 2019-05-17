@@ -9,17 +9,24 @@ nextpage: /guide/kick-off
 
 ## The decision to migrate and funding {#decision-to-migrate-and-funding}
 
-This guide offers guidance from the point at which the practice and Clinical Commissioning Group (CCG) have agreed to migrate to a new clinical System and are ready to start the migration process. 
+This guide offers guidance fromthe point at which the Clinical Commissioning Group (CCG) has approved the practice’s request to change their principal clinical system and are ready to start the migration process. 
+
+Note: This is subject to the conditions described in the [CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
 
 Prior to this, there are a number of steps that will have been completed such as:
 
-* Practice completes a business case for the migration and provides evidence of the research & considerations that have been made
+* Practice completes a GPSoC business case justification template for the migration and provides evidence of the drivers, practice considerations and strategic fit.
+
 
 * Clinical Commissioning Group (CCG) and any local boards approve the business case and secure funding. 
 
   -- _Note: there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware_
 
-* Practice and Clinical Commissioning Group (CCG) agree the support model and engage with a delivery partner (such as a Commissioning Support Unit)
+
+* Practice and Clinical Commissioning Group (CCG) agree the support model and engage with a  GP IT delivery partner (such as a Commissioning Support Unit)
+
+
+the support model should already be in place (accepting that we know that is not the case at the moment) as a project and change management service, including end to end project management supporting change of foundation (principal) solution is one of the GPIT Enabling Requirements which under the revised v4 GPIT Op Model are core and mandated.
 
 
 Once the decision to migrate has been confirmed, the next steps are to:
@@ -27,7 +34,7 @@ Once the decision to migrate has been confirmed, the next steps are to:
 
 ### Agree a provisional Go Live date
 
-A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Clinical Commissioning Group (CCG) and a delivery partner (such as a Commissioning Support Unit). 
+A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Clinical Commissioning Group (CCG) and a GP IT delivery partner (such as a Commissioning Support Unit). 
 
 
 {%- capture lesson_learnt_1 -%}

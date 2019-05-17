@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
 title: Cut-over and Go Live
-subtitle: Transitioning to the new core clinical system
+subtitle: Transitioning to the new principal clinical system
 nextpage: /guide/post-go-live
 previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide

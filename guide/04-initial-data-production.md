@@ -18,7 +18,7 @@ The initial data production is the point at which a copy of the existing clinica
 * The Source Supplier  - who provide the data extract from the existing system
 * The Target Supplier - who import the data into a test system and visit the practice help them prepare for the data checking phase
 * The practice staff - who test the data and in the test system
-* The Delivery Partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)
+* The GP IT delivery partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)
 
 
 
@@ -26,7 +26,7 @@ The initial data production is the point at which a copy of the existing clinica
 
 As part of the initial data production phase, the practice should be given access to the new system. The Target Supplier will setup admin users (usually up to three).
 
-The Target Supplier or Delivery Partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
+The Target Supplier or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
 
 {%- capture lesson_learnt_1 -%}
 __Lesson learnt__ - try to make sure that more than one member of staff attend the basic training and are set up with access as the practice may be called upon by the Target Supplier to log into the new system and perform basic checks at later phases or reset passwords. Failing to do this has been known to cause delays to migration timelines.
@@ -70,7 +70,7 @@ __Lesson learnt__ - You will need to block out time and dedicated staff to compl
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
 {%- capture lesson_learnt_3 -%}
-__Lesson learnt__ - If possible, try to arrange access to additional support from the Target Supplier or the GP IT Delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
+__Lesson learnt__ - If possible, try to arrange access to additional support from the Target Supplier or the GP IT delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}

@@ -64,7 +64,7 @@ Here is a list of common organisations and functions you may wish to engage with
 * Target supplier - The new supplier of the GP clinical system
 * Source supplier - Existing supplier of the GP clinical system
 * Surrounding and community services - Pharmacies, Pathology labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr), Out of hours, 111 and any screening services etc 
-* Any third party system supplier that integrates with your core clinical system, for example, DocMan or Apollo Scan, DispensIT
+* Any third party system supplier that integrates with your principal clinical system, for example, DocMan or Apollo Scan, DispensIT
 
 
 

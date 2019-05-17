@@ -7,7 +7,7 @@ nextpage: /guide/get-started
 ---
 
 
-This guide aims to help Practices, Delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement practice migrations from one clinical system to another. 
+This guide aims to help Practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement practice migrations from one clinical system to another. 
 
 Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
