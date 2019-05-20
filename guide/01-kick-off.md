@@ -26,6 +26,14 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 
 * How you will communicate and share information?
 
+  -- Between yourselves
+
+  -- With third parties
+
+  -- [With practice staff](#make-staff-aware)
+
+  -- [With patients](#notification-of-patients)
+
 
 ### For the Kick-off meeting, you should involve at a minimum...
 
@@ -61,8 +69,8 @@ Here is a list of common organisations and functions you may wish to engage with
 * Commissioning Support Unit (CSU)
 * Explore with your CSU the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * Clinical Commissioning Group (CCG)
-* new supplier (target) - The new supplier of the GP clinical system
-* Source supplier - Existing supplier of the GP clinical system
+* New supplier (target) - The new supplier of the GP clinical system
+* Existing supplier (Source) - Existing supplier of the GP clinical system
 * Surrounding and community services - Pharmacies, Pathology labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr), Out of hours, 111 and any screening services etc 
 * Any third party system supplier that integrates with your principal clinical system, for example, DocMan or Apollo Scan, DispensIT
 
@@ -95,9 +103,9 @@ Look at your key dates and the people you need
 * Do staff have pre-booked holidays or training planned?
 
 
-* Are there any planned events or surgeries during this time that you should rearrange?
+* Are there any planned events or surgeries during this time that suggest the practice may be busier than usual?
 
-The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [cutover period](/guide/cut-over) (and 2 days after Go Live) and increase the availability of people to support the migration.
+The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [cut-over period](/prm-practice-migration/guide/planning-for-cut-over#what-is-the-cut-over) (and 2 days after Go Live) and increase the availability of people to support the migration.
 
 ###  Secure your dates and people’s time 
 
@@ -105,9 +113,11 @@ The aim is to ensure a successful migration and limit the impact on the practice
 
 * Encourage staff to keep these dates free and if possible avoid booking holidays on these dates
 
-* If possible, and alternative dates are available, avoid planning any events or clinical reviews at this time that may increase the workload of the practice e.g. Asthma reviews
+* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [cut-over period](/prm-practice-migration/guide/planning-for-cut-over#what-is-the-cut-over) that may increase the workload of the practice e.g. Asthma reviews
 
 * Pre-book rooms for training, testing and any other migration activity
+
+* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier system (target).
 
 
 
@@ -135,13 +145,13 @@ Discuss and plan any housekeeping tasks such as…
 Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the new supplier (target).
 
 
-### Technical survey and hardware
+### Technical survey and hardware {#technical-survey}
 
 If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
 
-Compile a list of third party software that integrates with the current GP clinical system.
+Compile a list of third party software that integrate with the current GP clinical system.
 
-Please note that it is the responsibility of the Practice to ensure that thay have contacted the third party software supplier to check if the software is compatible with the new system and agree any actions required for implementation.
+Please note that it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical system and agree any actions required for implementation. The new supplier (target) will not complete this activity.
 
 
 ### Notification of 3rd parties and links
@@ -175,7 +185,7 @@ If you use any third party software as part of your clinical system, please be a
 
 Add a task to your plan to contact and remind each party the week before and on the day when you require changes to be made.
 
-### Notification of Patients
+### Notification of Patients {#notification-of-patients}
 
 During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service system (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters for many weeks in advance to create awareness. 
 
@@ -183,11 +193,9 @@ You may also want to discuss what online messaging is put in place when the serv
 
 Remember to make any necessary changes to your Practice website. For example, Online Access Links.
 
-
-### Make staff aware of the coming changes
+### Make staff aware of the coming changes {#make-staff-aware}
 
 Are the practice staff (and anyone who works remotely) aware of the change? Think about what questions they may have and how you plan to answer them.
-
 
 ### Training
 

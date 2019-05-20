@@ -22,13 +22,15 @@ The survey is to check the existing practice setup, focused mainly on the follow
 
 
 
-Some Commissioning Support Units (CSUs) will download and install the Target System icons, to all the compatible devices following the survey, but this may only be installed on a small number of devices by suppliers.
+Some GP IT delivery partners (such as Commissioning Support Units) will download and install the Target System icons, to all the compatible devices following the survey, but this may only be installed on a small number of devices by suppliers.
 
 ## Who completes this activity?
 
 The Technical Survey can be completed by the new supplier (target), or in some cases by an engineer from the GP IT delivery partner (For example, a Commissioning Support Unit).
 
 Make sure to check to see who will complete this activity.
+
+[As previously noted](/prm-practice-migration/guide/kick-off#technical-survey), it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical system and agree any actions required for implementation. The new supplier (target) may be aware of the compatability/incompatability of common 3rd party applications but is not accountable for confirming.
 
 
 

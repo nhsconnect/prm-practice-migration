@@ -60,7 +60,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 ### Appointments:  
 
 
-* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier system (target). Ensure that these slots are placed in the existing system rotas to enable transfer to the new system
+* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier system (target). Ensure that these slots are placed in the existing system rotas so you will be reminded to configure them in the new system
 
 
 * Build rotas on the test system before the cut-over. Don't put the rotas onto the existing system for further in advance than two weeks post go live with the new system as all booked appointments will need to be manually transferred
