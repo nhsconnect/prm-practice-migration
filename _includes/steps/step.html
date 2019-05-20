@@ -3,15 +3,17 @@ The step item in a steps module, showing title, subtitle and content.
 
 Parameters:
     - include.title: The step's title.
+    - include.title_url: The relative url to where the title should link to.
     - include.subtitle: Optional subtitle to show under the title.
     - include.content: This content will be in markdown format.
 
 {% endcomment %}
 
 <div class="step-item">
-    <h3 class="title">{{ include.title }}</h3>
+    <a href="{{ include.title_url | default: '/' | relative_url }}"><h3 class="title">{{ include.title }}</h3></a>
     {% if include.subtitle %}
     <div class="subtitle">{{ include.subtitle }}</div>
     {% endif %}
     <div> {{ include.content | markdownify }}</div>
+    
 </div>

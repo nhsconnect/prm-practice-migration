@@ -40,6 +40,7 @@ Example:
 ```
 ---
 title: Example Step Title 
+title_url: /path/to/file.md
 subtitle: Subtitle
 order:  1
 group: example
@@ -49,7 +50,7 @@ Example content.
 ```
 
 Finally, add the include code into the page you want the steps/timeline to be displayed.
-```{%- include steps/steps.htmls group='example' -%}```
+```{%- include steps/steps.html group='example' -%}```
 
 ### Linking to a particular section within the guide
 There is often a need to link to a particular section of the guide, this may be to a point half way down on a long page. To do this you can use bookmarks. Every Heading you create will auto generate a bookmark that you can link to
