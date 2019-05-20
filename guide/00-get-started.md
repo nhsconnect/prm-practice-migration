@@ -23,10 +23,7 @@ Prior to this, there are a number of steps that will have been completed such as
   -- _Note: there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware_
 
 
-* Practice and Clinical Commissioning Group (CCG) agree the support model and engage with a  GP IT delivery partner (such as a Commissioning Support Unit)
-
-
-the support model should already be in place (accepting that we know that is not the case at the moment) as a project and change management service, including end to end project management supporting change of foundation (principal) solution is one of the GPIT Enabling Requirements which under the revised v4 GPIT Op Model are core and mandated.
+* Practice and Clinical Commissioning Group (CCG) engage with their GP IT delivery partner (such as a Commissioning Support Unit)
 
 
 Once the decision to migrate has been confirmed, the next steps are to:
@@ -35,6 +32,10 @@ Once the decision to migrate has been confirmed, the next steps are to:
 ### Agree a provisional Go Live date
 
 A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Clinical Commissioning Group (CCG) and a GP IT delivery partner (such as a Commissioning Support Unit). 
+
+A proposed go-live date should be agreed between the practice, Clinical Commissioning Group (CCG) and GP IT delivery partner. 
+
+This proposed date should be agreed with the new clinical system supplier
 
 
 {%- capture lesson_learnt_1 -%}
@@ -51,7 +52,7 @@ The initial registration of the migration on the [Tracking Database](https://dig
 
 #### Procure the new system
 
-* A _Schedule A_ document is completed for the Target Supplier service and is “called off”/logged in the Tracking Database
+* A _Schedule A_ document is completed for the new supplier (target) and is “called off”/logged in the Tracking Database
 
 * The Clinical Commissioning Group (CCG) accepts the _Schedule A_ in the Tracking Database
 
@@ -61,7 +62,7 @@ The initial registration of the migration on the [Tracking Database](https://dig
 
 
 {%- capture lesson_learnt_2 -%}
-__Lesson learnt__ - Submodules of the new clinical system may need to be raised in a _Schedule A_, this activity can be missed. E.g. Appointments, Docman
+__Lesson learnt__ - Submodules of the new clinical system may need to be raised in a _Schedule A_, this activity can be missed. For example, appointments modules, document management, data entry forms
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}

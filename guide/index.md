@@ -7,7 +7,7 @@ nextpage: /guide/get-started
 ---
 
 
-This guide aims to help Practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement practice migrations from one clinical system to another. 
+This guide aims to help Practices, GP IT delivery partners (such as Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement practice migrations from one clinical system to another. 
 
 Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
@@ -21,7 +21,7 @@ Migrations on average take between 12-16 weeks. This is from the point of regist
 
 ## Overview of key phases
 
-Migrations require a lot of planning and effort from Practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
+Migrations require a lot of planning and effort from practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
 
 Here is an overview of the key phases...
 

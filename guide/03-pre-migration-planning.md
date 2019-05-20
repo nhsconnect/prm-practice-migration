@@ -13,7 +13,7 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your existing supplier {#request-data-extract}
 
-Ahead of the [Initial data production phase](initial-data-production), a formal data extract request needs to be sent to the Source Supplier (Existing/old supplier of the GP Core System) using the steps detailed below. This is a formal notification from the practice to the supplier for them to provide the current data stored in the current clinical system.
+Ahead of the [Initial data production phase](initial-data-production), a formal data extract request needs to be sent to the existing supplier (source) of the principal clinical system using the steps detailed below. This is a formal notification from the practice to the supplier for them to provide the current data stored in the current clinical system.
 
 This will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
@@ -25,11 +25,11 @@ __The request needs to be completed as early as possible__. The Source Suppliers
 1. A request is made to the Source Supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the Commissioning Support Unit (CSU) but this may differ by region. 
 2. The Supplier will send a ‘Data extract request form’ (or similar) directly to the Practice 
 3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered as advised by the new supplier
-4. The Source Supplier will ensure that the data is transferred to the Target Supplier safely and securely.
+4. The Source Supplier will ensure that the data is transferred to the new supplier (target) safely and securely.
 
 ## Clean up the current system data
 
-The Target supplier (providing the new clinical system) or Commissioning Support Unit (CSU) can advise the Practice on any common/known data issues when migrating to the new system (these may vary from system to system). 
+The new supplier (target) (providing the new clinical system) or Commissioning Support Unit (CSU) can advise the Practice on any common/known data issues when migrating to the new system (these may vary from system to system). 
 
 Rectifying the data early and before the [Initial data production phase](initial-data-production) will reduce the amount of work the Practice needs to complete during later phases.
 
@@ -48,9 +48,9 @@ Rectifying the data early and before the [Initial data production phase](initial
 
 ## Data checking preparation {#data-checking-prep}
 
-The Target Supplier will provide a set of test criteria for data checking following the [Initial data production day](initial-data-production). The Practice will be asked to find a series of patient records that match these criteria (usually up to 20 records) and a selection of random records. Usually, the Target Supplier or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
+The new supplier (target) will provide a set of test criteria for data checking following the [Initial data production day](initial-data-production). The Practice will be asked to find a series of patient records that match these criteria (usually up to 20 records) and a selection of random records. Usually, the new supplier (target) or Commissioning Support Unit (CSU) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
 
-The Practice will need to detail the selected patient records in a document provided by the Target Supplier. The list of selected patient records will need to be available on the [Initial data production day](initial-data-production).
+The Practice will need to detail the selected patient records in a document provided by the new supplier (target). The list of selected patient records will need to be available on the [Initial data production day](initial-data-production).
 
 
 ### Is a reconciliation needed?
