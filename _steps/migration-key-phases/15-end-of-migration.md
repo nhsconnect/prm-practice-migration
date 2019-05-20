@@ -1,6 +1,6 @@
 ---
 title: End of migration
-title_url: /guide/cend-of-migration
+title_url: /guide/end-of-migration
 subtitle:
 order: 15
 group: migration-key-phases
