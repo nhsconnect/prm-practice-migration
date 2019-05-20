@@ -33,7 +33,7 @@ Not updating the Tracking database with the deployment details can cause issues 
 
 Steps to do this…
 
-* The Target supplier (new) provides a ‘GPSoC-R Deployment Survey Form’ to the practice
+* The new supplier (target) provides a ‘GPSoC-R Deployment Survey Form’ to the practice
 
 * The practice completes the ‘GPSoC-R Deployment Survey Form’
 

@@ -14,7 +14,7 @@ During the cut-over phase, you will carry out all the activities planned for in 
 * Practice Staff
 * Project Manager
 * Trainers
-* Target Supplier
+* new supplier (target)
 
 
 ## What to expect during the cutover
@@ -105,7 +105,7 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 
 * Staff availability for cut-over tasks.  
 
-* Confirm your Go Live date with the Target Supplier again to make sure there is no change in their schedules.  
+* Confirm your Go Live date with the new supplier (target) again to make sure there is no change in their schedules.  
 
 * Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
 

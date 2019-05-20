@@ -61,7 +61,7 @@ Here is a list of common organisations and functions you may wish to engage with
 * Commissioning Support Unit (CSU)
 * Explore with your CSU the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * Clinical Commissioning Group (CCG)
-* Target supplier - The new supplier of the GP clinical system
+* new supplier (target) - The new supplier of the GP clinical system
 * Source supplier - Existing supplier of the GP clinical system
 * Surrounding and community services - Pharmacies, Pathology labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr), Out of hours, 111 and any screening services etc 
 * Any third party system supplier that integrates with your principal clinical system, for example, DocMan or Apollo Scan, DispensIT
@@ -118,7 +118,7 @@ The Kick-off is a good opportunity to also run through the following...
 
 ### Common data issues, housekeeping and clean-up tasks
 
-Ask the Target supplier or Commissioning Support Unit (CSU) to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
+Ask the new supplier (target) or Commissioning Support Unit (CSU) to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
 
 The objective is to identify any tasks that the Practice can start rectifying early and before the [Initial data production phase](initial-data-production). As time goes on, the amount of work the Practice needs to complete will grow, so getting ahead can ease the pressure.
 
@@ -132,7 +132,7 @@ Discuss and plan any housekeeping tasks such as…
 
 * Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have the least amount of tasks outstanding 
 
-Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the Target supplier.
+Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the new supplier (target).
 
 
 ### Technical survey and hardware

@@ -16,7 +16,7 @@ The initial data production is the point at which a copy of the existing clinica
 ## Who is involved?
 
 * The Source Supplier  - who provide the data extract from the existing system
-* The Target Supplier - who import the data into a test system and visit the practice help them prepare for the data checking phase
+* The new supplier (target) - who import the data into a test system and visit the practice help them prepare for the data checking phase
 * The practice staff - who test the data and in the test system
 * The GP IT delivery partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)
 
@@ -24,12 +24,12 @@ The initial data production is the point at which a copy of the existing clinica
 
 ## Setup access to the new system
 
-As part of the initial data production phase, the practice should be given access to the new system. The Target Supplier will setup admin users (usually up to three).
+As part of the initial data production phase, the practice should be given access to the new system. The new supplier (target) will setup admin users (usually up to three).
 
-The Target Supplier or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
+The new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
 
 {%- capture lesson_learnt_1 -%}
-__Lesson learnt__ - try to make sure that more than one member of staff attend the basic training and are set up with access as the practice may be called upon by the Target Supplier to log into the new system and perform basic checks at later phases or reset passwords. Failing to do this has been known to cause delays to migration timelines.
+__Lesson learnt__ - try to make sure that more than one member of staff attend the basic training and are set up with access as the practice may be called upon by the new supplier (target) to log into the new system and perform basic checks at later phases or reset passwords. Failing to do this has been known to cause delays to migration timelines.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
@@ -42,7 +42,7 @@ __Lesson learnt__ - try to make sure that more than one member of staff attend t
 The following activities should have been completed in advance…
 
 * The data extract has been requested from the existing supplier in advance ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract))
-* The practice has identified the patient records matching criteria provided by the Target Supplier for testing ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep))
+* The practice has identified the patient records matching criteria provided by the new supplier (target) for testing ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep))
 * Rooms have been booked for initial data production meetings, training and data checking activities
 
 ### Data checking phases
@@ -50,7 +50,7 @@ The following activities should have been completed in advance…
 Data checking generally happens in 2-3 phases:
 
 1. Initial data checking and reporting of any issues
-2. Rechecking the data after the Target Supplier has amended any issues found
+2. Rechecking the data after the new supplier (target) has amended any issues found
 3. In some circumstances a third phase is required if further issues were found in the recheck, however, most migrations do not require this further recheck of the data.
 
 
@@ -62,7 +62,7 @@ We advise you to plan for between 3-5 days for each data checking phase. However
 
 Clinical input will be required and the level of input may vary per practice. Please bear in mind that the Lead clinician will be responsible for signing off the data checking phase.
 
-The Target Supplier should assist the practice on the first day of Phase 1 Initial data checking. 
+The new supplier (target) should assist the practice on the first day of Phase 1 Initial data checking. 
 
 {%- capture lesson_learnt_2 -%}
 __Lesson learnt__ - You will need to block out time and dedicated staff to complete the data checking activity as any delays in completing this phase will impact the Go Live date.{%- endcapture -%}
@@ -70,7 +70,7 @@ __Lesson learnt__ - You will need to block out time and dedicated staff to compl
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
 {%- capture lesson_learnt_3 -%}
-__Lesson learnt__ - If possible, try to arrange access to additional support from the Target Supplier or the GP IT delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
+__Lesson learnt__ - If possible, try to arrange access to additional support from the new supplier (target) or the GP IT delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
@@ -78,9 +78,9 @@ __Lesson learnt__ - If possible, try to arrange access to additional support fro
 
 ## What to test
 
-The Target Supplier should provide a complete list of data checking activities.
+The new supplier (target) should provide a complete list of data checking activities.
 
-The majority of testing will be focused on the identified patient records matching the criteria supplied by the Target Supplier along with the random patients.
+The majority of testing will be focused on the identified patient records matching the criteria supplied by the new supplier (target) along with the random patients.
 
 Alongside checking the identified patient records, the practice will be asked to check and compare reports such as QOF reports and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
 
@@ -89,13 +89,13 @@ The data checking is a manual process; ideally, the practice staff will complete
 
 ### Reporting issues with data {#reporting-issues-with-data}
 
-We recommend that issues are logged and reported to the Target Supplier as soon as they are found.
+We recommend that issues are logged and reported to the new supplier (target) as soon as they are found.
 
-Each Target Supplier will have a set method of how they would like the issues to be reported. The Supplier should provide you with this information before or at the start of the initial data checking day.
+Each new supplier (target) will have a set method of how they would like the issues to be reported. The Supplier should provide you with this information before or at the start of the initial data checking day.
 
-At the end of each data checking phase, there will be a period whereby the Target Supplier will review and address the issues found, this may vary depending on the complexity of the issues reported.
+At the end of each data checking phase, there will be a period whereby the new supplier (target) will review and address the issues found, this may vary depending on the complexity of the issues reported.
 
-The Target Supplier will notify the practice when the issues have been fixed and the practice will then need to check the issue.
+The new supplier (target) will notify the practice when the issues have been fixed and the practice will then need to check the issue.
 
 
 ## Signing off the data checking {#signing-off-the-data-checking}

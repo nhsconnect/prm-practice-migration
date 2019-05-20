@@ -56,9 +56,9 @@ The initial registration of the migration on the [Tracking Database](https://dig
 
 * The Clinical Commissioning Group (CCG) accepts the _Schedule A_ in the Tracking Database
 
-* The Target Supplier receives the _Schedule A_ notification and accepts it
+* The new supplier (target) receives the _Schedule A_ notification and accepts it
 
-* The Target Supplier will confirm the availability of the preferred Go live dates
+* The new supplier (target) will confirm the availability of the preferred Go live dates
 
 
 {%- capture lesson_learnt_2 -%}

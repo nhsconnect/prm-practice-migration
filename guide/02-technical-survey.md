@@ -26,7 +26,7 @@ Some Commissioning Support Units (CSUs) will download and install the Target Sys
 
 ## Who completes this activity?
 
-The Technical Survey can be completed by the Target Supplier, or in some cases by an engineer from the GP IT delivery partner (For example, a Commissioning Support Unit).
+The Technical Survey can be completed by the new supplier (target), or in some cases by an engineer from the GP IT delivery partner (For example, a Commissioning Support Unit).
 
 Make sure to check to see who will complete this activity.
 

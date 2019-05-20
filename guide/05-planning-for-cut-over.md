@@ -18,7 +18,7 @@ breadcrumbparent: /guide
 * Data entered into the old system will no longer be carried across into the new system (note: practices may still enter data but it will not be migrated).
 
 
-* The Target supplier will import the data into the new system
+* The new supplier (target) will import the data into the new system
 
 
 * The practice will test and sign off the data
@@ -47,7 +47,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
    -- You need to notify the Subsidiary Supplier well in advance of the date when you require the data extract to be completed
 
-* Export any letter templates and clinical templates to Microsoft Word from the Source system (old) to be able to import them to the target supplier’s system (new) after the go-live date
+* Export any letter templates and clinical templates to Microsoft Word from the Source system (old) to be able to import them to the new supplier system (target) after the go-live date
 
 * Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration
 
@@ -60,7 +60,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 ### Appointments:  
 
 
-* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the target supplier’s system. Ensure that these slots are placed in the existing system rotas to enable transfer to the new system
+* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier system (target). Ensure that these slots are placed in the existing system rotas to enable transfer to the new system
 
 
 * Build rotas on the test system before the cut-over. Don't put the rotas onto the existing system for further in advance than two weeks post go live with the new system as all booked appointments will need to be manually transferred
@@ -128,7 +128,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 * If possible, reduce referrals to urgent only cases
 
 
-* Print an extra copy of any referrals done during cut-over period. These can then be scanned into the target supplier system when you are live
+* Print an extra copy of any referrals done during cut-over period. These can then be scanned into the new supplier (target) system when you are live
 
 
 ### Scanning:
