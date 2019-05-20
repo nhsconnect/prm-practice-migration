@@ -45,6 +45,7 @@ Below you will find a summary of the key activities and phases the Clinical Comm
 
 * Did the Technical survey identify the need for additional hardware/software requirements?
 
+  -- If so, is there sufficent mechanisims to pay for the new requirements?
   -- If so, do you have a date for when the new requirements will be deployed?
 
 
