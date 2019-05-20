@@ -13,7 +13,7 @@ The approach, amount and timing of training widely differs from region to region
 
 * Some Practices receive training from the Clinical Support Units (CSUs) where they have dedicated trainers
 
-* Some Practices receive training from the Target Supplier (The new supplier of the GP Core System)
+* Some Practices receive training from the new supplier (The new supplier of the GP Core System)
 
 
 ## General recommendations for training
