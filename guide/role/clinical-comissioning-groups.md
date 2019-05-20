@@ -14,9 +14,16 @@ Below you will find a summary of the key activities and phases the Clinical Comm
 
 ---
 
-### Early phases (Decision to migrate - Pre-migration tasks)
+### The decision to migrate and funding
 
-The decision to migrate and funding
+* Has the practice completed the GPSoC business case justification template for the migration and provided evidence of the drivers, practice considerations and strategic fit?
+
+* Has the business case been approved by any necessary local boards?
+
+
+### Engage the GP IT delivery partner
+
+* Have you or the practice engaged with the GP IT delivery partner to make them aware of the migration? (such as a Commissioning Support Unit)
 
 #### Do you have an agreed date for when the practice will Go Live on the new system?
 
@@ -30,34 +37,9 @@ The decision to migrate and funding
 
 * [Has the Source Supplier (existing/old) been notified?](/prm-practice-migration/guide#decommission-the-existingold-system-system)
 
+---
 
-#### Has the Practice requested an extract of the current data?
-
-* [Request a data extract from your existing supplier](/prm-practice-migration/guide/pre-migration-tasks#request-a-data-extract-from-your-existing-supplier)
-
-
-#### Is the practice prepared for the Initial data production?
-
-* [Get ahead and clean up your data](/prm-practice-migration/guide/pre-migration-tasks#clean-up-the-current-system-data)
-
-* [Select patient records for testing/data checking](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation)
-
-* [Does the practice have a plan for the data checking phases?](/prm-practice-migration/guide/initial-data-production#data-checking)
-
-* [Is a reconcilitation needed with the Personal Demographics Service (PDS)?](/prm-practice-migration/guide/pre-migration-tasks#is-a-reconciliation-needed)
-
-* Do you have booked rooms for initial data production meetings, training and data checking activities?
-
-#### Has the practice notified 3rd party systems and links?
-
-* [Notify 3rd parties and links](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
-
-
-#### Has the practice notified patients of any disruption or changes?
-
-* [Notify patients](/prm-practice-migration/guide/pre-migration-tasks#notification-of-patients)
-
-#### Have you had a Technical survey?
+#### Has the practice had a Technical survey?
 
 * [What is a Technical survey?](/prm-practice-migration/guide/technical-survey)
 
@@ -65,115 +47,11 @@ The decision to migrate and funding
 
   -- If so, do you have a date for when the new requirements will be deployed?
 
-#### Do you have a training plan?
-
-* [Training overview](/prm-practice-migration/guide/training)
-
-
----
-
-### Initial data production phase
-
-#### Has the existing supplier provided a extract of the patient data to the new supplier?
-
-* [Check that a request has been made and dates agreed, this needs to be completed by the practice](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract)
-
-#### Has the practice identified a list of patient records for testing/data checking?
-
-* Has the [Target Supplier provided a set of test criteria](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep) for identifying which Patient records to test?
-
-* Has the practice used the criteria to identify Patient records that match the criteria?
-
-* [Does the practice know how to report issues to the new supplier, should they find issues with the data/patient records?](/prm-practice-migration/guide/initial-data-production#reporting-issues-with-data)
-
-* Once all issues have been addressed, has the practiced [‘Signed off’ that the data is accurate and the practice is satisfied with the quality of the data?](/prm-practice-migration/guide/initial-data-production#signing-off-the-data-checking)
-
----
-
-### Planning for the cutover phase
-
-* Do you have start/finish dates for the [cutover period](/prm-practice-migration/guide/planning-for-cut-over)?
-
-* [Do you have a list and plan for each 3rd party service that will need to make changes during the cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
-
-* Have you identified what letter templates will need to be recreated in the new system?
-
-* Have you identified what Data entry templates will need to be recreated in the new system?
-
-* Have the practice cleared down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration
-
-* Do you know the exact date/time when the final data extract will be taken?
-
-* At the time of the final data extract, have you ensured that all users are logged off the source supplier system so that the supplier can do the data extraction?
-
-#### Do you have a plan for how you will handle the following during the cutover?
-
-* [Appointments](/prm-practice-migration/guide/planning-for-cut-over#appointments)
-
-* [Consultations](/prm-practice-migration/guide/planning-for-cut-over#consulations)
-
-* [Home visits](/prm-practice-migration/guide/planning-for-cut-over#home-visits)
-
-* [Telephone calls to paitents](/prm-practice-migration/guide/planning-for-cut-over#telephone-calls-to-patients)
-
-* [Prescriptions](/prm-practice-migration/guide/planning-for-cut-over#prescriptions)
-
-* [Pathology links](/prm-practice-migration/guide/planning-for-cut-over#links)
-
-* [Registration links](/prm-practice-migration/guide/planning-for-cut-over#links)
-
-* [Referrals](/prm-practice-migration/guide/planning-for-cut-over#referrals)
-
-* [Scanning](/prm-practice-migration/guide/planning-for-cut-over#scanning)
-
-* [Bowel screening](/prm-practice-migration/guide/planning-for-cut-over#bowel-screening)
-
-* [111 messages and any other incoming clinical correspondence](/prm-practice-migration/guide/planning-for-cut-over#one-one-one-messages)
-
-* [Out of hours reports](/prm-practice-migration/guide/planning-for-cut-over#out-of-hours)
-
-* [Summarisation and routine data entry](/prm-practice-migration/guide/planning-for-cut-over#summarisation)
-
-
-#### Does the practice have a plan for how you will re-enter any data that is not migrated to the new system during the cutover?
-
-* [Data re-entry after Go Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
-
-
----
-
-### Cutover and Go Live
-
-* [Does the practice have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/cutover-and-go-live#data-re-checking)
-
-* [Does the practice have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/cutover-and-go-live#training-on-the-new-system)
-
-* [Has the Dictionary of Medication and Devices (DM&D) mapping been checked prior to Go Live?](/prm-practice-migration/guide/cutover-and-go-live#dictionary-of-medication-and-devices-mapping)
-
-* [Have scanning devices, check in and call waiting boards been configured?](/prm-practice-migration/guide/cutover-and-go-live#configure-devices)
-
-* [Has any incompatible equipment identified in the Technical Survey been replaced?](/prm-practice-migration/guide/technical-survey#outcome-of-the-technical-survey)
-
-* [Have smartcards been activated?](/prm-practice-migration/guide/cutover-and-go-live#activate-smartcards)
-
-* [Have registration links been checked?](/prm-practice-migration/guide/cutover-and-go-live#check-registration-links)
-
-* Once the practice is satisfied that all the data has been transferred and the migration is successful, have they provided 'sign off' to the new supplier?
-
 
 ---
 
 ### Post Go Live
 
-* [Has the practice notified any 3rd party services to swtich their services back on, pointing to the new system?](/prm-practice-migration/guide/post-go-live#switch-on-links) For example Electronic Prescription Service, Pathology and test labs
-
-* [Have registration links been checked Post Go-Live?](/prm-practice-migration/guide/post-go-live#registration)
-
-* [Are online patient services available such as the ability to book appointments?](/prm-practice-migration/guide/post-go-live#online-services)
-
-* [Does the practice still have access to the old system?](/prm-practice-migration/guide/post-go-live#access-to-the-old-system)
-
-* [Does the practice have dedicated people and known methods for data re-entry after Go Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
 
 * [Has the tracking database been updated to confirm the date you have migrated and to indicate payments to suppliers can be made?](/prm-practice-migration/guide/end-of-migration#update-the-tracking-database) 
 
