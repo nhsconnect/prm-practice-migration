@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page_with_sidebar
 title: Project managers and GP IT delivery partners
-permalink: /guide/role/project-managers/
+permalink: /guide/role/project-managers
 ---
 
 Below you will find a summary of the key activities and questions that a Project manager may have during a Practice Migration.

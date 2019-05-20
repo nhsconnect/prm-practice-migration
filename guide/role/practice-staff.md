@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page_with_sidebar
 title: Practice managers and staff
-permalink: /guide/role/practice-staff/
+permalink: /guide/role/practice-staff
 ---
 
 Migrations take a lot of planning and effort from Practice staff. This guide aims to break down the activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
