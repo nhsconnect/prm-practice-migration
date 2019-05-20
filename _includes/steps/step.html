@@ -1,0 +1,17 @@
+{% comment  %}
+The step item in a steps module, showing title, subtitle and content.
+
+Parameters:
+    - include.title: The step's title.
+    - include.subtitle: Optional subtitle to show under the title.
+    - include.content: This content will be in markdown format.
+
+{% endcomment %}
+
+<div class="step-item">
+    <h3 class="title">{{ include.title }}</h3>
+    {% if include.subtitle %}
+    <div class="subtitle">{{ include.subtitle }}</div>
+    {% endif %}
+    <div> {{ include.content | markdownify }}</div>
+</div>

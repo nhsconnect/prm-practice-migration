@@ -1,0 +1,16 @@
+{% comment  %}
+The steps/timeline html module will display a series of events or steps using the NHS design style. 
+Make sure to have the right CSS files included.
+
+Parameters:
+    - include.group: The name of the step group that you want displayed. They will be ordered by 'order'
+
+{% endcomment %}
+
+{% assign steps = site.steps | where: 'group', include.group | sort: 'order' %}
+
+<div class="steps" id="steps-id">
+{% for step in steps %} 
+{%- include steps/step.html title=step.title subtitle=step.subtitle content=step.content  -%}
+{% endfor %}
+</div>
