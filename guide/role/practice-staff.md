@@ -26,14 +26,14 @@ Below you will find a summary of the key activities and phases the practice will
 
 * [Securing the dates and peoples time](/prm-practice-migration/guide/kick-off#secure-your-dates-and-peoples-time)
 
-* [Has the Target Supplier (new) confirmed the Go Live date?](/prm-practice-migration/guide#procure-the-new-system)
+* [Has the new supplier (target) confirmed the Go Live date?](/prm-practice-migration/guide/get-started#procure-the-new-system)
 
-* [Has the Source Supplier (existing/old) been notified?](/prm-practice-migration/guide#decommission-the-existingold-system-system)
+* [Has the existing supplier (source) been notified?](/prm-practice-migration/guide/get-started#decommission-the-existingold-system-system)
 
 
 #### Have you requested an extract of the current data?
 
-* [Request a data extract from your existing supplier](/prm-practice-migration/guide/pre-migration-tasks#request-a-data-extract-from-your-existing-supplier)
+* [Request a data extract from your existing supplier](/prm-practice-migration/guide/get-started#request-data-extract)
 
 
 #### Have you prepared for the Initial data production?
@@ -76,7 +76,7 @@ Below you will find a summary of the key activities and phases the practice will
 
 #### Has your existing supplier provided a extract of the patient data to the new supplier?
 
-* [Check that a request has been made and dates agreed](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract)
+* [Check that a request has been made and dates agreed](/prm-practice-migration/guide/get-started#request-data-extract)
 
 #### Do you have a list of patient records for testing/data checking?
 

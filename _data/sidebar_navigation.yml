@@ -10,7 +10,7 @@ sidebar_items:
     url: /guide/technical-survey
   - title: Pre-migration tasks
     url: /guide/pre-migration-tasks
-  - title: Initial data production
+  - title: Initial data production & data checking
     url: /guide/initial-data-production
   - title: Planning for the cut-over
     url: /guide/planning-for-cut-over

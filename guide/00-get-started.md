@@ -79,13 +79,27 @@ __Lesson learnt__ - If the _Schedule A_ to decommission the source supplier’s 
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
 
-__Important__ - At this point, you should think about submitting a [formal data extract request to the Source Supplier](/prm-practice-migration/guide/pre-migration-tasks#request-a-data-extract-from-your-existing-supplier) to avoid any delays to your migration.
 
-The Source Suppliers have varying lead times/notice periods to provide this data upon request (for example, a supplier may require up to 5 weeks notice). 
+### Request a data extract from your existing supplier {#request-data-extract}
+
+A formal data extract request needs to be sent to the existing supplier (source) of the principal clinical system using the [steps detailed below](#steps-to-request-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](initial-data-production).
+
+__The request needs to be completed as early as possible__. The suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
+
+This will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
+
+
+#### Steps to requesting the data extract {#steps-to-request-data-extract}
+
+1. A request is made to the existing supplier (source) to provide a ‘Data extract request form’ or similar. This is usually sent by the GP IT delivery partner (such as a Commissioning Support Unit) but this may differ by region. 
+2. The existing supplier will send a ‘Data extract request form’ (or similar) directly to the practice 
+3. The practice completes and returns the form to the existing supplier (source) along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the [Initial data production phase](initial-data-production)
+4. The Source Supplier will ensure that the data is transferred to the new supplier (target) safely and securely.
+
 
 
 {%- capture lesson_learnt_4 -%}
-__Lesson learnt__ - __Any delays to [requesting the data extract](/prm-practice-migration/guide/pre-migration-tasks#request-a-data-extract-from-your-existing-supplier) may impact the migration timeline__ if it’s not sent well in advance of the [initial data production day](/prm-practice-migration/guide/initial-data-production).
+__Lesson learnt__ - __Any delays to requesting the data extract may impact the migration timeline__ if it’s not sent well in advance of the [initial data production day](/prm-practice-migration/guide/initial-data-production).
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_4 accessibility_text="Lesson learnt" markdown=true -%}

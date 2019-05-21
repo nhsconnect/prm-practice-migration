@@ -13,19 +13,13 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your existing supplier {#request-data-extract}
 
-Ahead of the [Initial data production phase](initial-data-production), a formal data extract request needs to be sent to the existing supplier (source) of the principal clinical system using the steps detailed below. This is a formal notification from the practice to the supplier for them to provide the current data stored in the current clinical system.
+By now you should have [formally requested a data extract from the existing supplier](/prm-practice-migration/guide/get-started#request-data-extract) (source) of the principal clinical system. 
 
-This will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
+If you do not have confirmation from the existing supplier that the extract will be provided on the date requested, you need to chase this with them.
+
+A data extract request will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
 __The request needs to be completed as early as possible__. The Source Suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
-
-
-### Steps to requesting the Data extract
-
-1. A request is made to the Source Supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the Commissioning Support Unit (CSU) but this may differ by region. 
-2. The Supplier will send a ‘Data extract request form’ (or similar) directly to the Practice 
-3. The Practice completes and returns the form to the Source Supplier along with the dates of when the extract is to be delivered as advised by the new supplier
-4. The Source Supplier will ensure that the data is transferred to the new supplier (target) safely and securely.
 
 ## Clean up the current system data
 

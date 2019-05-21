@@ -1,19 +1,21 @@
 ---
 layout: page_with_sidebar
 permalink: /guide/initial-data-production
-title: Initial data production
-subtitle: Testing the data quality in a test system 
+title: Initial data production & data checking
+subtitle: 
 nextpage: /guide/planning-for-cut-over
 previouspage: /guide/pre-migration-tasks
 breadcrumbparent: /guide
 ---
 
-## What is it and purpose
+## What is the initial data production?
 
-The initial data production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into a test system. The Practice performs data checking tasks in the test system to make sure that the imported Patient data matches how it was when it was taken from the existing system and the test system is working as expected.
+The initial data production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into a test system. 
+
+The initial data production activity enables [data checking](#data-checking) to begin - the practice to perform data checking tasks in the test system to make sure that the imported Patient data matches how it was when it was taken from the existing system and the test system is working as expected.
 
 
-## Who is involved?
+## Who is involved in the initial data production & data checking?
 
 * The Source Supplier  - who provide the data extract from the existing system
 * The new supplier (target) - who import the data into a test system and visit the practice help them prepare for the data checking phase
@@ -35,13 +37,13 @@ __Lesson learnt__ - try to make sure that more than one member of staff attend t
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 
 
-## Data checking
+## Data checking {#data-checking}
 
 ### Preparation
 
 The following activities should have been completed in advance…
 
-* The data extract has been requested from the existing supplier in advance ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#request-data-extract))
+* The [data extract has been requested from the existing supplier in advance](/prm-practice-migration/guide/get-started#request-data-extract))
 * The practice has identified the patient records matching criteria provided by the new supplier (target) for testing ([see Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep))
 * Rooms have been booked for initial data production meetings, training and data checking activities
 
