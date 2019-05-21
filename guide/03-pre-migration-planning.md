@@ -71,20 +71,16 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 * [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
 
 
-* Pathology and test labs
+* Pathology labs and any other services or providers that send information and results automatically to the existing system. For example, Bowel screening, Hospital letters, 111, Out of hours
 
 
 * Pharmacies
 
 
-* Hospital letters
-
-
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
 
 
-* Subsidiary and Third party system suppliers. For example, DocMan or Apollo Scan for document scanning and management (see below)
-
+* [Subsidiary and Third party system suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), for example, DocMan or Apollo Scan for document scanning and management (see below)
 
 
 

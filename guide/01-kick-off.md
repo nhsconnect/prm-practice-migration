@@ -173,7 +173,7 @@ Make a list of all the supporting/connecting systems and community services that
 * [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
 
 
-* Pathology labs and any other services or providers that send information and results automatically to the exitsting system. For example, Bowel screening, Hospital letters, 111, Out of hours
+* Pathology labs and any other services or providers that send information and results automatically to the existing system. For example, Bowel screening, Hospital letters, 111, Out of hours
 
 
 * Pharmacies
