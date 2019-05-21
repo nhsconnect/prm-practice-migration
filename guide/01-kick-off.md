@@ -183,7 +183,7 @@ Make a list of all the supporting/connecting systems and community services that
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
 
 
-* Subsidiary/Third party software/system suppliers, for example, DocMan or Apollo Scan for document scanning and management
+* [Subsidiary and Third party system suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), for example, DocMan or Apollo Scan for document scanning and management
 
 Next, plan and schedule how you will give notice to them of your system change. The earlier you give notice of your Cut-over and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another service may require 5 days. 
 

@@ -83,11 +83,26 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
 
 
-* Subsidiary/Third party software/system suppliers. For example, DocMan or Apollo Scan for document scanning and management
+* Subsidiary and Third party system suppliers. For example, DocMan or Apollo Scan for document scanning and management (see below)
 
-__Give notice to them of your system change__. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another may require 5 days. 
 
-If you use any third party software as part of your clinical system, please be aware that reconfiguration work may be required by them after you have migrated to the new clinical system [Post Go Live](post-go-live).
+
+
+## Subsidiary and Third party system suppliers {#subsidiary-suppliers}
+
+You may need to migrate data from Subsidiary suppliers (also referred to as [Lot 1 services](https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules)) as part of your principal clinical system migration. For example, DocMan or Apollo Scan for document scanning and management. 
+
+__Regardless of whether you plan to migrate away from the Subsidiary supplier or integrate with them, you will need to give notice to them of your system change__. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another may require 5 days. 
+
+   -- If you require a data extract from the Subsidiary supplier, you need to notify the Subsidiary Supplier well in advance of the date when you require the data extract to be completed
+
+   -- The data extract from a Subsidiary supplier will need to be completed at the same point in time as any data extract is completed for your existing principal clinical system
+
+   -- This applies to both the Initial data extract and the Final data extract
+
+   -- Agree with the new system supplier as to who and how the data extract will be collected from the subsidiary supplier
+
+Please be aware that reconfiguration work may be required by a Subsidiary supplier after you have migrated to the new clinical system ([Post Go Live](post-go-live)) to integrate with the new principal clinical system.
 
 
 ## Notification of Patients
