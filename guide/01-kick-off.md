@@ -49,7 +49,13 @@ Note: When Commissioning Support Units (CSUs) are leading the migration, they ma
 
 ## Key milestones, activities, dates and targets
 
-By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them.
+By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. For example, you should have a plan for the following dates;
+
+* Technical Survey (if not already arranged)
+* Initial data production and testing days
+* Final data production and cutover
+* Go Live
+* Training days
 
 As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
 
