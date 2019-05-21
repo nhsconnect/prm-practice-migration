@@ -36,7 +36,7 @@ Rectifying the data early and before the [Initial data production phase](initial
 * Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new system
 
 
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks. For example, pathology and registration; as you approach the Initial data production day, you will want to have the least amount of tasks outstanding 
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding
 
 
 

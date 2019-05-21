@@ -40,7 +40,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 * Export any letter templates and clinical templates to Microsoft Word from the Source system (old) to be able to import them to the new supplier system (target) after the go-live date
 
-* Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration
+* Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration. At the point of the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding 
 
 * Ensure that all users are logged off the source supplier system so that the supplier can do the data extraction
 

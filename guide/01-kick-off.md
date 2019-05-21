@@ -146,7 +146,7 @@ Discuss and plan any housekeeping tasks such as…
 
 * Complete a review of letter and data entry templates to identifty those that will need to be re-entered into the new system. Note; letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need in the new system
 
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have the least amount of tasks outstanding 
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding 
 
 Now is also a good time to introduce the [Data checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and preparation](early-prep-and-planning) phase, such as finding patients that match the test criteria supplied by the new supplier (target).
 
