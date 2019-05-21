@@ -15,16 +15,13 @@ breadcrumbparent: /guide
 
 ### During the cut-over
 
-* Data entered into the old system will no longer be carried across into the new system (note: practices may still enter data but it will not be migrated).
+* Data entered into the old system will not be migrated to the new system. Practices may still enter data but it will not be migrated. The practice will need to keep a record of any data entered into the old system for manual re-entry after Go Live and when the cutover ends
 
 
 * The new supplier (target) will import the data into the new system
 
 
 * The practice will test and sign off the data
-
-
-* The practice will record any new data for manual re-entry after Go Live and when the cutover ends
 
 
 
