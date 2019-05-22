@@ -6,4 +6,4 @@ order: 2
 group: migration-key-phases
 ---
 
-The notification and agreement with the new supplier (Target) and the old supplier (Source) via the [Tracking Database](#register-the-migration-on-the-tracking-database)
+The notification and agreement with the new supplier (target) and the existing supplier (source) via the [Tracking Database](#register-the-migration-on-the-tracking-database)

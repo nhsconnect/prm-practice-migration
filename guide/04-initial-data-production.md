@@ -17,7 +17,7 @@ The initial data production activity enables [data checking](#data-checking) to 
 
 ## Who is involved in the initial data production & data checking?
 
-* The Source Supplier  - who provide the data extract from the existing system
+* The existing supplier (source)  - who provide the data extract from the existing system
 * The new supplier (target) - who import the data into a test system and visit the practice help them prepare for the data checking phase
 * The practice staff - who test the data and in the test system
 * The GP IT delivery partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)

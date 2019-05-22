@@ -19,7 +19,7 @@ If you do not have confirmation from the existing supplier that the extract will
 
 A data extract request will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
-__The request needs to be completed as early as possible__. The Source Suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
+__The request needs to be completed as early as possible__. The exisitng suppliers (source) have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
 ## Clean up the current system data
 

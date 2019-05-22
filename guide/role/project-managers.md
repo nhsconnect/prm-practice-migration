@@ -102,7 +102,7 @@ Below you will find a summary of the key activities and questions that a Project
 
 * Do you know the exact date/time when the final data extract will be taken?
 
-* At the time of the final data extract, have you ensured that all users are logged off the source supplier system so that the supplier can do the data extraction?
+* At the time of the final data extract, have you ensured that all users are logged off the existing supplier system (source) so that the supplier can do the data extraction?
 
 #### Do you have a plan for how you will handle the following during the cutover?
 

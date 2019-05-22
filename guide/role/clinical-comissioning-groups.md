@@ -33,9 +33,9 @@ Below you will find a summary of the key activities and phases the Clinical Comm
 
 * [Securing the dates and peoples time](/prm-practice-migration/guide/kick-off#secure-your-dates-and-peoples-time)
 
-* [Has the Target Supplier (new) confirmed the Go Live date?](/prm-practice-migration/guide#procure-the-new-system)
+* [Has the new supplier (target) confirmed the Go Live date?](/prm-practice-migration/guide#procure-the-new-system)
 
-* [Has the Source Supplier (existing/old) been notified?](/prm-practice-migration/guide#decommission-the-existingold-system-system)
+* [Has the existing supplier (source) been notified?](/prm-practice-migration/guide#decommission-the-existingold-system-system)
 
 ---
 

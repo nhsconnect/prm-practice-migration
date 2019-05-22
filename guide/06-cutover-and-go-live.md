@@ -20,9 +20,9 @@ During the cut-over phase, you will carry out all the activities planned for in 
 ## What to expect during the cutover
 
 ### Final data production 
-The cutover will start with a ‘Final data production’. Practice staff cease to use Source system or continue using source system knowing that the data entered will not be migrated. 
+The cut-over will start with a ‘Final data production’. Practice staff continue using existing system (source) knowing that the data entered will not be migrated. 
 
-The final data extract is provided to the new supplier, who import it into the new system.
+The final data extract (excluding any data entered during cut-over) is provided to the new supplier (target), who import it into the new system.
 
 
 ### Manual processes are put in place
@@ -76,7 +76,7 @@ Smartcards will need to be activated. The new system is configured for staff, ro
 
 ### Check Registration links
 
-The Source Supplier should check patient registration links are working in the new system, the Registrations clerk is usually involved with this activity.
+The new supplier (target) should check patient registration links are working in the new system, the Registrations clerk is usually involved with this activity.
 
 
 ### Sign off Go Live Data 
@@ -88,7 +88,7 @@ After re-checking, if the practice is satisfied that all the data has been trans
 
 Following the actions described previously and Sign off of the Go Live Data, the practice goes live on the new supplier's system. 
 
-The old system is now read only and available for another 45 days as standard - __check this with your old supplier to ensure that they do not terminate access early__.
+The old system is now read only and available for another 45 days as standard - __check this with your old supplier (source) to ensure that they do not terminate access early__.
 
 Third party systems should come back online.
 

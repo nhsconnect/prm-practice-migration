@@ -70,11 +70,11 @@ __Lesson learnt__ - Submodules of the new clinical system may need to be raised 
 
 #### Decommission the existing/old system system
 
-The same process happens for the decommissioning of the Source Supplier, a _Schedule A_ is “called off”/logged in the Tracking Database.
+The same process happens for the decommissioning of the exisitng supplier (source), a _Schedule A_ is “called off”/logged in the Tracking Database.
 
 
 {%- capture lesson_learnt_3 -%}
-__Lesson learnt__ - If the _Schedule A_ to decommission the source supplier’s system is not sent at this point the NHS will continue to pay for the service for longer than needed.
+__Lesson learnt__ - If the _Schedule A_ to decommission the existing supplier’s system (source) is not sent at this point the NHS will continue to pay for the service for longer than needed.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}

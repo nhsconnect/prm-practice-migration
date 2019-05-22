@@ -38,11 +38,11 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 * Ensure plans are in place for any migration or changes to Subsidiary suppliers, for example DocMan or Apollo Scan for document scanning and management ([see information in Pre-migration planning phase](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers))
 
-* Export any letter templates and clinical templates to Microsoft Word from the Source system (old) to be able to import them to the new supplier system (target) after the go-live date
+* Export any letter templates and clinical templates to Microsoft Word from the existing system (source) to be able to import them to the new supplier system (target) after the go-live date
 
 * Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration. At the point of the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding 
 
-* Ensure that all users are logged off the source supplier system so that the supplier can do the data extraction
+* Ensure that all users are logged off the existing supplier system (source) so that the supplier can do the data extraction
 
 
 
@@ -63,7 +63,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Consultations: 
  
-* Carry on as normal entering notes in the old system and manually transfer these to target source supplier as part of the data re-entry process once you have gone live  
+* Carry on as normal entering notes in the old system and manually transfer these to new principal clinical system (target) as part of the data re-entry process once you have gone live  
 
 
 * Patient consultations details can be printed off and stored in a folder (separate folder for each day) for re-entry after Go Live
@@ -88,7 +88,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 * Ask them to keep a record of the name of the patient and the date they were called so that the records can be easily found during data re-entry
 
 
-* In order to negate the risk of missed information, create a rota in the source supplier system, if possible, so that all the calls made can be logged there.  
+* In order to negate the risk of missed information, create a rota in the existing supplier system (source), if possible, so that all the calls made can be logged there.  
 
 
 ### Prescriptions: 
@@ -142,7 +142,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Out of hours: {#out-of-hours}  
 
-* The ‘Out of hours’ reports will continue to come into the source system during cut-over 
+* The ‘Out of hours’ reports will continue to come into the existing system (source) during cut-over 
 * You will need to keep a copy of each for scanning into the target system once live
 
 
@@ -160,7 +160,7 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 
 ## Additional notes:  
 
-* The Source Supplier system (old) maintenance support will continue for 3 months post go-live and you will have access to the system/data it for this period
+* The exisitng supplier system (source) maintenance support will continue for 3 months post go-live and you will have access to the system/data it for this period
 
 
 * Any patients (other than deceased) deducted before your final data production won't migrate
