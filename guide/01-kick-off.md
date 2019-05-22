@@ -37,7 +37,7 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 
 ### For the Kick-off meeting, you should involve at a minimum...
 
-* The migration Project manager - This may be a representative from your CSU/CCG or in some cases the Practice manager or lead GP
+* The migration Project manager - This may be a representative from your GP IT delivery partner (such as a Commissioning Support Unit), the Clinical Commissioning Group or in some cases the Practice manager or lead GP
 
 
 * Practice managers - Including any staff that will play a role in managing/supporting the migration
@@ -45,7 +45,7 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 
 * Target system supplier - The supplier of the clinical system you are moving to
 
-Note: When Commissioning Support Units (CSUs) are leading the migration, they may invite other personnel to the Kick-off such as Business change, Training leads, Data quality etc.
+Note: When the GP IT delivery partner (such as a Commissioning Support Unit) is leading the migration, they may invite other personnel to the Kick-off such as Business change, Training leads, Data quality etc.
 
 ## Key milestones, activities, dates and targets
 
@@ -72,8 +72,8 @@ Here is a list of common organisations and functions you may wish to engage with
 * Practice staff
 * A General Practitioner to act as a lead 
 * Clinical staff (including people who may work remotely)
-* Commissioning Support Unit (CSU)
-* Explore with your CSU the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
+* GP IT delivery partner (such as a Commissioning Support Unit)
+* Explore with your GP IT delivery partner the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * Clinical Commissioning Group (CCG)
 * New supplier (target) - The new supplier of the GP clinical system
 * Existing supplier (Source) - Existing supplier of the GP clinical system
@@ -134,7 +134,7 @@ The Kick-off is a good opportunity to also run through the following...
 
 ### Common data issues, housekeeping and clean-up tasks
 
-Ask the new supplier (target) or Commissioning Support Unit (CSU) to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
+Ask the new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
 
 The objective is to identify any tasks that the Practice can start rectifying early and before the [Initial data production phase](initial-data-production). As time goes on, the amount of work the Practice needs to complete will grow, so getting ahead can ease the pressure.
 

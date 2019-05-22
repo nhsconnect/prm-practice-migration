@@ -47,7 +47,7 @@ __Recommendation__ - Avoid busy periods for your practice and surrounding area a
 
 ### Register the migration on the Tracking Database
 
-The initial registration of the migration on the [Tracking Database](https://digital.nhs.uk/services/tracking-database) is usually completed by the Commissioning Support Unit (CSU) however this may differ by region.
+The initial registration of the migration on the [Tracking Database](https://digital.nhs.uk/services/tracking-database) is usually completed by the GP IT delivery partner (such as a Commissioning Support Unit) however this may differ by region.
 
 
 #### Procure the new system

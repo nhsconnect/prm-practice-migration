@@ -11,7 +11,7 @@ previouspage:
 
 The approach, amount and timing of training widely differs from region to region and can happen throughout the end to end migration process. 
 
-* Some Practices receive training from the Clinical Support Units (CSUs) where they have dedicated trainers
+* Some Practices receive training from the GP IT delivery partner (such as a Commissioning Support Unit) where they have dedicated trainers
 
 * Some Practices receive training from the new supplier (The new supplier of the GP Core System)
 

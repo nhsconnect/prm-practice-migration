@@ -61,7 +61,7 @@ We encourage you to hold a ‘Retrospective’ session with all the key people i
 
 * What would you do differently if you had to migrate again?
 
-Any learnings from this session can be used by the Clinical Commissioning Group (CCG) or Commissioning Support Unit (CSU) to iterate and improve processes for future migrations.
+Any learnings from this session can be used by the Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
 
 
 ## Send us your learnings

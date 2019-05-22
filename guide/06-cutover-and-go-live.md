@@ -61,7 +61,7 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 
 ### Configure devices
 
-Scanning devices, check in and call waiting boards etc are configured. This is usually completed by the Clinical Support Unit (CSU)  
+Scanning devices, check in and call waiting boards etc are configured. This is usually completed by the GP IT delivery partner (such as a Commissioning Support Unit)  
 
 
 ### Hardware replacement
