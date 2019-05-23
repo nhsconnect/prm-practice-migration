@@ -10,7 +10,11 @@ Parameters:
 {% endcomment %}
 
 <div class="step-item">
+    {% if include.tilte_url %}
     <a href="{{ include.title_url | default: '/' | relative_url }}"><h3 class="title">{{ include.title }}</h3></a>
+    {% else %}
+    <h3 class="title">{{ include.title }}</h3>
+    {% endif %}
     {% if include.subtitle %}
     <div class="subtitle">{{ include.subtitle }}</div>
     {% endif %}
