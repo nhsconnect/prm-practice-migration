@@ -4,10 +4,33 @@ This guide aims to help Practices, GP IT delivery partners (such as a Commission
 
 You can find the guide at https://nhsconnect.github.io/prm-practice-migration
 
+## Content
+- Editing this guide
+  - Links and Permalinks
+    - How to format permalinks/links throughout the guide
+    - Linking to a particular section within the guide
+  - Guide Navigation
+    - Change the menu/footer navigation
+    - Change the sidebar items in the guide pages
+  - Adding breadcrumbs to a page and previous/next links
+    - Breadcrumbs
+    - Previous / Next links
+  - Custom Parts/Sections of the Guide
+    - CTA Button
+    - Action Link
+    - Insets
+    - Steps/Timeline Component
+      - Adding steps/events timeline to a page
+      - Ordering the steps/events
+      - Displaying the steps in a page
+ 
+
 ## Editing this guide 
 The guide's content is rendered statically by Jekyll. We have used, applied and adapted certain components from the NHS Design System to be able to use and reuse throughout the pages. To be able to change them, we have done our best to document them below.
 
-### How to format permalinks/links throughout the guide
+### Link and Permalinks
+
+#### How to format permalinks/links throughout the guide
 As the guide is currently hosted on Github Pages, if the content you're editing is markdown, make sure to include the leading `/prm-practice-migration/` prefix to the links when linking from Markdown.
 
 However, when setting content variables for Jekyll pages, that is not necessary, as Jekyll is aware of this prefix.
@@ -23,7 +46,29 @@ Example:
 | `/guide/kick-off`    | `/guide/kick-off/`   |
 |                      | `guide/kick-off`     |
 
-### Change the menu/footer navigation
+#### Linking to a particular section within the guide
+There is often a need to link to a particular section of the guide, this may be to a point half way down on a long page. To do this you can use bookmarks. Every Heading you create will auto generate a bookmark that you can link to
+
+For example, if you have a heading such as:
+
+```### Notification of 3rd parties and links```
+
+Will auto generate a heading with an ID as follows:
+
+```<h2 id="notification-of-3rd-parties-and-links">Notification of 3rd parties and links</h2>```
+
+You can also define a custom ID to guarrantee the integrity of any links should the heading copy be changed. You do this using the following syntax
+
+```### Notification of 3rd parties and links  {#notify-3rd-parties}```
+
+Which will auto generate a heading with an ID as follows:
+
+```<h2 id="#notify-3rd-parties">Notification of 3rd parties and links</h2>```
+
+
+### Guide navigation
+
+#### Change the menu/footer navigation
 To add, edit or reorder the menu items at the top of the page, edit the file `_data/menu_navigation.yml` page. 
 
 
@@ -65,26 +110,6 @@ nextpage: /guide/technical-survey
 previouspage: /guide/get-started
 ```
 
-### Linking to a particular section within the guide
-There is often a need to link to a particular section of the guide, this may be to a point half way down on a long page. To do this you can use bookmarks. Every Heading you create will auto generate a bookmark that you can link to
-
-For example, if you have a heading such as:
-
-```### Notification of 3rd parties and links```
-
-Will auto generate a heading with an ID as follows:
-
-```<h2 id="notification-of-3rd-parties-and-links">Notification of 3rd parties and links</h2>```
-
-You can also define a custom ID to guarrantee the integrity of any links should the heading copy be changed. You do this using the following syntax
-
-```### Notification of 3rd parties and links  {#notify-3rd-parties}```
-
-Which will auto generate a heading with an ID as follows:
-
-```<h2 id="#notify-3rd-parties">Notification of 3rd parties and links</h2>```
-
-
 ### Custom Parts/Sections of the Guide
 Some content can be displayed in certain format for emphasis. We have reused and adapted elements from the NHS Design System for this.
 
@@ -117,7 +142,7 @@ Then to be able to highlight the captured content, add the module code and pass 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 ```
 
-### The Steps/Timeline Component
+### Steps/Timeline Component
 This component is a custom component built to showcase a series of events or steps. In order to set one you'll have to add new Markdown pages in the `_steps` folder and ensure their group ID and order is set.
 
 #### Adding steps/events timeline to a page
