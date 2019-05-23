@@ -5,24 +5,24 @@ This guide aims to help Practices, GP IT delivery partners (such as a Commission
 You can find the guide at https://nhsconnect.github.io/prm-practice-migration
 
 ## Content
-- Editing this guide
-  - Links and Permalinks
-    - How to format permalinks/links throughout the guide
-    - Linking to a particular section within the guide
-  - Guide Navigation
-    - Change the menu/footer navigation
-    - Change the sidebar items in the guide pages
-  - Adding breadcrumbs to a page and previous/next links
-    - Breadcrumbs
-    - Previous / Next links
-  - Custom Parts/Sections of the Guide
-    - CTA Button
-    - Action Link
-    - Insets
-    - Steps/Timeline Component
-      - Adding steps/events timeline to a page
-      - Ordering the steps/events
-      - Displaying the steps in a page
+- [Editing this guide](#editing-this-guide)
+  - [Links and Permalinks](#link-and-permalinks)
+    - [How to format permalinks/links throughout the guide](#how-to-format-permalinkslinks-throughout-the-guide)
+    - [Linking to a particular section within the guide](#linking-to-a-particular-section-within-the-guide)
+  - [Guide Navigation](#guide-navigation)
+    - [Change the menu/footer navigation](#change-the-menufooter-navigation)
+    - [Change the sidebar items in the guide pages](#change-the-sidebar-items-in-the-guide-pages)
+  - [Adding breadcrumbs to a page and previous/next links](#adding-breadcrumbs-to-a-page-and-previousnext-links)
+    - [Breadcrumbs](#breadcrumbs)
+    - [Previous / Next links](#previous--next-links)
+  - [Custom Parts/Sections of the Guide](#custom-partssections-of-the-guide)
+    - [Adding a CTA button](#adding-a-cta-button)
+    - [Adding an action link](#adding-an-action-link)
+    - [Adding emphasis to page content with Insets](#adding-emphasis-to-page-content-with-insets)
+    - [Steps/Timeline Component](#stepstimeline-component)
+      - [Adding steps/events timeline to a page](#adding-stepsevents-timeline-to-a-page)
+      - [Ordering the steps/events](#ordering-the-stepsevents)
+      - [Displaying the steps in a page](#displaying-the-steps-in-a-page)
  
 
 ## Editing this guide 
