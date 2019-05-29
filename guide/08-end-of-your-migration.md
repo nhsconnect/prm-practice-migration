@@ -68,4 +68,4 @@ Any learnings from this session can be used by the Clinical Commissioning Group 
 
 We would also like to receive any learnings you have from your migration so that we can iterate and improve this guide as well as the overall migration process.
 
-This information can be sent to enquiries@nhsdigital.nhs.uk marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital.
+Feedback and learnings can be sent to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital
