@@ -6,6 +6,7 @@ You can find the guide at https://nhsconnect.github.io/prm-practice-migration
 
 ## Content
 - [Editing this guide](#editing-this-guide)
+  - [Using Markdown for content](#using-markdown-for-content)
   - [Links and Permalinks](#link-and-permalinks)
     - [How to format permalinks/links throughout the guide](#how-to-format-permalinkslinks-throughout-the-guide)
     - [Linking to a particular section within the guide](#linking-to-a-particular-section-within-the-guide)
@@ -24,6 +25,7 @@ You can find the guide at https://nhsconnect.github.io/prm-practice-migration
       - [Adding steps/events timeline to a page](#adding-stepsevents-timeline-to-a-page)
       - [Ordering the steps/events](#ordering-the-stepsevents)
       - [Displaying the steps in a page](#displaying-the-steps-in-a-page)
+  - [Getting access to edit this guide](#getting-access-to-edit-this-guide)
  
 
 ## Editing this guide 
@@ -200,3 +202,8 @@ Ensure the `order` parameter is set correctly in the right desired order on all 
 Finally, add the include code into the page you want the steps/timeline to be displayed. Change the group from `example-group-id` to your own group name. All steps under the same group will be then displayed on the page the module is included.
 
 ```{%- include steps/steps.html group='example-group-id' -%}```
+
+
+## Getting access to edit this guide
+
+For access to edit this guide, you can contact James Spirit or Brian Diggle, NHS Digital.
