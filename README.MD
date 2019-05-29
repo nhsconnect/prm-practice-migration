@@ -27,11 +27,24 @@ You can find the guide at https://nhsconnect.github.io/prm-practice-migration
  
 
 ## Editing this guide 
-The guide's content is rendered statically by Jekyll. We have used, applied and adapted certain components from the NHS Design System to be able to use and reuse throughout the pages. To be able to change them, we have done our best to document them below.
+
+The guide's content is presented as a static website which is compiled by [Jekyll](https://jekyllrb.com/) (a widely used static website generator) and hosted by the NHS's GitHub pages. Changes made to the content and commited to this directly will automatically re-generate the site and publish them here [https://nhsconnect.github.io/prm-practice-migration](https://nhsconnect.github.io/prm-practice-migration) (Please note that this is a temporary location whilst the guide is in draft). 
+
+We have used, applied and adapted certain components from the [NHS Design System](https://beta.nhs.uk/service-manual/) which are available to use and reuse throughout the site. We have done our best to document how to use them below.
+
+
+### Using Markdown for content
+
+The guide content is written in Markdown which is a lightweight markup language with plain text formatting, with the goal of making it easier for editors to write content that can be styled without having to learn HTML.
+
+There are many Markdown guides and [cheatsheets available online such as this](https://www.markdownguide.org/cheat-sheet/) to help you style your content.
+
 
 ### Link and Permalinks
 
+
 #### How to format permalinks/links throughout the guide
+
 As the guide is currently hosted on Github Pages, if the content you're editing is markdown, make sure to include the leading `/prm-practice-migration/` prefix to the links when linking from Markdown.
 
 However, when setting content variables for Jekyll pages, that is not necessary, as Jekyll is aware of this prefix.
@@ -47,7 +60,9 @@ Example:
 | `/guide/kick-off`    | `/guide/kick-off/`   |
 |                      | `guide/kick-off`     |
 
+
 #### Linking to a particular section within the guide
+
 There is often a need to link to a particular section of the guide, this may be to a point half way down on a long page. To do this you can use bookmarks. Every Heading you create will auto generate a bookmark that you can link to
 
 For example, if you have a heading such as:
@@ -70,10 +85,12 @@ Which will auto generate a heading with an ID as follows:
 ### Guide navigation
 
 #### Change the menu/footer navigation
+
 To add, edit or reorder the menu items at the top of the page, edit the file `_data/menu_navigation.yml` page. 
 
 
 #### Change the sidebar items in the guide pages
+
 Similar to the menu navigtion, to add, edit or reorder the sidebar items at side of the page when a `page_with_sidebar` layout is use on a page, edit the file `_data/sidebar_navigation.yml` page. To add sub items in the hierarchy, include a subitems attribute and repeat the title/url structure.
 
 ```yml
@@ -89,7 +106,9 @@ sidebar_items:
     url: /sidebar-item-url-2
 ```
 
+
 ### Adding breadcrumbs to a page and previous/next links
+
 Before adding links to a page, make sure to check the above guidance on permalinks.
 
 To set breadcrumbs and previous/next links, pages can have certain variables defined which will allow the breadcrumbs and previous/next modules to display correctly.
@@ -103,7 +122,9 @@ For a page to correctly display it's parent, the `breadcrumbparent` parameter ha
 breadcrumbparent: /guide
 ```
 
+
 #### Previous / Next links
+
 For a page to correctly display it's previous and next links, the `previouspage` and `nextpage` parameters have to be set in the header of that page.
 
 ```markdown
@@ -111,10 +132,13 @@ nextpage: /guide/technical-survey
 previouspage: /guide/get-started
 ```
 
+
 ### Custom Parts/Sections of the Guide
 Some content can be displayed in certain format for emphasis. We have reused and adapted elements from the NHS Design System for this.
 
+
 ### Adding buttons to a page 
+
 
 #### Adding a CTA button
 To add a big CTA button into your page, copy this code and add to your file and edit where you wan to link and what you want it read.
@@ -143,10 +167,14 @@ Then to be able to highlight the captured content, add the module code and pass 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 ```
 
+
 ### Steps/Timeline Component
+
 This component is a custom component built to showcase a series of events or steps. In order to set one you'll have to add new Markdown pages in the `_steps` folder and ensure their group ID and order is set.
 
+
 #### Adding steps/events timeline to a page
+
 Under the `_steps` folder create a folder named on the group of steps or events. Each page under a group must have the following headings:
 
 ```
@@ -161,10 +189,14 @@ group: example-group-id
 Example content.
 ```
 
+
 #### Ordering the steps/events
+
 Ensure the `order` parameter is set correctly in the right desired order on all the pages mathing the same group.
 
+
 #### Displaying the steps in a page
+
 Finally, add the include code into the page you want the steps/timeline to be displayed. Change the group from `example-group-id` to your own group name. All steps under the same group will be then displayed on the page the module is included.
 
 ```{%- include steps/steps.html group='example-group-id' -%}```
