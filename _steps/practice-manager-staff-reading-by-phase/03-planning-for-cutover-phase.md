@@ -26,9 +26,9 @@ group: practice-manager-staff-reading-by-phase
 
 * [Consultations](/prm-practice-migration/guide/planning-for-cut-over#consulations)
 
-* [Home visits](/prm-practice-migration/guide/planning-for-cut-over#home-visits)
+* [Home visits](guide/planning-for-cut-over#home-visits)
 
-* [Telephone calls to paitents](/prm-practice-migration/guide/planning-for-cut-over#telephone-calls-to-patients)
+* [Telephone calls to patients](guide/planning-for-cut-over#telephone-calls-to-patients)
 
 * [Prescriptions](/prm-practice-migration/guide/planning-for-cut-over#prescriptions)
 
