@@ -92,6 +92,12 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 
 ### Prescriptions: 
+
+* Within the Electronic Prescribing System (ePS), repeat dispensing prescriptions are issued individually by the prescribing system and signed and sent individually to Spine as required for the patient. There is a dependency on the prescribing system to retain the information after a migration as it needs to continue generating prescription issues for the authorised period.
+
+** Any outstanding repeat dispensing issues held on the Spine for a patient will therefore need to be cancelled and re-issued after go live. This is also a good time to advise the partner pharmacies in your area so they could also prepare for this.
+
+** A report can be run within the practice to identify patients likely to be affected, as this will allow any new or remaining issues to be lined up with cutover. For example a patient who has a six monthly set of issues could have their last issue of six due in the period covering cutover, so they will not need a re-issue of these until after Go Live.
  
 * Keep a record of all prescription requests made/issued during the ‘cut-over’ period. Ideally batch all the repeat prescription requests together by date order. If any requests are taken by phone/over the counter/any other method, you will need to make a note of those and add them to the batched information  
 
