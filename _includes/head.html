@@ -11,7 +11,8 @@
 	<link href="{{ "/assets/favicons/apple-touch-icon.png" | prepend: site.baseurl }}" rel="apple-touch-icon">
 	<!-- Firefox, Chrome, Safari, IE 11+ and Opera. 192x192 pixels in size. -->
 	<link href="{{ "/assets/favicons/favicon.png" | prepend: site.baseurl }}" rel="icon">
-
+	
+	<meta name="robots" content="noindex">
 	<meta property="og:url" content="{{ site.url }}">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{{ site.description}}">
