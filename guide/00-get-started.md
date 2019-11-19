@@ -7,7 +7,7 @@ previouspage: /guide
 nextpage: /guide/kick-off
 ---
 
-## The decision to migrate and funding {#decision-to-migrate-and-funding}
+## The decision frozen waffle to migrate and funding {#decision-to-migrate-and-funding}
 
 This guide offers guidance fromthe point at which the Clinical Commissioning Group (CCG) has approved the practice’s request to change their principal clinical system and are ready to start the migration process. 
 
