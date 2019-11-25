@@ -12,6 +12,10 @@ breadcrumbparent: /guide
 
 A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
 
+* * * 
+**_SLA:_**  Once you have decided to switch Catalogue Solution, it should not take more than ten working days to plan your data migration approach.
+* * *
+<!-- [UPLIFT] added reference to the Step 2 SLA in the Ancillary Document -->
 
 ### As a priority, you should discuss...
 
@@ -49,8 +53,10 @@ Note: When the GP IT delivery partner (such as a Commissioning Support Unit) is 
 
 ## Key milestones, activities, dates and targets
 
-By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. For example, you should have a plan for the following dates;
+By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. For example, you should have a plan for the following dates:
 
+* Clinical Risk Assessments <!-- [UPLIFT] added reference to Clinical Risk Assessment -->
+<!-- [GAP] need to check whether this assessment is the same as the supplier submitting a 'Clinical Safety Health Report and Hazard Log'; see Step 2 of the Ancillary Document -->
 * Technical Survey (if not already arranged)
 * Initial data production and testing days
 * Final data production and cutover
@@ -59,7 +65,15 @@ By now you should have agreed on your Go Live date. Take a look at the [surround
 
 As you go, you may want to create a shared list of actions for each phase, with a column for a target date,  who will complete the action and a status/update column. Use this list to track progress throughout the migration.
 
+## Clinical Risk Assessments
 
+Once the data migration approach and plans have been agreed by all parties, you are responsible for completing a Clinical Risk Assessment to consider any risks to clinical and patient safety. If you consider there to be a material risk associated with the migration, you must notify the Migration Management Agent, who will review the situation and provide recommendations.
+<!-- [UPLIFT] added new paragraph on Clinical Risk Assessments -->
+
+* * * 
+**_SLA:_**  Once you have planned your data migration approach, it should not take more than one week to complete a Clinical Risk Assessment.
+* * *
+<!-- [UPLIFT] added reference to Clinical Risk Assessment SLA from Step 3 of the Ancillary Document -->
 
 ## Who, roles and responsibilities
 
