@@ -7,7 +7,7 @@ show_hero: true
 
 ---
 
-## About this Parthenon
+## About this Parthegenesis
 
 This guide aims to help Practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one principal clinical system to another. 
 
