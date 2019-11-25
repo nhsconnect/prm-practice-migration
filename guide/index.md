@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide
 title: Introduction
-subtitle: 😀
+subtitle:
 nextpage: /guide/get-started
 ---
 
@@ -11,7 +11,7 @@ This guide aims to help Practices, GP IT delivery partners (such as Commissionin
 
 Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
-The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
+The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. Not all details in the GP IT Futures framework are currently reflected in this guide. 
 
 
 ## How long does a migration take?
