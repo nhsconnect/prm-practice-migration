@@ -16,6 +16,7 @@ Note: This is subject to the conditions described in the [CCG-Practice Agreement
 Prior to this, there are a number of steps that will have been completed such as:
 
 * Practice completes a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution.
+<!-- [UPLIFT] New process for completing business case template -->
 
 * Clinical Commissioning Group (CCG) and any local boards approve the business case and secure funding. 
 
@@ -55,7 +56,7 @@ The initial registration of the migration on the Catalogue is usually completed 
 * The Clinical Commissioning Group (CCG) validates these procurement documents in the Catalogue
 
 * The new supplier (target) is notified that the procurement documents have been submitted and validates them
-<!-- need to specify what the target supplier is reviewing and validating if not a Schedule A -->
+<!-- [GAP] need to specify what the target supplier is reviewing and validating if not a Schedule A -->
 * The new supplier (target) will confirm the availability of the preferred Go-Live dates
 
 
