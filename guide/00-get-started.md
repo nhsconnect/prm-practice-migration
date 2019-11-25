@@ -89,10 +89,15 @@ __Lesson learnt__ - If the document necessary to decommission the existing suppl
 
 A formal data extract request needs to be sent to the existing supplier (source) of the principal clinical system using the [steps detailed below](#steps-to-request-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](initial-data-production).
 
-__The request needs to be completed as early as possible__. The suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks' notice. __Any delays to giving notice may impact the migration timeline__.
+__The request needs to be completed as early as possible__. 
 
-This will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
+* * * 
+**_SLA:_**  The Source Solution Supplier has no more than five working days to provide all the data extract(s) you request in a suitable, encrypted, electronic format as documented in the DDE.
+* * *
+<!-- [UPLIFT] added reference to part 2 of Step 7 SLA from the Ancillary Document-->
 
+Data extract requests will also need to be submitted to any other suppliers who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
+<!-- [REWORDED] to enable continued description of data extract requests in relation to other suppliers -->
 
 #### Steps to requesting the data extract {#steps-to-request-data-extract}
 
