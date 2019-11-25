@@ -19,7 +19,7 @@ If you do not have confirmation from the existing supplier that the extract will
 
 A data extract request will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
-__The request needs to be completed as early as possible__. The exisitng suppliers (source) have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
+__The request needs to be completed as early as possible__. The existing suppliers (source) have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
 ## Clean up the current system data
 
@@ -27,6 +27,11 @@ The new supplier (target) (providing the new clinical system) or GP IT delivery 
 
 Rectifying the data early and before the [Initial data production phase](initial-data-production) will reduce the amount of work the Practice needs to complete during later phases.
 
+* * * 
+**_SLA:_**  Reviewing the quality of the data in your current system should not take more than six weeks. This review should include identifying any irregularities in the data, performing standard data quality checks and assessing any misused codes or concepts, such as clinical findings terms.
+* * *
+<!-- [UPLIFT] added reference to Step 4 SLA from the Ancillary Document -->
+<!-- [GAP] need to check whether 'Source Solution data quality review' is the same activity as 'Clean up the current system data' i.e. is the SLA here in the right place? -->
 
 ### Tasks include...
 
