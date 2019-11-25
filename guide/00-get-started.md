@@ -57,8 +57,13 @@ The initial registration of the migration on the Catalogue is usually completed 
 <!-- [GAP] Need to add details that explain how to complete equivalent of 'Schedule A' on the Catalogue -->
 * The new supplier (target) is notified that the procurement documents have been submitted and validates them
 <!-- [GAP] need to specify what the target supplier is reviewing and validating if not a Schedule A -->
-* The new supplier (target) will confirm the availability of the preferred Go-Live dates
+* The new supplier (target) will confirm the availability of the preferred Go Live dates
 
+* * * 
+**_SLA:_**  If a Migration Management Agent contacts a Supplier to clarify any points regarding information submitted through the Catalogue, or any other queries relating to a migration, the Supplier must provide a response within five working days. A Migration Management Agent is a representative of NHS, working as part of a central support team to facilitate the resolution of migrated-related issues upon request from any of the parties involved in the migration.
+* * *
+<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
+<!-- [GAP] need to clarify the exact definition of a Migration Management Agent -->
 
 {%- capture lesson_learnt_2 -%}
 __Lesson learnt__ - Submodules of the new clinical system may need to be raised within the procurement documents and this activity can be missed. For example, appointments modules, document management, data entry forms.
