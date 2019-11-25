@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide
 title: Introduction
-subtitle:
+subtitle: 😀
 nextpage: /guide/get-started
 ---
 
