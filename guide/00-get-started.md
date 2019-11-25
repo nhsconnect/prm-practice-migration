@@ -48,13 +48,13 @@ __Recommendation__ - Avoid busy periods for your practice and surrounding area a
 ### Register the migration on the Catalogue
 
 The initial registration of the migration on the Catalogue is usually completed by the GP IT delivery partner (such as a Commissioning Support Unit) however this may differ by region.
-
+<!-- [GAP] Need to add details that explain how to complete initial registration of the migration on the Catalogue -->
 
 #### Procure the new system
 
 * Procurement documents are completed for the new supplier (target) and are “called off”/logged in the Catalogue
 * The Clinical Commissioning Group (CCG) validates these procurement documents in the Catalogue
-
+<!-- [GAP] Need to add details that explain how to complete equivalent of 'Schedule A' on the Catalogue -->
 * The new supplier (target) is notified that the procurement documents have been submitted and validates them
 <!-- [GAP] need to specify what the target supplier is reviewing and validating if not a Schedule A -->
 * The new supplier (target) will confirm the availability of the preferred Go-Live dates
@@ -69,11 +69,12 @@ __Lesson learnt__ - Submodules of the new clinical system may need to be raised 
 
 #### Decommission the existing/old system system
 
-The same process happens for the decommissioning of the existing supplier (source), a _Schedule A_ is “called off”/logged in the Catalogue.
-
+The same process happens for the decommissioning of the existing supplier (source), with the necessary documents “called off”/logged in the Catalogue.
+<!-- [GAP] Need to add details that explain how to submit the equivalent of a 'Schedule A' on the Catalogue to indicate intent to decommission -->
 
 {%- capture lesson_learnt_3 -%}
 __Lesson learnt__ - If the document necessary to decommission the existing supplier’s system (source) is not sent at this point the NHS will continue to pay for the service for longer than needed.
+<!-- [GAP] Need to add details regarding 'the document necessary to decommission'-->
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
