@@ -12,11 +12,12 @@ This guide aims to help Practices, GP IT delivery partners (such as Commissionin
 Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. Not all details in the GP IT Futures framework are currently reflected in this guide. 
-
+<!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->
 
 ## How long does a migration take?
 
-Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate in the [Tracking Database](/prm-practice-migration/guide#register-the-migration-on-the-tracking-database) to the end of the [Post Go Live](/prm-practice-migration/guide/post-go-live) activity is complete.
+Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate on the Catalogue to the end of the [Post Go Live](/prm-practice-migration/guide/post-go-live) activity is complete.
+<!-- [GAP] Need to add details that explain how to register intent to migrate via the Catalogue -->
 
 
 ## Overview of key phases
