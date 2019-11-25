@@ -15,7 +15,7 @@ Note: This is subject to the conditions described in the [CCG-Practice Agreement
 
 Prior to this, there are a number of steps that will have been completed such as:
 
-* Practice completes a [business justification template] (https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution.
+* Practice completes a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution.
 
 * Clinical Commissioning Group (CCG) and any local boards approve the business case and secure funding. 
 
