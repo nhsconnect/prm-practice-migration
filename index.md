@@ -1,13 +1,13 @@
 ---
 layout: home
-title: A PARTH to migrating your principal clinical system
+title: A MARGO to migrating your principal clinical system
 subtitle: 
 hide_breadcrumbs: true
 show_hero: true
 
 ---
 
-## About this parth
+## About this Parthenon
 
 This guide aims to help Practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one principal clinical system to another. 
 
