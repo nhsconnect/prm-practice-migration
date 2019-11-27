@@ -15,7 +15,8 @@ This is the time to start completing the items discussed in the Kick-off.
 
 By now you should have [formally requested a data extract from the existing supplier](/prm-practice-migration/guide/get-started#request-data-extract) (source) of the principal clinical system. 
 
-If you do not have confirmation from the existing supplier that the extract will be provided on the date requested, you need to chase this with them.
+If you do not have confirmation from the existing supplier that the extract will be provided on the date requested, you need to chase this with them. Once you have contacted a Source Supplier with your request, there is an SLA that states they have five working days to provide all the data extract(s) you require in a suitable, encrypted, electronic format as documented in the DDE.
+<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to a request for an extract -->
 
 A data extract request will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
