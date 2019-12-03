@@ -28,6 +28,11 @@ The initial data production activity enables [data checking](#data-checking) to 
 
 As part of the initial data production phase, the practice should be given access to the new system. The new supplier (target) will setup admin users (usually up to three).
 
+* * * 
+**_SLA:_**  The new supplier has two working days following loading of the data to make a test system trial environment available to your users.
+* * *
+<!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
+
 The new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
 
 {%- capture lesson_learnt_1 -%}
