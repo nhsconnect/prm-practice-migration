@@ -35,4 +35,3 @@ Migrations require a lot of planning and effort from practice staff, breaking th
 Here is an overview of the key phases...
 
 {%- include steps/steps.html group='migration-key-phases' -%}
-<!-- [GAP] why has this link gone strange? -->
