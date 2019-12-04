@@ -60,6 +60,10 @@ Data checking generally happens in 2-3 phases:
 2. Rechecking the data after the new supplier (target) has amended any issues found
 3. In some circumstances a third phase is required if further issues were found in the recheck, however, most migrations do not require this further recheck of the data.
 
+* * * 
+**_SLA:_**  You have up to five working days to complete the initial data check and report any issues to your new supplier.
+* * *
+<!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
 
 ### Timeline for data checking
 
