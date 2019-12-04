@@ -6,7 +6,7 @@ order: 5
 group: practice-manager-staff-reading-by-phase
 ---
 
-* [Have you notified any 3rd party services to swtich their services back on, pointing to the new system?](/prm-practice-migration/guide/post-go-live#switch-on-links) For example Electronic Prescription Service, Pathology and test labs
+* [Have you notified any 3rd party services to switch their services back on, pointing to the new system?](/prm-practice-migration/guide/post-go-live#switch-on-links) For example Electronic Prescription Service, Pathology and test labs
 
 * [Have registration links been checked Post Go-Live?](/prm-practice-migration/guide/post-go-live#registration)
 
