@@ -30,8 +30,9 @@ As part of the initial data production phase, the practice should be given acces
 
 * * * 
 **_SLA:_**  The new supplier has two working days following loading of the data to make a test system trial environment available to your users.
+<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
 * * *
-<!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
+<!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14. Do we want a specific reference to the Ancillary doc within the guide? -->
 
 The new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
 
@@ -62,6 +63,7 @@ Data checking generally happens in 2-3 phases:
 
 * * * 
 **_SLA:_**  You have up to five working days to complete the initial data check and report any issues to your new supplier.
+<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
 * * *
 <!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
 
@@ -70,6 +72,12 @@ Data checking generally happens in 2-3 phases:
 All parties should agree on a timeline and target date for when the data checking tasks will be completed.
 
 We advise you to plan for between 3-5 days for each data checking phase. However, the rechecking phases may not take as long as the initial data checking.
+
+* * * 
+**_SLA:_**  You have up to five working days to complete the initial data check and report any issues to your new supplier.
+<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
+* * *
+<!-- [UPLIFT] added reference to the Steps 7-9 SLA from Ancillary Document p. 14 -->
 
 Clinical input will be required and the level of input may vary per practice. Please bear in mind that the Lead clinician will be responsible for signing off the data checking phase.
 
@@ -105,6 +113,12 @@ We recommend that issues are logged and reported to the new supplier (target) as
 Each new supplier (target) will have a set method of how they would like the issues to be reported. The Supplier should provide you with this information before or at the start of the initial data checking day.
 
 At the end of each data checking phase, there will be a period whereby the new supplier (target) will review and address the issues found, this may vary depending on the complexity of the issues reported.
+
+* * * 
+**_SLA:_**  There should not be a need for any more than five separate iterations of data extracts (whether full, partial or deltas) or more than five separate iterations of data transformation. If you find that you need to repeat this process more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.
+* * *
+<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
+<!-- [GAP] the Ancillary Document tells practices to escalate to a 'Migration Management Agent' but we don't yet know how practices are expected to contact this 'Agent'. Placeholder text instructs practices to contact their CCIO, who will escalate on their behalf-->
 
 The new supplier (target) will notify the practice when the issues have been fixed and the practice will then need to check the issue.
 
