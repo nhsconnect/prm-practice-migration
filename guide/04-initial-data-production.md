@@ -119,3 +119,8 @@ The new supplier (target) will notify the practice when the issues have been fix
 ## Signing off the data checking {#signing-off-the-data-checking}
 
 Once all issues have been addressed and all data checking tasks have been rechecked, the practice will be asked to ‘Sign off’ that the data is accurate and the practice is satisfied with the quality of the data.
+
+* * * 
+**_SLA:_** From the time you request data extracts from your old supplier, the whole process of checking and transforming your data should take no longer than six weeks.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em></br>
+* * *
+<!-- [UPLIFT] added reference to last sentence within Steps 7-9 SLA, p. 14 Ancillary Document -->
