@@ -20,6 +20,6 @@ aimed at reducing the impact to Practice staff and minimising the amount of manu
 ## Help us improve this guide
 
 This guide is in Beta and you are viewing the second version. You can help us improve this guide by sharing your experience and giving feedback
-
+<!-- [UPLIFT] added reference to the second version -->
 {%- include action_link.html link="/improve-this-guide" title="Give feedback on this guide" -%}
 
