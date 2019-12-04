@@ -40,10 +40,11 @@ __Lesson learnt__ - try to make sure that more than one member of staff attend t
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
+<!-- [GAP] Why isn't this 'lesson learnt' showing up correctly? -->
 
 
 ## Data checking {#data-checking}
-
+<!-- [GAP] Why isn't this heading 'Data Checking' showing up correctly? -->
 ### Preparation
 
 The following activities should have been completed in advance…
