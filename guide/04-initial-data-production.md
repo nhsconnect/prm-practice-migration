@@ -30,7 +30,7 @@ As part of the initial data production phase, the practice should be given acces
 
 * * * 
 **_SLA:_**  The new supplier has two working days following loading of the data to make a test system trial environment available to your users.
-<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
+<br /><pre><code>(GP IT Futures Catalogue Solution Migration Process, p. 14)</code></pre>
 * * *
 <!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14. Do we want a specific reference to the Ancillary doc within the guide? -->
 
@@ -63,7 +63,7 @@ Data checking generally happens in 2-3 phases:
 
 * * * 
 **_SLA:_**  You have up to five working days to complete the initial data check and report any issues to your new supplier.
-<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
+<br /><pre><code>(GP IT Futures Catalogue Solution Migration Process, p. 14)</code></pre>
 * * *
 <!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
 
@@ -110,7 +110,7 @@ At the end of each data checking phase, there will be a period whereby the new s
 
 * * * 
 **_SLA:_**  There should not be a need for any more than five separate iterations of data extracts (whether full, partial or deltas) or more than five separate iterations of data transformation. If you find that you need to repeat this process more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.
-<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
+<br /><pre><code>(GP IT Futures Catalogue Solution Migration Process, p. 14)</code></pre>
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 <!-- [GAP] the Ancillary Document tells practices to escalate to a 'Migration Management Agent' but we don't yet know how practices are expected to contact this 'Agent'. Placeholder text instructs practices to contact their CCIO, who will escalate on their behalf-->
