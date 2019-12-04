@@ -45,7 +45,7 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [GAP] why has this lesson learnt gone strange? -->
+<!-- [FORMAT] why has this lesson learnt gone strange? -->
 
 ### Dictionary of Medication and Devices mapping {#dictionary-of-medication-and-devices-mapping}
 
@@ -57,7 +57,7 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [GAP] why has this lesson learnt gone strange? -->
+<!-- [FORMAT] why has this lesson learnt gone strange? -->
 
 ### Configure devices
 
@@ -104,7 +104,7 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [GAP] why has this lesson learnt gone strange? -->
+<!-- [FORMAT] why has this lesson learnt gone strange? -->
 
 
 ## What to look out for
@@ -118,5 +118,28 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 * Fixing some degraded codes and data can take practice weeks or months, due to poor transfer into the new system.
 
 * New patients cannot complete registration until after the cut-off period so you will need to ask them to come back after Go Live.
+
+## Holding a process review
+
+Once you have gone live, your team should review the migration experience to ellicit any lessons learned. As a minimum, you will need to consider how effectively you and/or your IT Delivery Partner approached the following:
+
+* Mapping tables
+
+* Data migration
+
+* Provision of Documented Data Extract
+
+* Hazard Log and Clinical Safety Case
+
+* Issue Logs
+
+* Cut-over process
+
+<!-- [UPLIFT] added new section on 'Holding a process review', as detailed on p. 15 of the Ancillary document -->
+* * * 
+**_SLA:_**  You will need to complete and document this review within 2 weeks of business Go-Live.
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 16)</em></br>
+* * *
+<!-- [UPLIFT] added reference to the SLA from Step 10a in the Ancillary document, p. 16-->
 
  
