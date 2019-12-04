@@ -24,31 +24,27 @@ Arrangements will need to be in place to ensure access to Source Solution data a
 
 ## Update the tracking database {#update-the-tracking-database}
 <!-- [FORMAT] why has this heading gone strange? -->
-After the Practice has migrated, the [Tracking database](https://digital.nhs.uk/services/tracking-database) should be updated with the date of which deployment occurred. 
+<!-- [GAP] heading will need to read 'update the Catalogue' in any case -->
+After the Practice has migrated, the Catalogue should be updated with the date on which deployment occurred. 
+<!-- [UPLIFT] replace reference to Tracking Database with reference to Catalogue -->
 
 {%- capture lesson_learnt_1 -%}
-Not updating the Tracking database with the deployment details can cause issues with payments to the suppliers
+Not updating the Catalogue with the deployment details can cause issues with payments to the suppliers
+<!-- [UPLIFT] replace reference to Tracking Database with reference to Catalogue -->
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
 
+<!-- [GAP] need to clarify how to update the Catalogue with the date on which deployment occurred...
+Previous text:
 Steps to do this…
-
 * The new supplier (target) provides a ‘GPSoC-R Deployment Survey Form’ to the practice
-
 * The practice completes the ‘GPSoC-R Deployment Survey Form’
-
   - The form includes a Go-Live Date. It is essential that the Go-Live Date is entered.
-
   - The form includes a ‘Deployment Score’ section. This allows the practice to review their satisfaction with the deployment of the system or service
-
   - The form includes a ‘Comments’ section. This allows the practice detail why they gave the Deployment Score and detail any areas where they feel the supplier could improve their Deployment Service
-
 * Once the survey is complete, the practice sends the Deployment Survey Form to the Clinical Commissioning Group or Commissioning Support Unit (whichever is the assigned Tracking database administrator)
-
-* The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided
-
-
+* The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->
 
 ## Retrospective and feedback
 
