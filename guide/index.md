@@ -13,7 +13,7 @@ Approaches to migration can differ by region. This guide contains a collection o
 
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
 
-There are two key documents that are referenced throughout this guide:
+Two key documents are referenced throughout this guide:
 * GP IT Futures Catalogue Solution Migration Process
 * GP IT Futures Data Migration Standard
 <!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
