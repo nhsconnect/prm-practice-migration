@@ -44,22 +44,6 @@ Steps to do this…
 * Once the survey is complete, the practice sends the Deployment Survey Form to the Clinical Commissioning Group or Commissioning Support Unit (whichever is the assigned Tracking database administrator)
 * The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->
 
-## Retrospective and feedback
-
-We encourage you to hold a ‘Retrospective’ session with all the key people involved. A retrospective is a meeting whereby you look back at the events that took part during the migration and assess the following…
-
-* What worked well?
-
-
-* What didn’t work so well?
-
-
-* What would you do differently if you had to migrate again?
-
-
-Any learnings from this session can be used by the Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
-
-
 ## Send us your learnings
 
 We would also like to receive any learnings you have from your migration so that we can iterate and improve this guide as well as the overall migration process.
