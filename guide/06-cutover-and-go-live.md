@@ -45,7 +45,7 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-
+<!-- [GAP] why has this lesson learnt gone strange? -->
 
 ### Dictionary of Medication and Devices mapping {#dictionary-of-medication-and-devices-mapping}
 
@@ -57,7 +57,7 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
-
+<!-- [GAP] why has this lesson learnt gone strange? -->
 
 ### Configure devices
 
@@ -98,7 +98,7 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
-
+<!-- [GAP] why has this lesson learnt gone strange? -->
 
 
 ## What to look out for
