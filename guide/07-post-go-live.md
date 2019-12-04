@@ -40,11 +40,11 @@ The approach to this can differ depending on preferences.
 
 
 {%- capture lesson_learnt_1 -%}
-__Lesson learnt__ - We strongly recommend that practices draft in additional cover so that there arepeople and time dedicated to doing data re-entry. Practices that do not have dedicated time and people for data re-entry can struggle to complete the activity and causes additional strain on staff
+__Lesson learnt__ - We strongly recommend that practices draft in additional cover so that there are people and time dedicated to doing data re-entry. Practices that do not have dedicated time and people for data re-entry can struggle to complete the activity and causes additional strain on staff
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-
+<!-- [FORMAT] why has this lesson learnt gone strange? -->
 
 The average time to complete data re-entry can vary largely due to practice size and whether the practice has arranged dedicated people to do the required data re-entry.
 
