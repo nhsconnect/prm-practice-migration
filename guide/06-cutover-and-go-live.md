@@ -83,6 +83,11 @@ The new supplier (target) should check patient registration links are working in
 
 After re-checking, if the practice is satisfied that all the data has been transferred and the migration is successful, the practice can sign off Go Live Data and provide confirmation to the Supplier.  
 
+* * * 
+**_SLA:_**  The cut-over period should not exceed 72 hours or have an impact on core working hours. If the cut-over period exceeds 72 hours and/or has an impact on core working hours, report the details to your Chief Clinical Information Officer, who will escalate the matter to NHS. You will need to submit this report no later than 5 days after completion of the cut-over period.
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 15)</em></br>
+* * *
+<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 
 ## Go Live
 
