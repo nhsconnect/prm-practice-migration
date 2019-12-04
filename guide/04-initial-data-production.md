@@ -73,12 +73,6 @@ All parties should agree on a timeline and target date for when the data checkin
 
 We advise you to plan for between 3-5 days for each data checking phase. However, the rechecking phases may not take as long as the initial data checking.
 
-* * * 
-**_SLA:_**  You have up to five working days to complete the initial data check and report any issues to your new supplier.
-<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
-* * *
-<!-- [UPLIFT] added reference to the Steps 7-9 SLA from Ancillary Document p. 14 -->
-
 Clinical input will be required and the level of input may vary per practice. Please bear in mind that the Lead clinician will be responsible for signing off the data checking phase.
 
 The new supplier (target) should assist the practice on the first day of Phase 1 Initial data checking. 
@@ -116,6 +110,7 @@ At the end of each data checking phase, there will be a period whereby the new s
 
 * * * 
 **_SLA:_**  There should not be a need for any more than five separate iterations of data extracts (whether full, partial or deltas) or more than five separate iterations of data transformation. If you find that you need to repeat this process more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.
+<br />(GP IT Futures Catalogue Solution Migration Process, p. 14)
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 <!-- [GAP] the Ancillary Document tells practices to escalate to a 'Migration Management Agent' but we don't yet know how practices are expected to contact this 'Agent'. Placeholder text instructs practices to contact their CCIO, who will escalate on their behalf-->
