@@ -98,6 +98,11 @@ The old system is now read only and available for another 45 days as standard - 
 
 Third party systems should come back online.
 
+* * * 
+**_SLA:_**  Once you have given your new supplier the 'go-ahead' to Go Live, your supplier has up to 2 working days to turn on your new system.
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 18)</em></br>
+* * *
+<!-- [UPLIFT] added reference to Step 11 SLA from the Ancillary Document, p. 18 -->
 
 {%- capture lesson_learnt_3 -%}
 __Lesson learnt__ - Remember to notify and chase third party suppliers and services that were switched off during the cut-over period (e.g. Electronic Prescription Service, Pathology etc)
