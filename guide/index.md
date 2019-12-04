@@ -23,7 +23,7 @@ Two key documents are referenced throughout this guide:
 
 When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those Solutions, which are registered on the GP IT Futures Catalogue or Framework.
 <!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents. Also added qualifier to explain that DMI requirements only apply to registered solutions, as per the Data Migration Standard -->
-Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
+<br>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
 <!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
 >* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
@@ -43,7 +43,8 @@ Migrations on average take between 12-16 weeks. This is from the point of regist
 
 ## Overview of key phases
 
-Migrations require a lot of planning and effort from practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
+Migrations require a lot of planning and effort from practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable. Your new supplier is also required to provide details of their migration approach (DMI01), which should assist in planning. 
+<!-- [UPLIFT] added reference to requirement from the Data Migration Standard -->
 
 Here is an overview of the key phases...
 
