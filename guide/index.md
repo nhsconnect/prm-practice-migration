@@ -14,8 +14,8 @@ Approaches to migration can differ by region. This guide contains a collection o
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
 
 Two key documents are referenced throughout this guide:
-* GP IT Futures Catalogue Solution Migration Process
-* GP IT Futures Data Migration Standard
+>* GP IT Futures Catalogue Solution Migration Process
+>* GP IT Futures Data Migration Standard
 <!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
 
 <p>When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard.
