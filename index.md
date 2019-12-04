@@ -15,11 +15,11 @@ Whilst approaches to migrating can differ by region, this guide contains a colle
 aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 {%- include button.html title="Read the guide" link="/guide" -%}
-<!-- [FORMAT] how to show the missing content here? -->
+
 
 ## Help us improve this guide
 
-This guide is in Beta and you are viewing the first version. You can help us improve this guide by sharing your experience and giving feedback
+This guide is in Beta and you are viewing the second version. You can help us improve this guide by sharing your experience and giving feedback
 
 {%- include action_link.html link="/improve-this-guide" title="Give feedback on this guide" -%}
-<!-- [FORMAT] how to show the missing content here? -->
+
