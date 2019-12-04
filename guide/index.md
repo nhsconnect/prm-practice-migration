@@ -23,8 +23,7 @@ Two key documents are referenced throughout this guide:
 
 When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those Solutions, which are registered on the GP IT Futures Catalogue or Framework.
 <!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents. Also added qualifier to explain that DMI requirements only apply to registered solutions, as per the Data Migration Standard -->
-<br>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:</br>
-
+Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
 <!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
 >* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
