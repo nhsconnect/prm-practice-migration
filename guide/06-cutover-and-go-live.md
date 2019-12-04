@@ -87,7 +87,8 @@ After re-checking, if the practice is satisfied that all the data has been trans
 **_SLA:_**  The cut-over period should not exceed 72 hours or have an impact on core working hours. If the cut-over period exceeds 72 hours and/or has an impact on core working hours, report the details to your Chief Clinical Information Officer, who will escalate the matter to NHS. You will need to submit this report no later than 5 days after completion of the cut-over period.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 15)</em></br>
 * * *
-<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
+<!-- [UPLIFT] added reference to Step 10 SLA from Ancillary Document p.15 -->
+<!-- [GAP] need to clarify the role of a Migration Management Agent in this escalation: reference to CCIO is a generic placeholder -->
 
 ## Go Live
 
