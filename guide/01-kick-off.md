@@ -13,7 +13,7 @@ breadcrumbparent: /guide
 A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
 
 * * * 
-**_SLA:_**  Once you have decided to switch Catalogue Solution, it should not take more than ten working days to plan your data migration approach.
+**_SLA:_**  Once you have decided to switch Catalogue Solution, it should not take more than 10 working days to plan your data migration approach.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 10)</em>
 * * *
 <!-- [UPLIFT] added reference to the Step 2 SLA in the Ancillary Document -->
@@ -72,7 +72,7 @@ Once the data migration approach and plans have been agreed by all parties, you 
 <!-- [UPLIFT] added new paragraph on Clinical Risk Assessments -->
 
 * * * 
-**_SLA:_**  Once you have planned your data migration approach, it should not take more than one week to complete a Clinical Risk Assessment.
+**_SLA:_**  Once you have planned your data migration approach, it should not take more than 1 week to complete a Clinical Risk Assessment.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 10)</em>
 * * *
 <!-- [UPLIFT] added reference to Clinical Risk Assessment SLA from Step 3 of the Ancillary Document -->
