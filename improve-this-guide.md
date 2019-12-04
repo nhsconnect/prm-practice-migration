@@ -7,7 +7,7 @@ permalink: /improve-this-guide/
 ## Send us your feedback on this guide
 
 This guide is in Beta and you are viewing the second version. As we transition into GP IT Futures, this guide will be updated to reflect the details of the new framework. You can help us improve this guide by sharing your experience and giving feedback.
-
+<!-- [UPLIFT] mentioned this is the second version -->
 
 ## Send us your learnings from your migration
 
