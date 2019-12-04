@@ -18,12 +18,12 @@ Two key documents are referenced throughout this guide:
 * GP IT Futures Data Migration Standard
 <!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
 
-<p>When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard.</p>
+<p>When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard.
 <!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents -->
 This guide will continue to be updated, as the GP IT Futures framework develops and matures.
 <!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->
 
-<p>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:</p>
+<br>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
 
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
 >* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
