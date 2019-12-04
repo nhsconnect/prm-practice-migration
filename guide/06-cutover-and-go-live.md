@@ -137,7 +137,7 @@ Once you have gone live, your team should review the migration experience to ell
 
 <!-- [UPLIFT] added new section on 'Holding a process review', as detailed on p. 15 of the Ancillary document -->
 * * * 
-**_SLA:_**  You will need to complete and document this review within 2 weeks of business Go-Live.
+**_SLA:_**  You will need to complete and document this process review within 2 weeks of business Go-Live.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 16)</em></br>
 * * *
 <!-- [UPLIFT] added reference to the SLA from Step 10a in the Ancillary document, p. 16-->
