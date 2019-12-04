@@ -29,7 +29,7 @@ The initial data production activity enables [data checking](#data-checking) to 
 As part of the initial data production phase, the practice should be given access to the new system. The new supplier (target) will setup admin users (usually up to three).
 
 * * * 
-**_SLA:_** The new supplier has two working days following loading of the data to make a test system trial environment available to your users.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em></br>
+**_SLA:_** The new supplier has 2 working days following loading of the data to make a test system trial environment available to your users.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
 * * *
 <!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14. Do we want a specific reference to the Ancillary doc within the guide? -->
 
@@ -40,11 +40,10 @@ __Lesson learnt__ - try to make sure that more than one member of staff attend t
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [GAP] Why isn't this 'lesson learnt' showing up correctly? -->
 
 
 ## Data checking {#data-checking}
-<!-- [GAP] Why isn't this heading 'Data Checking' showing up correctly? -->
+
 ### Preparation
 
 The following activities should have been completed in advance…
@@ -62,7 +61,7 @@ Data checking generally happens in 2-3 phases:
 3. In some circumstances a third phase is required if further issues were found in the recheck, however, most migrations do not require this further recheck of the data.
 
 * * * 
-**_SLA:_** You have up to five working days to complete the initial data check and report any issues to your new supplier.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em></br>
+**_SLA:_** You have up to 5 working days to complete the initial data check and report any issues to your new supplier.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
 * * *
 <!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
 
@@ -108,7 +107,7 @@ Each new supplier (target) will have a set method of how they would like the iss
 At the end of each data checking phase, there will be a period whereby the new supplier (target) will review and address the issues found, this may vary depending on the complexity of the issues reported.
 
 * * * 
-**_SLA:_** There should not be a need for any more than five separate iterations of data extracts, whether full, partial or deltas. If you find that you need to transform your data more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em></br>
+**_SLA:_** There should not be a need for any more than 5 separate iterations of data extracts, whether full, partial or deltas. If you find that you need to transform your data more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 <!-- [GAP] the Ancillary Document tells practices to escalate to a 'Migration Management Agent' but we don't yet know how practices are expected to contact this 'Agent'. Placeholder text instructs practices to contact their CCIO, who will escalate on their behalf-->
@@ -121,6 +120,6 @@ The new supplier (target) will notify the practice when the issues have been fix
 Once all issues have been addressed and all data checking tasks have been rechecked, the practice will be asked to ‘Sign off’ that the data is accurate and the practice is satisfied with the quality of the data.
 
 * * * 
-**_SLA:_** From the time you first request data extracts from your old supplier, the whole process of checking and transforming your data should take no longer than six weeks.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em></br>
+**_SLA:_** From the time you first request data extracts from your old supplier, the whole process of checking and transforming your data should take no longer than 6 weeks.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
 * * *
 <!-- [UPLIFT] added reference to last sentence within Steps 7-9 SLA, p. 14 Ancillary Document -->
