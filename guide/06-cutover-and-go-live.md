@@ -45,7 +45,6 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [FORMAT] why has this lesson learnt gone strange? -->
 
 ### Dictionary of Medication and Devices mapping {#dictionary-of-medication-and-devices-mapping}
 
@@ -57,7 +56,7 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [FORMAT] why has this lesson learnt gone strange? -->
+
 
 ### Configure devices
 
@@ -85,7 +84,7 @@ After re-checking, if the practice is satisfied that all the data has been trans
 
 * * * 
 **_SLA:_**  The cut-over period should not exceed 72 hours or have an impact on core working hours. If the cut-over period exceeds 72 hours and/or has an impact on core working hours, report the details to your Chief Clinical Information Officer, who will escalate the matter to NHS. You will need to submit this report no later than 5 days after completion of the cut-over period.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 15)</em></br>
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 15)</em>
 * * *
 <!-- [UPLIFT] added reference to Step 10 SLA from Ancillary Document p.15 -->
 <!-- [GAP] need to clarify the role of a Migration Management Agent in this escalation: reference to CCIO is a generic placeholder -->
@@ -100,7 +99,7 @@ Third party systems should come back online.
 
 * * * 
 **_SLA:_**  Once you have given your new supplier the 'go-ahead' to Go Live, your supplier has up to 2 working days to turn on your new system.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 18)</em></br>
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 18)</em>
 * * *
 <!-- [UPLIFT] added reference to Step 11 SLA from the Ancillary Document, p. 18 -->
 
@@ -109,7 +108,6 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [FORMAT] why has this lesson learnt gone strange? -->
 
 
 ## What to look out for
@@ -143,7 +141,7 @@ Once you have gone live, your team should review the migration experience to ell
 <!-- [UPLIFT] added new section on 'Holding a process review', as detailed on p. 15 of the Ancillary document -->
 * * * 
 **_SLA:_**  You will need to complete and document this process review within 2 weeks of business Go-Live.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 16)</em></br>
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 16)</em>
 * * *
 <!-- [UPLIFT] added reference to the SLA from Step 10a in the Ancillary document, p. 16-->
 
