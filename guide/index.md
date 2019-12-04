@@ -32,8 +32,7 @@ Performing a migration inevitably involves access to - and processing of - signi
 >* [NHS (Venereal Diseases) Regulations (1974)](http://www.legislation.gov.uk/uksi/1974/29/regulation/2/made)
 >* [NHS Data Dictionary](https://www.datadictionary.nhs.uk/?_cldee=bGluZHNheWpveWNlQG5ocy5uZXQ%3d&recipientid=contact-8126f32424a0e61180f95065f38bd5b1-cc367001e5d34f55a9ebb2da53a0be7b&esid=2921a4d1-5a70-e711-810d-5065f38bf2f1&urlid=0)
 >* [Records Management - NHS Code of Practice](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/codes-of-practice-for-handling-information-in-health-and-care/records-management-code-of-practice-for-health-and-social-care-2016) (DHSC)
->* Encryption guidance for health and care organisations
-<!-- [GAP] link missing for 'encryption guidance' reference -->
+>* Encryption guidance for health and care organisations<!-- [GAP] link missing for 'encryption guidance' reference -->
 >* [Chapter 8c of the General Practice GPG](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/215680/dh_125350.pdf)
 
 ## How long does a migration take?
