@@ -10,7 +10,7 @@ nextpage: /guide/kick-off
 ## The decision to migrate and funding {#decision-to-migrate-and-funding}
 <!-- [GAP] why has this heading gone strange? -->
 
-When procuring a new system, <em>it is the responsibility of the buyer to check all interoperability requirements</em>. In other words, if you procure a system that is not fully compatible with your existing additional services, you may need to default on your contract and pay a penalty.
+When procuring a new system, <em>it is the responsibility of the buyer to check all interoperability requirements</em>. In other words, if you procure a system that is not fully compatible with your other Capabilities, you may need to default on your contract and pay a penalty.
 <!-- [UPLIFT] added 'buyer beware' disclaimer to prompt practices that it's their responsibility to check interoperability -->
 
 This guide offers guidance from the point at which the Clinical Commissioning Group (CCG) has approved the practice’s request to change their principal clinical system and is ready to start the migration process.
