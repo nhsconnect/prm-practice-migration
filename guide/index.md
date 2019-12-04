@@ -36,6 +36,7 @@ Two key documents are referenced throughout this guide:
 >* [Records Management - NHS Code of Practice](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/codes-of-practice-for-handling-information-in-health-and-care/records-management-code-of-practice-for-health-and-social-care-2016) (DHSC)
 >* Encryption guidance for health and care organisations
 <!-- [GAP] link missing for 'encryption guidance' reference -->
+>* [Chapter 8c of the General Practice GPG](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/215680/dh_125350.pdf)
 
 ## How long does a migration take?
 
