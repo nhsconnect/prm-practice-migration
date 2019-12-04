@@ -13,4 +13,4 @@ Below you will find a summary of the key activities and questions that a Project
 ## Key questions and suggested reading by phase
 
 {%- include steps/steps.html group='project-manager-reading-by-phase' -%}
-<!-- [FORMAT] why are all the steps missing here? -->
+
