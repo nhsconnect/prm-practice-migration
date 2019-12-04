@@ -107,7 +107,7 @@ Each new supplier (target) will have a set method of how they would like the iss
 At the end of each data checking phase, there will be a period whereby the new supplier (target) will review and address the issues found, this may vary depending on the complexity of the issues reported.
 
 * * * 
-**_SLA:_** There should not be a need for any more than 5 separate iterations of data extracts, whether full, partial or deltas. If you find that you need to transform your data more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
+**_SLA:_** There should not be a need for more than 5 separate iterations of data extracts, whether full, partial or deltas. If you find that you need to transform your data more than five times, contact your Chief Clinical Information Officer, who will escalate the issue to NHS.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 <!-- [GAP] the Ancillary Document tells practices to escalate to a 'Migration Management Agent' but we don't yet know how practices are expected to contact this 'Agent'. Placeholder text instructs practices to contact their CCIO, who will escalate on their behalf-->
