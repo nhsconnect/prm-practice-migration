@@ -25,16 +25,15 @@ This guide will continue to be updated, as the GP IT Futures framework develops 
 
 Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
 
-<pre><code>* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
-* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
-* [NHS Act 2006 (Section 251)](http://www.legislation.gov.uk/ukpga/2006/41/section/251) (previously Section 60 of the Health and Social Care Act 2001)
-* [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/) (see [NHS Digital guidance on GDPR](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/information-governance-alliance-iga/general-data-protection-regulation-gdpr-guidance))
-* [NHS (Venereal Diseases) Regulations (1974)](http://www.legislation.gov.uk/uksi/1974/29/regulation/2/made)
-* [NHS Data Dictionary](https://www.datadictionary.nhs.uk/?_cldee=bGluZHNheWpveWNlQG5ocy5uZXQ%3d&recipientid=contact-8126f32424a0e61180f95065f38bd5b1-cc367001e5d34f55a9ebb2da53a0be7b&esid=2921a4d1-5a70-e711-810d-5065f38bf2f1&urlid=0)
-* [Records Management - NHS Code of Practice](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/codes-of-practice-for-handling-information-in-health-and-care/records-management-code-of-practice-for-health-and-social-care-2016) (DHSC)
-* Encryption guidance for health and care organisations
+>* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
+>* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
+>* [NHS Act 2006 (Section 251)](http://www.legislation.gov.uk/ukpga/2006/41/section/251) (previously Section 60 of the Health and Social Care Act 2001)
+>* [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/) (see [NHS Digital guidance on GDPR](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/information-governance-alliance-iga/general-data-protection-regulation-gdpr-guidance))
+>* [NHS (Venereal Diseases) Regulations (1974)](http://www.legislation.gov.uk/uksi/1974/29/regulation/2/made)
+>* [NHS Data Dictionary](https://www.datadictionary.nhs.uk/?_cldee=bGluZHNheWpveWNlQG5ocy5uZXQ%3d&recipientid=contact-8126f32424a0e61180f95065f38bd5b1-cc367001e5d34f55a9ebb2da53a0be7b&esid=2921a4d1-5a70-e711-810d-5065f38bf2f1&urlid=0)
+>* [Records Management - NHS Code of Practice](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/codes-of-practice-for-handling-information-in-health-and-care/records-management-code-of-practice-for-health-and-social-care-2016) (DHSC)
+>* Encryption guidance for health and care organisations
 <!-- [GAP] link missing for 'encryption guidance' reference -->
-</code></pre>
 
 ## How long does a migration take?
 
