@@ -20,6 +20,8 @@ The approach, amount and timing of training widely differs from region to region
 
 * Book rooms for training early
 
+* Arrange for external monitors to be used, if available
+<!-- [UPLIFT] added reference to device setup -->
 * After kick-off and before cut-over meeting, hold a training meeting to look at the training needs at an individual basis, create a training schedule and slot staff in
 
 * If possible, draft in additional support/cover so that there is dedicated people/time for training on the new system
