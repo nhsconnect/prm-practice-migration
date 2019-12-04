@@ -15,15 +15,17 @@ The guide does not cover everything that may need to happen in your migration bu
 <!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->
 
 Two key documents are referenced throughout this guide:
->* GP IT Futures Catalogue Solution Migration Process
->* GP IT Futures Data Migration Standard
 <!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
+>* GP IT Futures Catalogue Solution Migration Process
+<!-- [GAP] Is the Ancillary Document going to be made available online? -->
+>* [GP IT Futures Data Migration Standard](https://gpitbjss.atlassian.net/wiki/spaces/GPITF/pages/1391134456/Data+Migration)
+<!-- [GAP] Should we include a link to the Data Migration Standard here? -->
 
 <p>When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard.
 <!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents -->
 
 <br>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
-
+<!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
 >* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
 >* [NHS Act 2006 (Section 251)](http://www.legislation.gov.uk/ukpga/2006/41/section/251) (previously Section 60 of the Health and Social Care Act 2001)
