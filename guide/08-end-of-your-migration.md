@@ -44,8 +44,8 @@ Steps to do this…
 * Once the survey is complete, the practice sends the Deployment Survey Form to the Clinical Commissioning Group or Commissioning Support Unit (whichever is the assigned Tracking database administrator)
 * The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->
 
-## Send us your learnings
-
-We would also like to receive any learnings you have from your migration so that we can iterate and improve this guide as well as the overall migration process.
+## Don't forget to send us your learnings
 
 Feedback and learnings can be sent to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital
+
+<!-- [UPLIFT] this is a second request to send us learnings, so shortened this time with a different heading -->
