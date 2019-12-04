@@ -23,6 +23,17 @@ Two key documents are referenced throughout this guide:
 This guide will continue to be updated, as the GP IT Futures framework develops and matures.
 <!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->
 
+Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
+
+<pre><code>* Access to Medical Reports Act (1988)
+* Access to Health Records Act (1990)
+* NHS Act 2006 (Section 251) (previously Section 60 of the Health and Social Care Act 2001)
+* General Data Protection Regulation (GDPR) (see NHS Digital guidance on GDPR)
+* NHS (Venereal Diseases) Regulations (1974)
+* NHS Data Dictionary
+* Records Management - NHS Code of Practice (DHSC)
+</code></pre>
+
 ## How long does a migration take?
 
 Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate on the Catalogue to the end of the [Post Go Live](/prm-practice-migration/guide/post-go-live) activity is complete.
