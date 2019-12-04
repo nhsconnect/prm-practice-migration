@@ -12,7 +12,6 @@ The migration will end at the point at which all data has been re-entered, pract
 
 
 ## The ‘run-off period’ {#the-run-off-period}
-<!-- [FORMAT] why has this heading gone strange? -->
 The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period is usually 45 days however, this should be agreed with the suppliers 
 
 Access to the old system is usually retained for cross referencing data, validation and mapping only.  
@@ -23,7 +22,6 @@ Arrangements will need to be in place to ensure access to Source Solution data a
 <!-- [UPLIFT] added reference to need for audit trails using original format in which data was captured -->
 
 ## Update the Catalogue {#update-the-tracking-database}
-<!-- [FORMAT] why has this heading gone strange? -->
 <!-- [GAP] heading will need to read 'update the Catalogue' in any case -->
 After the Practice has migrated, the Catalogue should be updated with the date on which deployment occurred. 
 <!-- [UPLIFT] replace reference to Tracking Database with reference to Catalogue -->
