@@ -12,17 +12,18 @@ The migration will end at the point at which all data has been re-entered, pract
 
 
 ## The ‘run-off period’ {#the-run-off-period}
-
+<!-- [FORMAT] why has this heading gone strange? -->
 The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period is usually 45 days however, this should be agreed with the suppliers 
 
 Access to the old system is usually retained for cross referencing data, validation and mapping only.  
 
 Practices sometimes require an extension to the 45 days, this should be agreed with the Clinical Commissioning Group as this may incur additional costs.
 
-
+Arrangements will need to be in place to ensure access to Source Solution data and audit trails in human readable format. Your old supplier will need to provide any necessary support in line with contractual agreements.
+<!-- [UPLIFT] added reference to need for audit trails using original format in which data was captured -->
 
 ## Update the tracking database {#update-the-tracking-database}
-
+<!-- [FORMAT] why has this heading gone strange? -->
 After the Practice has migrated, the [Tracking database](https://digital.nhs.uk/services/tracking-database) should be updated with the date of which deployment occurred. 
 
 {%- capture lesson_learnt_1 -%}
