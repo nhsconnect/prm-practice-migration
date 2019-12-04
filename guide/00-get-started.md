@@ -64,10 +64,10 @@ The initial registration of the migration on the Catalogue is usually completed 
 * The new supplier (target) will confirm the availability of the preferred Go Live dates
 
 * * * 
-**_SLA:_**  If a Migration Management Agent contacts a Supplier to clarify any points regarding information submitted through the Catalogue, or any other queries relating to a migration, the Supplier must provide a response within five working days. A Migration Management Agent is a representative of NHS, working as part of a central support team to facilitate the resolution of migrated-related issues upon request from any of the parties involved in the migration.
+**_SLA:_**  If NHS contacts a Supplier to clarify any points regarding information submitted through the Catalogue, or any other queries relating to a migration, the Supplier must provide a response within 5 working days. A Migration Management Agent is a representative of NHS, working as part of a central support team to facilitate the resolution of migrated-related issues upon request from any of the parties involved in the migration.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em></br>
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
-<!-- [GAP] need to clarify the exact definition of a Migration Management Agent -->
+<!-- [GAP] need to clarify the exact definition of a Migration Management Agent, which is the actual entity referenced in this SLA -->
 
 {%- capture lesson_learnt_2 -%}
 __Lesson learnt__ - Submodules of the new clinical system may need to be raised within the procurement documents and this activity can be missed. For example, appointments modules, document management, data entry forms.
@@ -96,7 +96,8 @@ A formal data extract request needs to be sent to the existing supplier (source)
 __The request needs to be completed as early as possible__. 
 
 * * * 
-**_SLA:_**  The Source Solution Supplier has no more than five working days to provide all the data extract(s) you request in a suitable, encrypted, electronic format as documented in the DDE.
+**_SLA:_**  The Source Solution Supplier has no more than 5 working days to provide all the data extract(s) you request in a suitable, encrypted, electronic format as documented in the DDE.
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 13)</em></br>
 * * *
 <!-- [UPLIFT] added reference to part 2 of Step 7 SLA from the Ancillary Document-->
 
