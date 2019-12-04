@@ -122,9 +122,17 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 
 * New patients cannot complete registration until after the cut-off period so you will need to ask them to come back after Go Live.
 
-## Holding a process review
+## Retrospective and process review
 
-Once you have gone live, your team should review the migration experience to ellicit any lessons learned. As a minimum, you will need to consider how effectively you and/or your IT Delivery Partner approached the following:
+Once you have gone live, your team should review the migration experience to ellicit any lessons learned. One way to do this is by holding a 'retrospective'. A retrospective is a meeting whereby you look back at the events that took place during the migration and assess the following:
+
+* What worked well?
+
+* What didn’t work so well?
+
+* What would you do differently if you had to migrate again?
+
+As part of your process review, please consider how effectively you and/or your IT Delivery Partner approached the following:
 
 * Mapping tables
 
@@ -138,11 +146,17 @@ Once you have gone live, your team should review the migration experience to ell
 
 * Cut-over process
 
-<!-- [UPLIFT] added new section on 'Holding a process review', as detailed on p. 15 of the Ancillary document -->
+<!-- [UPLIFT] added new section on 'Retrospective and process review', as detailed on p. 15 of the Ancillary document -->
 * * * 
 **_SLA:_**  You will need to complete and document this process review within 2 weeks of business Go-Live.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 16)</em>
 * * *
 <!-- [UPLIFT] added reference to the SLA from Step 10a in the Ancillary document, p. 16-->
 
+Capturing learnings is important because these can be used by your Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
  
+## Send us your learnings
+
+We would also like to receive any learnings you have from your migration so that we can iterate and improve this guide as well as the overall migration process.
+
+Feedback and learnings can be sent to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital
