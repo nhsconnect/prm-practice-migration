@@ -21,8 +21,8 @@ Two key documents are referenced throughout this guide:
 >* [GP IT Futures Data Migration Standard](https://gpitbjss.atlassian.net/wiki/spaces/GPITF/pages/1391134456/Data+Migration)
 <!-- [GAP] Should we include a link to the Data Migration Standard here? -->
 
-<p>When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those Solutions, which are registered on the GP IT Futures Catalogue or Framework.</p>
-<!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents. Also added qualifier to explain that DMI requirements only apply to registered solutions, as per the description in the Data Migration Standard -->
+<p>When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those Solutions, which are registered on the GP IT Futures Catalogue or Framework.
+<!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents. Also added qualifier to explain that DMI requirements only apply to registered solutions, as per the Data Migration Standard -->
 <br>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
 <!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
