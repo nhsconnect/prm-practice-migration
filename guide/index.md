@@ -11,7 +11,15 @@ This guide aims to help Practices, GP IT delivery partners (such as Commissionin
 
 Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
-The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. Not all details in the GP IT Futures framework are currently reflected in this guide. 
+The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. 
+
+There are two key documents that are referenced throughout this guide:
+* GP IT Futures Catalogue Solution Migration Process
+* GP IT Futures Data Migration Standard
+<!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
+When you see reference to an 'SLA', this Service Level Agreement appears in the Catalogue Solution Migration Process. When you see reference to  reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard.
+<!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents -->
+This guide will continue to be updated, as the GP IT Futures framework develops and matures.
 <!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->
 
 ## How long does a migration take?
