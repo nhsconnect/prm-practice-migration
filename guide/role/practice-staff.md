@@ -11,7 +11,7 @@ Below you will find a summary of the key activities and phases the practice will
 **This summary does not provide an exhaustive list and we encourage you to [read the guide in full](/prm-practice-migration/guide) before you reference this summary**. The roles and responsibilities differ regionally and may depend on the support you will receive from your delivery partner (such as your Commisioning Support Unit)
 
 {%- include button.html title="Read the guide" link="/guide" -%}
-
+<!-- [FORMAT] why is the button missing here? -->
 ## Key questions and suggested reading by phase
 
 {%- include steps/steps.html group='practice-manager-staff-reading-by-phase' -%}
