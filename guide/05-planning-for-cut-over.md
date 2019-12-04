@@ -10,7 +10,7 @@ breadcrumbparent: /guide
 
 ## What is the cut-over?
 
-‘Cut-over’ is the period between final data production from the existing system and the golive in the new system. 
+‘Cut-over’ is the period between final data production from the existing system and the Go Live in the new system. 
 
 
 ### During the cut-over
@@ -167,7 +167,6 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 ## Additional notes:  
 
 * The exisitng supplier system (source) maintenance support will continue for 3 months post go-live and you will have access to the system/data it for this period
-
 
 * Any patients (other than deceased) deducted before your final data production won't migrate
 
