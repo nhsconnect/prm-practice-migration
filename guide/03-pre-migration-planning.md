@@ -13,8 +13,8 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your existing supplier {#request-data-extract}
 
-By now you should have [formally requested a data extract from the existing supplier](/prm-practice-migration/guide/get-started#request-data-extract) (source) of your Foundation Solution. Your existing supplier must provide you with this extract according to the Data Migration Standard (DMI06). 
-
+By now you should have [formally requested a data extract from your existing supplier](/prm-practice-migration/guide/get-started#request-data-extract). Your existing supplier must provide this extract according to the Data Migration Standard (DMI06). 
+<!-- [UPLIFT] added reference to Data Migration Standard -->
 If you do not have confirmation from the existing supplier that the extract will be provided on the date requested, you need to chase this up with them. They must provide all the data extract(s) you require in a suitable, encrypted, electronic format as documented in the DDE. All data extracts must also contain the full set of audit trails, where applicable (see DMI07 and DMI26 for more details).
 
 * * * 
@@ -23,8 +23,8 @@ If you do not have confirmation from the existing supplier that the extract will
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 
-The DDE is the 'Documented Data Extract' that shows what physical data is to be included in the extract and its format and structure (see DMI02).
-<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to a request for an extract -->
+<!--The DDE is the 'Documented Data Extract' that shows what physical data is to be included in the extract and its format and structure (see DMI02).
+ [UPLIFT] added reference to the Supplier SLA in terms of responding to a request for an extract -->
 
 A data extract request will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
 
