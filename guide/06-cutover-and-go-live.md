@@ -153,10 +153,8 @@ As part of your process review, please consider how effectively you and/or your 
 * * *
 <!-- [UPLIFT] added reference to the SLA from Step 10a in the Ancillary document, p. 16-->
 
-Capturing learnings is important because these can be used by your Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
- 
-## Send us your learnings
-
+<!--Capturing learnings is important because these can be used by your Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
+ ## Send us your learnings
 We would also like to receive any learnings you have from your migration so that we can iterate and improve this guide as well as the overall migration process.
-
 Feedback and learnings can be sent to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital
+-->
