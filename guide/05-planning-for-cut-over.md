@@ -35,7 +35,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 ## General preparation
 
 * Notify all the 3rd parties and services to switch off links/communications 1-2 days prior to final data production day. As highlighted in the [Kick-off](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and [Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links) stages
-
+ <!-- [GAP] need to check these links -->
 * Ensure plans are in place for any migration or changes to Subsidiary suppliers, for example DocMan or Apollo Scan for document scanning and management ([see information in Pre-migration planning phase](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers))
 
 * Export any letter templates and clinical templates to Microsoft Word from the existing system (source) to be able to import them to the new supplier system (target) after the go-live date
