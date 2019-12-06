@@ -60,11 +60,14 @@ Place the order using the agreed Catalogue processes (to be confirmed).
 * CCG approves the order
 * The new supplier receives and accepts the order
 * The new supplier confirms the availability of the preferred Go Live dates
+
 <!-- [GAP] this section is commented out because it's too generic
 * Procurement documents are completed for the new supplier (target) and are “called off”/logged in the Catalogue
 * The Clinical Commissioning Group (CCG) validates these procurement documents in the Catalogue
 * The new supplier (target) is notified that the procurement documents have been submitted and validates them
-* The new supplier (target) will confirm the availability of the preferred Go Live dates--> 
+* The new supplier (target) will confirm the availability of the preferred Go Live dates
+--> 
+
 * * * 
 **_SLA:_**  If NHS contacts a Supplier to clarify any points regarding information submitted through the Catalogue, or any other queries relating to a migration, the Supplier must provide a response within 5 working days. <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em>
 * * *
