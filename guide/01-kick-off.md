@@ -65,12 +65,15 @@ As you go, you may want to create a shared list of actions for each phase, with 
 
 Once the data migration approach and plans have been agreed by all parties, you are responsible for completing a Clinical Risk Assessment to consider any risks to clinical and patient safety. If you consider there to be a material risk associated with the migration, you must notify the Migration Management Agent, who will review the situation and provide recommendations.
 <!-- [UPLIFT] added new paragraph on Clinical Risk Assessments -->
+<!-- [GAP] need to confirm whether Migration Management Agent will actually be a person -->
+
 
 * * * 
 **_SLA:_**  Once you have planned your data migration approach, it should not take more than 1 week to complete a Clinical Risk Assessment.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 10)</em>
 * * *
 <!-- [UPLIFT] added reference to Clinical Risk Assessment SLA from Step 3 of the Ancillary Document -->
+
 
 ## Who, roles and responsibilities
 
