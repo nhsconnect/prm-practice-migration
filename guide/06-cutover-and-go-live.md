@@ -98,7 +98,7 @@ The old system is now read only and available for another 45 days as standard - 
 Third party systems should come back online.
 
 * * * 
-**_SLA:_**  Once you have given your new supplier the 'go-ahead' to Go Live, your supplier has up to 2 working days to turn on your new system.
+**_SLA:_**  Once you have given your approval for Go Live, your supplier has up to 2 working days to attain Go Live.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 18)</em>
 * * *
 <!-- [UPLIFT] added reference to Step 11 SLA from the Ancillary Document, p. 18 -->
