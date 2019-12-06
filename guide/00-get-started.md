@@ -73,6 +73,7 @@ Place the order using the agreed Catalogue processes (to be confirmed).
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 <!-- [GAP] need to clarify the exact definition of a Migration Management Agent, which is the actual entity referenced in this SLA... additional text might read 'A Migration Management Agent is a representative of NHS, working as part of a central support team to facilitate the resolution of migrated-related issues upon request from any of the parties involved in the migration.' -->
+and
 
 * * * 
 **_SLA:_**  Once you have ordered a new system, it should not take more than 10 working days to plan your data migration approach (Step 2 of the process).
