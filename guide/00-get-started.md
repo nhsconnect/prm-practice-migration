@@ -60,18 +60,22 @@ Place the order using the agreed Catalogue processes (to be confirmed).
 * CCG approves the order
 * The new supplier receives and accepts the order
 * The new supplier confirms the availability of the preferred Go Live dates
-
 <!-- [GAP] this section is commented out because it's too generic
 * Procurement documents are completed for the new supplier (target) and are “called off”/logged in the Catalogue
 * The Clinical Commissioning Group (CCG) validates these procurement documents in the Catalogue
 * The new supplier (target) is notified that the procurement documents have been submitted and validates them
 * The new supplier (target) will confirm the availability of the preferred Go Live dates--> 
-
 * * * 
 **_SLA:_**  If NHS contacts a Supplier to clarify any points regarding information submitted through the Catalogue, or any other queries relating to a migration, the Supplier must provide a response within 5 working days. <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em>
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 <!-- [GAP] need to clarify the exact definition of a Migration Management Agent, which is the actual entity referenced in this SLA... additional text might read 'A Migration Management Agent is a representative of NHS, working as part of a central support team to facilitate the resolution of migrated-related issues upon request from any of the parties involved in the migration.' -->
+
+* * * 
+**_SLA:_**  Once you have ordered a new system, it should not take more than 10 working days to plan your data migration approach (Step 2 of the process).
+<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 10)</em>
+* * *
+<!--[UPLIFT] added reference to the Step 2 SLA in the Ancillary Document -->
 
 {%- capture lesson_learnt_2 -%}
 __Lesson learnt__ - Submodules of the new clinical system may need to be raised within the procurement documents and this activity can be missed. For example, appointments modules, document management, data entry forms.
