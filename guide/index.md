@@ -7,8 +7,9 @@ nextpage: /guide/get-started
 ---
 
 
-This guide aims to help Practices, GP IT delivery partners (such as Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement migrations from one clinical system to another. 
+This guide aims to help Practices, GP IT delivery partners (such as Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement migrations from one clinical solution to another. 
 <!-- [UPLIFT] removed the word 'migration' -->
+<!-- [UPLIFT] replaced 'system' with 'solution' -->
 Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
 
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. It will continue to be updated, as the GP IT Futures framework develops and matures.
@@ -17,9 +18,9 @@ The guide does not cover everything that may need to happen in your migration bu
 Two key documents are referenced throughout this guide:
 <!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
 >* GP IT Futures Catalogue Solution Migration Process
-<!-- [GAP] Is the Ancillary Document going to be made available online? Are we allowed to share? Is this commercially sensitive? Should we be sharing the migration guide even for testing, if it references this document? -->
->* [GP IT Futures Data Migration Standard](https://gpitbjss.atlassian.net/wiki/spaces/GPITF/pages/1391134456/Data+Migration)
-<!-- [GAP] Should we include a link to the Data Migration Standard here? Are we allowed to share it? Is this commercially sensitive? Should we be sharing the migration guide even for testing, if it references this document? -->
+<!-- [GAP] Ancillary document is not yet publicly available although it is available to all supplier onboarded to the Catalogue. We will need to find a place where this document is stored online (e.g. GitHub?) -->
+>* GP IT Futures Data Migration Standard
+<!-- [GAP] Data Migration is not yet publicly available to those without Confluence access. We will need to find a place where this document is stored online. -->
 
 When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those Solutions, which are registered on the GP IT Futures Catalogue or Framework.
 <!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents. Also added qualifier to explain that DMI requirements only apply to registered solutions, as per the Data Migration Standard -->
@@ -49,9 +50,7 @@ Migrations on average take between 12-16 weeks. This is from the point of regist
 
 ## Overview of key phases
 
-Migrations require a lot of planning and effort from practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable. Your new supplier is also required to provide details of their migration approach (DMI01), which should assist in planning. 
-<!-- [UPLIFT] added reference to requirement from the Data Migration Standard -->
-
+Migrations require a lot of planning and effort from practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable. 
 Here is an overview of the key phases...
 
 {%- include steps/steps.html group='migration-key-phases' -%}
