@@ -6,4 +6,6 @@ order: 11
 group: migration-key-phases
 ---
 
-The final data extract is taken and is provided to the new supplier (target), who imports it into the new system. From this point in time, any changes to records in the existing system (source) will not be migrated.
+The final data extract is taken and is provided to the new supplier (target), who imports it into the new solution. From this point in time, any changes to records in the existing solution (source) will not be migrated.
+
+<!-- [UPLIFT] replaced 'system' with 'solution' -->
