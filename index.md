@@ -1,19 +1,20 @@
 ---
 layout: home
-title: A guide to migrating your clinical system
+title: A guide to migrating your clinical solution
 subtitle: 
 hide_breadcrumbs: true
 show_hero: true
 
 ---
 <!-- [UPLIFT] removed the word 'principal' from the title of the guide -->
+<!-- [UPLIFT] replaced the word 'system' with 'solution'-->
 ## About this guide
 
 This guide aims to help Practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one principal clinical system to another. 
 
-Whilst approaches to migration can differ by region, this guide contains a collection of common phases and strategies 
-aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
+Whilst approaches to migration can differ by region, this guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating solutions.
 <!-- [UPLIFT] replaced 'migrating' with 'migration'-->
+<!-- [UPLIFT] replaced the word 'system' with 'solution'. Assume all subsequent references to 'system' will be replaced with 'solution'-->
 {%- include button.html title="Read the guide" link="/guide" -%}
 
 
