@@ -9,10 +9,11 @@ nextpage: /guide/kick-off
 
 ## The decision to migrate and funding {#decision-to-migrate-and-funding}
 
-When procuring a new system, <em>it is the responsibility of the buyer to check all interoperability requirements</em>. In other words, if you procure a system that is not fully compatible with your other Capabilities, you may need to default on your contract and pay a penalty.
+When ordering a new solution, <em>it is the responsibility of the buyer to check that all of the interoperability functionality meets your requirements</em>. In other words, if you order a solution that does not fully meet your needs, as the buyer you may need to default on your contract and pay penalties.
 <!-- [UPLIFT] added 'buyer beware' disclaimer to prompt practices that it's their responsibility to check interoperability -->
 
-This guide offers guidance from the point at which the Clinical Commissioning Group (CCG) has approved the practice’s request to change their principal clinical system and is ready to start the migration process.
+This guide begins from the point at which the Clinical Commissioning Group (CCG) has approved the practice’s request to change their foundation solution and is ready to start the migration process.
+<!-- [UPLIFT] replaced 'system' with 'solution' -->
 
 Note: This is subject to the conditions described in the [CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
 
@@ -53,86 +54,44 @@ __Recommendation__ - Avoid busy periods for your practice and surrounding area a
 The initial registration of the migration on the Catalogue is usually completed by the GP IT delivery partner (such as a Commissioning Support Unit) however this may differ by region.
 <!-- [GAP] Need to add details that explain how to complete initial registration of the migration on the Catalogue -->
 
-#### Order the new system
+#### Order the new solution
 <!-- [UPLIFT] This needs to say 'order' not procure-->
+<!-- [UPLIFT] replaced 'system' with 'solution' -->
 Place the order using the agreed Catalogue processes (to be confirmed).
 
 * CCG approves the order
 * The new supplier receives and accepts the order
-* The new supplier confirms the availability of the preferred Go Live dates
+
+<!--
+<!-- [GAP] Not sure if supplier is allowed to constrain preferred Go Live dates as indicated by practice i.e.
+* The new supplier confirms the availability of the preferred Go Live dates -->
 
 <!-- [GAP] this section is commented out because it's too generic
 * Procurement documents are completed for the new supplier (target) and are “called off”/logged in the Catalogue
 * The Clinical Commissioning Group (CCG) validates these procurement documents in the Catalogue
 * The new supplier (target) is notified that the procurement documents have been submitted and validates them
 * The new supplier (target) will confirm the availability of the preferred Go Live dates
---> 
 
-* * * 
-**_SLA:_**  If NHS contacts a Supplier to clarify any points regarding information submitted through the Catalogue, or any other queries relating to a migration, the Supplier must provide a response within 5 working days. <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em>
-* * *
-<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
-<!-- [GAP] need to clarify the exact definition of a Migration Management Agent, which is the actual entity referenced in this SLA... additional text might read 'A Migration Management Agent is a representative of NHS, working as part of a central support team to facilitate the resolution of migrated-related issues upon request from any of the parties involved in the migration.' -->
-and
-
-* * * 
-**_SLA:_**  Once you have ordered a new system, it should not take more than 10 working days to plan your data migration approach (Step 2 of the process).
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 10)</em>
-* * *
-<!--[UPLIFT] added reference to the Step 2 SLA in the Ancillary Document -->
-
-{%- capture lesson_learnt_2 -%}
+<!--{%- capture lesson_learnt_2 -%}
 __Lesson learnt__ - Submodules of the new clinical system may need to be raised within the procurement documents and this activity can be missed. For example, appointments modules, document management, data entry forms.
 {%- endcapture -%}
-
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
-
-
-#### Decommission the existing/old system system
-
-The same process happens for the decommissioning of the existing supplier (source), with the necessary documents “called off”/logged in the Catalogue.
-<!-- [GAP] Need to add details that explain how to submit the equivalent of a 'Schedule A' on the Catalogue to indicate intent to decommission -->
-
-{%- capture lesson_learnt_3 -%}
-__Lesson learnt__ - If the process necessary to decommission the existing supplier’s system (source) is not implemented at this point the NHS will continue to pay for the service for longer than needed.
-<!-- [GAP] Need to add details regarding 'the document necessary to decommission'-->
-<!-- [UPLIFT] Replaced 'document' with 'process' and 'sent' with 'implemented'-->
-{%- endcapture -%}
-
-{%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
-
-
-### Request a data extract from your existing supplier {#request-data-extract}
-
+### Request a data extract from your existing supplier (source) {#request-data-extract}
 A formal data extract request needs to be sent to the existing supplier (source) using the [steps detailed below](#steps-to-request-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](initial-data-production).
-<!-- [UPLIFT] Removed 'of the principal clinical system'-->
-
 __The request needs to be completed as early as possible__. 
-
-* * * 
-**_SLA:_**  The Source Solution Supplier has no more than 5 working days to provide all the data extract(s) you request in a suitable, encrypted, electronic format as documented in the DDE.
+**_SLA:_**  The Source Solution Supplier has no more than 5 working days to provide all the data extract(s) you request in an agreed, encrypted, electronic format.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 13)</em>
-* * *
-<!-- [UPLIFT] added reference to part 2 of Step 7 SLA from the Ancillary Document-->
-
 Data extract requests will also need to be submitted to any other suppliers who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
-<!-- [REWORDED] to enable continued description of data extract requests in relation to other suppliers -->
-
 #### Steps to requesting the data extract {#steps-to-request-data-extract}
-
 1. A request is made to the existing supplier (source) to provide a ‘Data extract request form’ or similar. This is usually sent by the GP IT delivery partner (such as a Commissioning Support Unit) but this may differ by region. 
 2. The existing supplier will send a ‘Data extract request form’ (or similar) directly to the practice 
 3. The practice completes and returns the form to the existing supplier (source) along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the [Initial data production phase](initial-data-production)
 4. The Source Supplier will ensure that the data is transferred to the new supplier (target) safely and securely.
-
-
-
 {%- capture lesson_learnt_4 -%}
 __Lesson learnt__ - __Any delays to requesting the data extract may impact the migration timeline__ if it’s not sent well in advance of the [initial data production day](/prm-practice-migration/guide/initial-data-production).
 {%- endcapture -%}
-
 {%- include inset.html content=lesson_learnt_4 accessibility_text="Lesson learnt" markdown=true -%}
-
+-->
 
 ### Arrange your Kick-off and Technical Survey
 
