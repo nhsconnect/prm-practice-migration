@@ -18,7 +18,7 @@ By now you should have [formally requested a data extract from your existing sup
 If you do not have confirmation from the existing supplier that the extract will be provided on the date requested, you need to chase this up with them. They must provide all the data extract(s) you require in a suitable, encrypted, electronic format as documented in the DDE. All data extracts must also contain the full set of audit trails, where applicable (see DMI07 and DMI26 for more details).
 
 * * * 
-**_SLA:_**  Once you have requested an initial data extract from your existing supplier, they have 5 working days to provide you with this extract.
+**_SLA:_**  Once a request is made for an extract, your old supplier (source) has 5 working days to provide this to you/your new supplier (target).
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em>
 * * *
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
