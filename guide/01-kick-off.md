@@ -33,6 +33,16 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
   -- [With practice staff](#make-staff-aware)
 
   -- [With patients](#notification-of-patients)
+  
+* Scope of the data migration
+
+* Risks ownership and mitigations
+
+* Hazard Log
+
+* Rollback scenarios and approach
+
+* Any system downtime and impact on core hours
 
 
 ### For the Kick-off meeting, you should involve at a minimum...
@@ -63,17 +73,9 @@ As you go, you may want to create a shared list of actions for each phase, with 
 
 ## Clinical Risk Assessments
 
-Once the data migration approach and plans have been agreed by all parties, you are responsible for completing a Clinical Risk Assessment to consider any risks to clinical and patient safety. If you consider there to be a material risk associated with the migration, you must notify the Migration Management Agent, who will review the situation and provide recommendations.
+Once the data migration approach and plans have been agreed by all parties, there is a need to complete a Clinical Risk Assessment to consider any risks to clinical and patient safety. If you consider there to be a material risk associated with the migration, you will need to escalate this through Service Management.
 <!-- [UPLIFT] added new paragraph on Clinical Risk Assessments -->
-<!-- [GAP] need to confirm whether Migration Management Agent will actually be a person -->
-
-
-* * * 
-**_SLA:_**  Once you have planned your data migration approach, it should not take more than 1 week to complete a Clinical Risk Assessment.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 10)</em>
-* * *
-<!-- [UPLIFT] added reference to Clinical Risk Assessment SLA from Step 3 of the Ancillary Document -->
-
+<!-- [GAP] need to make escalation note more specific. I.e change from 'Service Management' to 'Migration Management Agent' or similar -->
 
 ## Who, roles and responsibilities
 
