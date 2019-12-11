@@ -41,9 +41,3 @@ The Technical survey may result in the identification of new or additional hardw
 The Practice will be asked to sign off a form for Technical requirements.
 
 Any incompatible equipment should be replaced prior to Go Live.
-
-* * * 
-**_SLA:_**  Within 2 days of completing the Technical Survey, you should be able to confirm that your last system backup is complete. This backup will form the basis of the initial data extract provided to your by your Source Supplier.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 13)</em>
-* * *
-<!-- [UPLIFT] added reference to Step 7 SLA from the Ancillary Document (part 1 of the SLA box) -->
