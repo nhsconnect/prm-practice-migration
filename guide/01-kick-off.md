@@ -159,7 +159,7 @@ If you have access to a Data Quality team (possibly part of your Commissioning S
 Discuss and plan any housekeeping tasks such as…
 
 * The appropriate management of duplicate and orphaned records which will not migrate to the new system
-
+<!-- [GAP] need to clarify whether the work of the 'Orphaned Records' team has reached a stage where this bullet point can be updated -->
 * Complete a review of letter and data entry templates to identifty those that will need to be re-entered into the new system. Note; letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need in the new system
 
 * Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding 
