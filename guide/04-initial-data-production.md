@@ -28,11 +28,6 @@ The initial data production activity enables [data checking](#data-checking) to 
 
 As part of the initial data production phase, the practice should be given access to the new system. The new supplier (target) will setup admin users (usually up to three).
 
-* * * 
-**_SLA:_** The new supplier has 2 working days following loading of the data to make a test system trial environment available to your users.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
-* * *
-<!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14. Do we want a specific reference to the Ancillary doc within the guide? -->
-
 The new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
 
 {%- capture lesson_learnt_1 -%}
@@ -61,9 +56,9 @@ Data checking generally happens in 2-3 phases:
 3. In some circumstances a third phase is required if further issues were found in the recheck, however, most migrations do not require this further recheck of the data.
 
 * * * 
-**_SLA:_** You have up to 5 working days to complete the initial data check and report any issues to your new supplier.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
+**_SLA:_** To make sure that any errors are fixed promptly, you must inform your new supplier (target) of any initial data check issues within 5 working days.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
 * * *
-<!-- [UPLIFT] added reference to the Step 9 SLA from Ancillary Document p. 14 -->
+<!-- [UPLIFT] added approximate reference to the Step 9 SLA from Ancillary Document p. 14 -->
 
 ### Timeline for data checking
 
@@ -106,20 +101,9 @@ Each new supplier (target) will have a set method of how they would like the iss
 
 At the end of each data checking phase, there will be a period whereby the new supplier (target) will review and address the issues found, this may vary depending on the complexity of the issues reported.
 
-* * * 
-**_SLA:_** There should not be a need for more than 5 separate iterations of data extracts, whether full, partial or deltas. If you find that you need to transform your data more than five times, notify the Migration Management Agent.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
-* * *
-<!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
-<!-- [GAP] the Ancillary Document tells practices to escalate to a 'Migration Management Agent' but we don't yet know how practices are expected to contact this 'Agent'. -->
-
 The new supplier (target) will notify the practice when the issues have been fixed and the practice will then need to check the issue.
 
 
 ## Signing off the data checking {#signing-off-the-data-checking}
 
 Once all issues have been addressed and all data checking tasks have been rechecked, the practice will be asked to ‘Sign off’ that the data is accurate and the practice is satisfied with the quality of the data.
-
-* * * 
-**_SLA:_** From the time you first request data extracts from your old supplier, the whole process of checking and transforming your data should take no longer than 6 weeks.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
-* * *
-<!-- [UPLIFT] added reference to last sentence within Steps 7-9 SLA, p. 14 Ancillary Document -->
