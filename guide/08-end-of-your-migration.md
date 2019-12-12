@@ -12,11 +12,19 @@ The migration will end at the point at which all data has been re-entered, pract
 
 
 ## The ‘run-off period’ {#the-run-off-period}
-The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period is usually 45 days however, this should be agreed with the suppliers 
-
+The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period should be agreed with the suppliers 
+<!-- [UPLIFT] Removed specific reference to 45 days -->
 Access to the old system is usually retained for cross referencing data, validation and mapping only.  
 
-Practices sometimes require an extension to the 45 days, this should be agreed with the Clinical Commissioning Group as this may incur additional costs.
+Practices sometimes require a longer run-off period and this should be agreed with the Clinical Commissioning Group as this may incur additional costs.
+<!-- [UPLIFT] Removed specific reference to 45 days -->
+{%- capture lesson_learnt_3 -%}
+__Lesson learnt__ - If the process necessary to decommission the existing supplier’s solution (source) is not implemented at this point, the NHS will continue to pay for the service for longer than needed.
+<!-- [GAP] Need to add details regarding 'the document necessary to decommission'-->
+<!-- [UPLIFT] Replaced 'document' with 'process' and 'sent' with 'implemented'-->
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
 
 Arrangements will need to be in place to ensure access to Source Solution data and audit trails in human readable format. Your old supplier will need to provide any necessary support in line with contractual agreements.
 <!-- [UPLIFT] added reference to need for audit trails using original format in which data was captured -->
