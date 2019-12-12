@@ -78,4 +78,5 @@ Online patient services such as the ability to book appointments online are made
 
 ## Access to the old system
 
-The old system is now read only and available for another 45 days as standard (Check this with your old supplier to ensure that they do not terminate access early). Practices sometimes require access for more than 45 days for cross referencing data, validation and mapping. If you require an extension to the 45 days, this should be agreed with the Clinical Commissioning Group and the new Supplier as this may incur additional costs.
+The old system is now read-only. Practices will require access to this, however, for cross referencing data, validation and mapping. If you require an extended access period, this should be agreed with the Clinical Commissioning Group and the new Supplier as this may incur additional costs (and is explained further in the next section of this guide).
+<!-- [UPLIFT] Reworded this part and removed references to 45 days -->
