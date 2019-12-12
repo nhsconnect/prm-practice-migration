@@ -28,19 +28,17 @@ __Lesson learnt__ - If the process necessary to decommission the existing suppli
 
 Arrangements will need to be in place to ensure access to Source Solution data and audit trails in human readable format. Your old supplier will need to provide any necessary support in line with contractual agreements.
 <!-- [UPLIFT] added reference to need for audit trails using original format in which data was captured -->
+<!-- [GAP] there is no migration of audit trails at this point. We don't yet know how to transfer these -->
 
+<!-- [GAP] we don't know how the M1 milestone payments will be managed within the Buying Catalogue
 ## Update the Catalogue {#update-the-catalogue}
-<!-- [GAP] heading will need to read 'update the Catalogue' in any case -->
 After the Practice has migrated, the Catalogue should be updated with the date on which deployment occurred. 
-<!-- [UPLIFT] replace reference to Tracking Database with reference to Catalogue -->
-
 {%- capture lesson_learnt_1 -%}
 Not updating the Catalogue with the deployment details can cause issues with payments to the suppliers
-<!-- [UPLIFT] replace reference to Tracking Database with reference to Catalogue -->
 {%- endcapture -%}
-
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-
+heading will need to read 'update the Catalogue' in any case -->
+ 
 <!-- [GAP] need to clarify how to update the Catalogue with the date on which deployment occurred...
 Previous text:
 Steps to do this…
