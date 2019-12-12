@@ -49,7 +49,7 @@ The average time to complete data re-entry can vary largely due to practice size
 
 Practices who allocate staff to do data re-entry need a week to do this.
 ### Tasks include
-
+<!-- [GAP] once we reach maturity with any of the GP2GP solutions, these can be added here -->
 * Printed appointments (or screenshots) are manually re-entered 
 
 * Printed Prescriptions are manually re-entered 
