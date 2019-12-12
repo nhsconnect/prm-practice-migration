@@ -83,11 +83,10 @@ The new supplier (target) should check patient registration links are working in
 After re-checking, if the practice is satisfied that all the data has been transferred and the migration is successful, the practice can sign off Go Live Data and provide confirmation to the Supplier.  
 
 * * * 
-**_SLA:_**  The cut-over period should not exceed 72 hours or have an impact on core working hours. If the cut-over period exceeds 72 hours and/or has an impact on core working hours, report the details to your Chief Clinical Information Officer, who will escalate the matter to NHS. You will need to submit this report no later than 5 days after completion of the cut-over period.
+**_SLA:_**  The cut-over period should not exceed 72 hours.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 15)</em>
 * * *
 <!-- [UPLIFT] added reference to Step 10 SLA from Ancillary Document p.15 -->
-<!-- [GAP] need to clarify the role of a Migration Management Agent in this escalation: reference to CCIO is a generic placeholder -->
 
 ## Go Live
 
@@ -96,12 +95,6 @@ Following the actions described previously and Sign off of the Go Live Data, the
 The old system is now read only and available for another 45 days as standard - __check this with your old supplier (source) to ensure that they do not terminate access early__.
 
 Third party systems should come back online.
-
-* * * 
-**_SLA:_**  Once you have given your approval for Go Live, your supplier has up to 2 working days to attain Go Live.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 18)</em>
-* * *
-<!-- [UPLIFT] added reference to Step 11 SLA from the Ancillary Document, p. 18 -->
 
 {%- capture lesson_learnt_3 -%}
 __Lesson learnt__ - Remember to notify and chase third party suppliers and services that were switched off during the cut-over period (e.g. Electronic Prescription Service, Pathology etc)
@@ -118,22 +111,16 @@ __Lesson learnt__ - Remember to notify and chase third party suppliers and servi
 
 * Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
 
-* Fixing some degraded codes and data can take practice weeks or months, due to poor transfer into the new system.
-
+* Fixing degraded codes could take the practice some time.
+<!-- [UPLIFT] reworded the language here -->
 * New patients cannot complete registration until after the cut-off period so you will need to ask them to come back after Go Live.
 
-## Retrospective and process review
+## Process review
 
-Once you have gone live, your team should review the migration experience to ellicit any lessons learned. One way to do this is by holding a 'retrospective'. A retrospective is a meeting whereby you look back at the events that took place during the migration and assess the following:
+As part of your process review, your supplier will submit reports to NHS Digital to help with the continuous improvement of the migration process.
 
-* What worked well?
-
-* What didn’t work so well?
-
-* What would you do differently if you had to migrate again?
-
-As part of your process review, please consider how effectively you and/or your IT Delivery Partner approached the following:
-
+This is likely to include:
+<!-- [GAP] include reference to metrics dashboard inputs here -->
 * Mapping tables
 
 * Data migration
@@ -144,17 +131,5 @@ As part of your process review, please consider how effectively you and/or your 
 
 * Issue Logs
 
-* Cut-over process
+* Cut-over timescale
 
-<!-- [UPLIFT] added new section on 'Retrospective and process review', as detailed on p. 15 of the Ancillary document -->
-* * * 
-**_SLA:_**  You will need to complete and document this process review within 2 weeks of business Go-Live.
-<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 16)</em>
-* * *
-<!-- [UPLIFT] added reference to the SLA from Step 10a in the Ancillary document, p. 16-->
-
-<!--Capturing learnings is important because these can be used by your Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
- ## Send us your learnings
-We would also like to receive any learnings you have from your migration so that we can iterate and improve this guide as well as the overall migration process.
-Feedback and learnings can be sent to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital
--->
