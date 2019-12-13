@@ -40,6 +40,7 @@ Rectifying the data early and before the [Initial data production phase](initial
 **_SLA:_**  Reviewing the quality of the data in your current system should not take more than 6 weeks. This review should include identifying any irregularities in the data, performing standard data quality checks and assessing any misused codes or concepts, such as clinical findings terms.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 11)</em>
 * * *
+
 <!-- [UPLIFT] added reference to Step 4 SLA from the Ancillary Document -->
 <!-- [GAP] need to check whether 'Source Solution data quality review' is the same activity as 'Clean up the current system data' i.e. is the SLA here in the right place? -->
 
