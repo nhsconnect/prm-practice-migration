@@ -17,5 +17,6 @@ group: practice-manager-staff-reading-by-phase
 * Have you used the criteria to identify Patient records that match the criteria?
 
 * [Do you know how to report issues to the new supplier, should you find issues with the data/patient records?](/prm-practice-migration/guide/initial-data-production#reporting-issues-with-data)
+//[Gap]- needs rewording
 
 * Once all issues have been addressed, are you able to [‘Sign off’ that the data is accurate and the practice is satisfied with the quality of the data?](/prm-practice-migration/guide/initial-data-production#signing-off-the-data-checking)
