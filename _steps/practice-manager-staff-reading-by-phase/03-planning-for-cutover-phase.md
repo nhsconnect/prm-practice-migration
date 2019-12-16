@@ -20,7 +20,7 @@ group: practice-manager-staff-reading-by-phase
 
 * At the time of the final data extract, have you ensured that all users are logged off the existing supplier system (source) so that the supplier can do the data extraction?
 
-#### Do you have a plan for how you will handle the following during the cutover?
+#### Do you have a plan for how you will handle the following during the cutover? [Gap - will need to revist based on GP2GP]
 
 * [Appointments](/prm-practice-migration/guide/planning-for-cut-over#appointments)
 
