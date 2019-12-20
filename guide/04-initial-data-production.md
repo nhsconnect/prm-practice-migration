@@ -10,28 +10,28 @@ breadcrumbparent: /guide
 
 ## What is the initial data production?
 
-The initial data production is the point at which a copy of the existing clinical system data is provided to the new supplier, who import it into a test system. 
+The initial data production is the point at which a copy of the existing clinical solution data is provided to the new supplier, who import it into a test solution. 
 
-The initial data production activity enables [data checking](#data-checking) to begin - the practice to perform data checking tasks in the test system to make sure that the imported Patient data matches how it was when it was taken from the existing system and the test system is working as expected.
+The initial data production activity enables [data checking](#data-checking) to begin - the practice to perform data checking tasks in the test solution to make sure that the imported Patient data matches how it was when it was taken from the existing solution and the test solution is working as expected.
 
 
 ## Who is involved in the initial data production & data checking?
 
-* The existing supplier (source)  - who provide the data extract from the existing system
-* The new supplier (target) - who import the data into a test system and visit the practice help them prepare for the data checking phase
-* The practice staff - who test the data and in the test system
+* The existing supplier (source)  - who provide the data extract from the existing solution
+* The new supplier (target) - who import the data into a test solution and visit the practice help them prepare for the data checking phase
+* The practice staff - who test the data and in the test solution
 * The GP IT delivery partner (such as a Commissioning Support Unit) - who support the practice and work with the suppliers (the level of support available can vary by region)
 
 
 
-## Setup access to the new system
+## Setup access to the new solution
 
-As part of the initial data production phase, the practice should be given access to the new system. The new supplier (target) will setup admin users (usually up to three).
+As part of the initial data production phase, the practice should be given access to the new solution. The new supplier (target) will setup admin users (usually up to three).
 
-The new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new system including how to login, change passwords and how to change the access rights for users.
+The new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) should provide basic training on the new solution including how to login, change passwords and how to change the access rights for users.
 
 {%- capture lesson_learnt_1 -%}
-__Lesson learnt__ - try to make sure that more than one member of staff attend the basic training and are set up with access as the practice may be called upon by the new supplier (target) to log into the new system and perform basic checks at later phases or reset passwords. Failing to do this has been known to cause delays to migration timelines.
+__Lesson learnt__ - try to make sure that more than one member of staff attend the basic training and are set up with access as the practice may be called upon by the new supplier (target) to log into the new solution and perform basic checks at later phases or reset passwords. Failing to do this has been known to cause delays to migration timelines.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
@@ -90,7 +90,7 @@ The majority of testing will be focused on the identified patient records matchi
 
 Alongside checking the identified patient records, the practice will be asked to check and compare reports such as QOF reports and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
 
-The data checking is a manual process; ideally, the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing system and the other displaying the test version of the new system. Staff will cross-reference the two to check their consistency.
+The data checking is a manual process; ideally, the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the existing solution and the other displaying the test version of the new solution. Staff will cross-reference the two to check their consistency.
 
 
 ### Reporting issues with data {#reporting-issues-with-data}

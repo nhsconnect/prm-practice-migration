@@ -10,7 +10,7 @@ nextpage: /guide/get-started
 This guide aims to help Practices, GP IT delivery partners (such as Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement migrations from one clinical solution to another. 
 <!-- [UPLIFT] removed the word 'migration' -->
 <!-- [UPLIFT] replaced 'system' with 'solution' -->
-Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
+Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating solutions.
 
 The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. It will continue to be updated, as the GP IT Futures framework develops and matures.
 <!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->

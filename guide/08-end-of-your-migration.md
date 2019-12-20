@@ -8,13 +8,13 @@ previouspage: /guide/post-go-live
 breadcrumbparent: /guide
 ---
 
-The migration will end at the point at which all data has been re-entered, practice staff are trained and are comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice.
+The migration will end at the point at which all data has been re-entered, practice staff are trained and are comfortably using the new solution. Access to the old solution has ended and the new solution has been officially signed off by the practice.
 
 
 ## The ‘run-off period’ {#the-run-off-period}
-The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period should be agreed with the suppliers 
+The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new solutions. The run-off period should be agreed with the suppliers 
 <!-- [UPLIFT] Removed specific reference to 45 days -->
-Access to the old system is usually retained for cross referencing data, validation and mapping only.  
+Access to the old solution is usually retained for cross referencing data, validation and mapping only.  
 
 Practices sometimes require a longer run-off period and this should be agreed with the Clinical Commissioning Group as this may incur additional costs.
 <!-- [UPLIFT] Removed specific reference to 45 days -->
@@ -45,7 +45,7 @@ Steps to do this…
 * The new supplier (target) provides a ‘GPSoC-R Deployment Survey Form’ to the practice
 * The practice completes the ‘GPSoC-R Deployment Survey Form’
   - The form includes a Go-Live Date. It is essential that the Go-Live Date is entered.
-  - The form includes a ‘Deployment Score’ section. This allows the practice to review their satisfaction with the deployment of the system or service
+  - The form includes a ‘Deployment Score’ section. This allows the practice to review their satisfaction with the deployment of the solution or service
   - The form includes a ‘Comments’ section. This allows the practice detail why they gave the Deployment Score and detail any areas where they feel the supplier could improve their Deployment Service
 * Once the survey is complete, the practice sends the Deployment Survey Form to the Clinical Commissioning Group or Commissioning Support Unit (whichever is the assigned Tracking database administrator)
 * The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->

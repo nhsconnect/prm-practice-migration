@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
 title: Cut-over and Go Live
-subtitle: Transitioning to the new principal clinical system
+subtitle: Transitioning to the new principal clinical solution
 nextpage: /guide/post-go-live
 previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
@@ -20,9 +20,9 @@ During the cut-over phase, you will carry out all the activities planned for in 
 ## What to expect during the cutover
 
 ### Final data production 
-The cut-over will start with a ‘Final data production’. Practice staff continue using existing system (source) knowing that the data entered will not be migrated. 
+The cut-over will start with a ‘Final data production’. Practice staff continue using existing solution (source) knowing that the data entered will not be migrated. 
 
-The final data extract (excluding any data entered during cut-over) is provided to the new supplier (target), who import it into the new system.
+The final data extract (excluding any data entered during cut-over) is provided to the new supplier (target), who import it into the new solution.
 
 
 ### Manual processes are put in place
@@ -36,9 +36,9 @@ The practice should re-check the patients identified and tested previously as pa
 Practice staff should recheck reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and the remapping of local codes.
 
 
-### Training on the new system
+### Training on the new solution
 
-Practice staff should receive [training for the new system](/prm-practice-migration/guide/training) during the Cut-over period including training for any changes to practice processes.  
+Practice staff should receive [training for the new solution](/prm-practice-migration/guide/training) during the Cut-over period including training for any changes to practice processes.  
 
 {%- capture lesson_learnt_1 -%}
 __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
@@ -70,12 +70,12 @@ By now, incompatible equipment identified in the [Technical Survey](technical-su
 
 ### Activate Smartcards
 
-Smartcards will need to be activated. The new system is configured for staff, roles, names of sites. Who does this varies between the Commissioning Support Unit, Trainers and Practice managers.
+Smartcards will need to be activated. The new solution is configured for staff, roles, names of sites. Who does this varies between the Commissioning Support Unit, Trainers and Practice managers.
 
 
 ### Check Registration links
 
-The new supplier (target) should check patient registration links are working in the new system, the Registrations clerk is usually involved with this activity.
+The new supplier (target) should check patient registration links are working in the new solution, the Registrations clerk is usually involved with this activity.
 
 
 ### Sign off Go Live Data 
@@ -90,11 +90,11 @@ After re-checking, if the practice is satisfied that all the data has been trans
 
 ## Go Live
 
-Following the actions described previously and Sign off of the Go Live Data, the practice goes live on the new supplier's system. 
+Following the actions described previously and Sign off of the Go Live Data, the practice goes live on the new supplier's solution. 
 
-The old system is now read only and available for another 45 days as standard - __check this with your old supplier (source) to ensure that they do not terminate access early__.
+The old solution is now read only and available for another 45 days as standard - __check this with your old supplier (source) to ensure that they do not terminate access early__.
 
-Third party systems should come back online.
+Third party solutions should come back online.
 
 {%- capture lesson_learnt_3 -%}
 __Lesson learnt__ - Remember to notify and chase third party suppliers and services that were switched off during the cut-over period (e.g. Electronic Prescription Service, Pathology etc)

@@ -8,12 +8,12 @@ previouspage: /guide/cutover-and-go-live
 breadcrumbparent: /guide
 ---
 
-By now you will have completed the Go-Live steps and the practice staff are now using the new clinical system and all data entered from now on will be maintained.
+By now you will have completed the Go-Live steps and the practice staff are now using the new clinical solution and all data entered from now on will be maintained.
 
 
 ## Switch links back on and notify 3rd parties {#switch-on-links}
 
-Now your new system is up and running you can contact all the connecting systems and community services that the Clinical system or the Practice works with, to switch services back on, for example:
+Now your new solution is up and running you can contact all the connecting solutions and community services that the Clinical solution or the Practice works with, to switch services back on, for example:
 
 * Electronic Prescription Service (EPS)
 
@@ -24,9 +24,9 @@ Now your new system is up and running you can contact all the connecting systems
 * Pharmacies
 
 
-* Third party software/system suppliers, for example DocMan or Apollo Scan for document scanning and management
+* Third party software/solution suppliers, for example DocMan or Apollo Scan for document scanning and management
 
-If you use any third party software as part of your clinical system, please be aware that reconfiguration work may be required by them now that the practice has migrated to the new clinical system. 
+If you use any third party software as part of your clinical solution, please be aware that reconfiguration work may be required by them now that the practice has migrated to the new clinical solution. 
 
 
 ## Data re-entry
@@ -35,7 +35,7 @@ If you have followed any manual processes during cutover that you established du
 
 The approach to this can differ depending on preferences. 
 
-* Some practices choose to copy and paste data from the old system to the new
+* Some practices choose to copy and paste data from the old solution to the new
 * Some practices choose to retype the notes from printouts they have created during the cutover
 
 
@@ -56,7 +56,7 @@ Practices who allocate staff to do data re-entry need a week to do this.
 
 * Practice re-does any outstanding scripts on the spine for Electronic Prescription Service (EPS) repeat dispensing patients that were cancelled in the pre-migration preparation work
 
-* The non-urgent Pathology results start to arrive electronically in the new system
+* The non-urgent Pathology results start to arrive electronically in the new solution
 
 * Printed Pathology results are manually re-entered by practice staff/clinicians
 
@@ -76,7 +76,7 @@ Patient registration capability should now be available.
 Online patient services such as the ability to book appointments online are made available, however, it's likely that patients will need to be re-registered individually by practice staff as the Online services patient data is not migrated by the supplier. You may want to find out which patients frequently used the Online services provided by the previous supplier and prioritise these for re-registration.
 
 
-## Access to the old system
+## Access to the old solution
 
-The old system is now read-only. Practices will require access to this, however, for cross referencing data, validation and mapping. If you require an extended access period, this should be agreed with the Clinical Commissioning Group and the new Supplier as this may incur additional costs (and is explained further in the next section of this guide).
+The old solution is now read-only. Practices will require access to this, however, for cross referencing data, validation and mapping. If you require an extended access period, this should be agreed with the Clinical Commissioning Group and the new Supplier as this may incur additional costs (and is explained further in the next section of this guide).
 <!-- [UPLIFT] Reworded this part and removed references to 45 days -->
