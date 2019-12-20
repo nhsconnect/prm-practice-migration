@@ -18,7 +18,7 @@ The survey is to check the existing practice setup, focused mainly on the follow
 
 * __Hardware__ – All Hardware, such as client PCs, servers, arrivals kiosk, call display etc should be checked to ensure that they meet the required minimum specification for running the Target System. For dispensing practices, barcode scanner and label printer compatibility also need to be checked.
 * __Network__ – Any existing network issues that may require addressing and may require extra chargeable engineering services, post go live, 
-* __3rd party application/software compatibility__ - Applications that the Practice may use that are not part of the existing/old principal clinical system but may be connecting to it. For example, DocMan or Apollo Scan for document scanning and management
+* __3rd party application/software compatibility__ - Applications that the Practice may use that are not part of the existing/old principal clinical solution but may be connecting to it. For example, DocMan or Apollo Scan for document scanning and management
 
 
 
@@ -30,7 +30,7 @@ The Technical Survey can be completed by the new supplier (target), or in some c
 
 Make sure to check to see who will complete this activity.
 
-[As previously noted](/prm-practice-migration/guide/kick-off#technical-survey), it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical system and agree any actions required for implementation. The new supplier (target) may be aware of the compatability/incompatability of common 3rd party applications but is not accountable for confirming.
+[As previously noted](/prm-practice-migration/guide/kick-off#technical-survey), it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical solution and agree any actions required for implementation. The new supplier (target) may be aware of the compatability/incompatability of common 3rd party applications but is not accountable for confirming.
 
 
 

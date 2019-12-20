@@ -10,7 +10,7 @@ breadcrumbparent: /guide
 <!-- [UPLIFT] added the word 'meeting' -->
 ## Purpose of Kick-off Meeting
 <!-- [UPLIFT] changed sub-heading from 'What is a Kick-off?' -->
-A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your system. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
+A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your solution. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
 
 
 ### As a priority, you should discuss...
@@ -42,7 +42,7 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 
 * Rollback scenarios and approach
 
-* Any system downtime and impact on core hours
+* Any solution downtime and impact on core hours
 
 
 ### For the Kick-off meeting, you should involve at a minimum...
@@ -53,7 +53,7 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 * Practice managers - Including any staff that will play a role in managing/supporting the migration
 
 
-* Target system supplier - The supplier of the clinical system you are moving to
+* Target solution supplier - The supplier of the clinical solution you are moving to
 
 Note: When the GP IT delivery partner (such as a Commissioning Support Unit) is leading the migration, they may invite other personnel to the Kick-off such as Business change, Training leads, Data quality etc.
 
@@ -91,10 +91,10 @@ Here is a list of common organisations and functions you may wish to engage with
 * GP IT delivery partner (such as a Commissioning Support Unit)
 * Explore with your GP IT delivery partner the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * Clinical Commissioning Group (CCG)
-* New supplier (target) - The new supplier of the GP clinical system
-* Existing supplier (Source) - Existing supplier of the GP clinical system
+* New supplier (target) - The new supplier of the GP clinical solution
+* Existing supplier (Source) - Existing supplier of the GP clinical solution
 * Surrounding and community services - Pharmacies, Pathology labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr), Out of hours, 111 and any screening services etc 
-* Any third party system supplier that integrates with your principal clinical system, for example, DocMan or Apollo Scan, DispensIT
+* Any third party solution supplier that integrates with your principal clinical solution, for example, DocMan or Apollo Scan, DispensIT
 
 
 
@@ -139,7 +139,7 @@ The aim is to ensure a successful migration and limit the impact on the practice
 
 * Pre-book rooms for training, testing and any other migration activity
 
-* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier system (target).
+* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier solution (target).
 
 
 
@@ -150,7 +150,7 @@ The Kick-off is a good opportunity to also run through the following...
 
 ### Common data issues, housekeeping and clean-up tasks
 
-Ask the new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) to walk through any common/known data issues when migrating to the new system - these may vary from system to system. 
+Ask the new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) to walk through any common/known data issues when migrating to the new solution - these may vary from solution to solution. 
 
 The objective is to identify any tasks that the Practice can start rectifying early and before the [Initial data production phase](initial-data-production). As time goes on, the amount of work the Practice needs to complete will grow, so getting ahead can ease the pressure.
 
@@ -158,9 +158,9 @@ If you have access to a Data Quality team (possibly part of your Commissioning S
 
 Discuss and plan any housekeeping tasks such as…
 
-* The appropriate management of duplicate and orphaned records which will not migrate to the new system
+* The appropriate management of duplicate and orphaned records which will not migrate to the new solution
 <!-- [GAP] need to clarify whether the work of the 'Orphaned Records' team has reached a stage where this bullet point can be updated -->
-* Complete a review of letter and data entry templates to identifty those that will need to be re-entered into the new system. Note; letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need in the new system
+* Complete a review of letter and data entry templates to identifty those that will need to be re-entered into the new solution. Note; letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need in the new solution
 
 * Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding 
 
@@ -171,14 +171,14 @@ Now is also a good time to introduce the [Data checking tasks](/prm-practice-mig
 
 If the Practice is not already aware, the [Technical survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the Practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
 
-Compile a list of third party software that integrate with the current GP clinical system.
+Compile a list of third party software that integrate with the current GP clinical solution.
 
-Please note that it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical system and agree any actions required for implementation. The new supplier (target) will not complete this activity.
+Please note that it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical solution and agree any actions required for implementation. The new supplier (target) will not complete this activity.
 
 
 ### Notification of 3rd parties and links
 
-Make a list of all the supporting/connecting systems and community services that the Clinical system or the Practice works with, for example...
+Make a list of all the supporting/connecting solutions and community services that the Clinical solution or the Practice works with, for example...
 
 * [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
 
@@ -189,7 +189,7 @@ Make a list of all the supporting/connecting systems and community services that
 * [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
 
 
-* Pathology labs and any other services or providers that send information and results automatically to the existing system. For example, Bowel screening, Hospital letters, 111, Out of hours
+* Pathology labs and any other services or providers that send information and results automatically to the existing solution. For example, Bowel screening, Hospital letters, 111, Out of hours
 
 
 * Pharmacies
@@ -199,17 +199,17 @@ Make a list of all the supporting/connecting systems and community services that
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
 
 
-* [Subsidiary and Third party system suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), for example, DocMan or Apollo Scan for document scanning and management
+* [Subsidiary and Third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), for example, DocMan or Apollo Scan for document scanning and management
 
-Next, plan and schedule how you will give notice to them of your system change. The earlier you give notice of your Cut-over and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another service may require 5 days. 
+Next, plan and schedule how you will give notice to them of your solution change. The earlier you give notice of your Cut-over and Go Live dates the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another service may require 5 days. 
 
-If you use any third party software as part of your clinical system, please be aware that reconfiguration work may be required by them after you have migrated to the new clinical system [Post Go Live](post-go-live).
+If you use any third party software as part of your clinical solution, please be aware that reconfiguration work may be required by them after you have migrated to the new clinical solution [Post Go Live](post-go-live).
 
 Add a task to your plan to contact and remind each party the week before and on the day when you require changes to be made.
 
 ### Notification of Patients {#notification-of-patients}
 
-During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service system (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters for many weeks in advance to create awareness. 
+During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service solution (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters for many weeks in advance to create awareness. 
 
 You may also want to discuss what online messaging is put in place when the service is removed e.g. what happens if a patient tries to access the online service when it ceases to be available. You may want to add this as a topic on the practice patient forum.
 

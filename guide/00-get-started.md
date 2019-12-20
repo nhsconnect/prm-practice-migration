@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/get-started
 title: Get started
-subtitle: How to start your migration to another clinical system
+subtitle: How to start your migration to another clinical solution
 previouspage: /guide
 nextpage: /guide/kick-off
 ---
@@ -39,7 +39,7 @@ A preferred Go Live date needs to be agreed between the Practice and the support
 
 A proposed go-live date should be agreed between the practice, Clinical Commissioning Group (CCG) and GP IT delivery partner. 
 
-This proposed date should be agreed with the new clinical system supplier.
+This proposed date should be agreed with the new clinical solution supplier.
 
 
 {%- capture lesson_learnt_1 -%}
@@ -73,15 +73,15 @@ Place the order using the agreed Catalogue processes (to be confirmed).
 * The new supplier (target) will confirm the availability of the preferred Go Live dates
 
 <!--{%- capture lesson_learnt_2 -%}
-__Lesson learnt__ - Submodules of the new clinical system may need to be raised within the procurement documents and this activity can be missed. For example, appointments modules, document management, data entry forms.
+__Lesson learnt__ - Submodules of the new clinical solution may need to be raised within the procurement documents and this activity can be missed. For example, appointments modules, document management, data entry forms.
 {%- endcapture -%}
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 ### Request a data extract from your existing supplier (source) {#request-data-extract}
-A formal data extract request needs to be sent to the existing supplier (source) using the [steps detailed below](#steps-to-request-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](initial-data-production).
+A formal data extract request needs to be sent to the existing supplier (source) using the [steps detailed below](#steps-to-request-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical solution. The extract will be used in the [Initial data production phase](initial-data-production).
 __The request needs to be completed as early as possible__. 
 **_SLA:_**  The Source Solution Supplier has no more than 5 working days to provide all the data extract(s) you request in an agreed, encrypted, electronic format.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 13)</em>
-Data extract requests will also need to be submitted to any other suppliers who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
+Data extract requests will also need to be submitted to any other suppliers who will need to migrate data. For example, any document management and scanning solutions such as DocMan or anticoagulation management software such as INR Star.
 #### Steps to requesting the data extract {#steps-to-request-data-extract}
 1. A request is made to the existing supplier (source) to provide a ‘Data extract request form’ or similar. This is usually sent by the GP IT delivery partner (such as a Commissioning Support Unit) but this may differ by region. 
 2. The existing supplier will send a ‘Data extract request form’ (or similar) directly to the practice 

@@ -6,7 +6,7 @@ order: 1
 group: practice-manager-staff-reading-by-phase
 ---
 
-#### Do you have an agreed date for when the practice will Go Live on the new system?
+#### Do you have an agreed date for when the practice will Go Live on the new solution?
 
 * [Agree a provisional Go Live date](/prm-practice-migration/blob/master/guide/00-get-started.md#agree-a-provisional-go-live-date)
 <!-- [Update] Relinked to "get started' page -->
@@ -40,7 +40,7 @@ group: practice-manager-staff-reading-by-phase
 
 * Have you booked rooms for initial data production meetings, training and data checking activities?
 
-#### Have you notified 3rd party systems and links?
+#### Have you notified 3rd party solutions and links?
 
 * [Notify 3rd parties and links](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
 
