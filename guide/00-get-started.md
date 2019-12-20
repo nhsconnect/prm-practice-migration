@@ -94,5 +94,4 @@ __Lesson learnt__ - __Any delays to requesting the data extract may impact the m
 -->
 
 ### Arrange your Kick-off and Technical Survey
-
 Plan and book your [Kick-off meeting](/prm-practice-migration/guide/kick-off) and [Technical Survey](/prm-practice-migration/guide/technical-survey) to happen within a few days of each other.
