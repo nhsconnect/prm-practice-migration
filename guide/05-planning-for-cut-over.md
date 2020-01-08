@@ -137,7 +137,7 @@ The objective is to decide what processes to follow during cut-over to ensure th
 ### Bowel screening:  
 
 * Ask the service to stop sending messages from two days before cut-over starts until after go-live
-
+<!-- [GAP] need to clarify information on diabetic retinopathy screening -->
 
 ### 111 messages/Incoming clinical correspondence:  {#one-one-one-messages}
 
