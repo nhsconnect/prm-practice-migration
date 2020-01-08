@@ -72,6 +72,7 @@ __Recommendation__ The Personal Demographic Service and NHAIS can get out of syn
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
+<!-- [GAP] need to check how practices request reconciliation -->
 
 
 ## Notification of 3rd parties and links
