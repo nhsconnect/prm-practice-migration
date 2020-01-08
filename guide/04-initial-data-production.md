@@ -107,3 +107,6 @@ The new supplier (target) will notify the practice when the issues have been fix
 ## Signing off the data checking {#signing-off-the-data-checking}
 
 Once all issues have been addressed and all data checking tasks have been rechecked, the practice will be asked to ‘Sign off’ that the data is accurate and the practice is satisfied with the quality of the data.
+
+Before signing off the data, the practice should ensure that they understand the impact of any data that cannot be migrated in terms of how they will manage it and the volume of work involved.
+<!-- [UPLIFT] added this last sentence based on user feedback -->
