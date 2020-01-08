@@ -180,13 +180,10 @@ Please note that it is the responsibility of the practice to ensure that thay ha
 
 Make a list of all the supporting/connecting solutions and community services that the Clinical solution or the Practice works with, for example...
 
+<!-- removed based on user feedback
 * [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
-
-
 * [GP2GP](https://digital.nhs.uk/services/gp2gp)
-
-
-* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
+* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr) -->
 
 
 * Pathology labs and any other services or providers that send information and results automatically to the existing solution. For example, Bowel screening, Hospital letters, 111, Out of hours
