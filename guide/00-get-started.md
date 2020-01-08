@@ -19,6 +19,8 @@ Note: This is subject to the conditions described in the [CCG-Practice Agreement
 
 Prior to this, there are a number of steps that will have been completed such as:
 
+* Practice completes a selection process under the GP IT Futures framework
+<!-- [UPLIFT] Added reference to the need for the selection process -->
 * Practice completes a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution.
 <!-- [UPLIFT] New process for completing business case template -->
 
