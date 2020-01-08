@@ -26,7 +26,8 @@ Some GP IT delivery partners (such as Commissioning Support Units) will download
 
 ## Who completes this activity?
 
-The Technical Survey can be completed by the new supplier (target), or in some cases by an engineer from the GP IT delivery partner (For example, a Commissioning Support Unit).
+The Technical Survey can be completed by the new supplier (target), or in some cases by an engineer from the GP IT delivery partner (For example, a Commissioning Support Unit). It may be carried out onsite or remotely.
+<!-- [UPLIFT] based on user feedback, added sentence that this may be carried out remotely -->
 
 Make sure to check to see who will complete this activity.
 
