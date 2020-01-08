@@ -134,10 +134,10 @@ The objective is to decide what processes to follow during cut-over to ensure th
 * Everything that comes in during the cut-over period will need to be scanned into the target solution’s supplier once you are live. You need to make sure that you keep all the incoming letters together
 
 
-### Bowel screening:  
+### Screening services:  
 
-* Ask the service to stop sending messages from two days before cut-over starts until after go-live
-<!-- [GAP] need to clarify information on diabetic retinopathy screening -->
+* If you have any screening services that send results electronically directly to the clinical system, ask the service to stop sending messages from two days before cut-over starts until after go-live
+<!-- [UPLIFT] this section was made more generic so that it could include breast screening, diabetic retinopathy etc -->
 
 ### 111 messages/Incoming clinical correspondence:  {#one-one-one-messages}
 
