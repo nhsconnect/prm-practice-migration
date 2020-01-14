@@ -45,7 +45,7 @@ This proposed date should be agreed with the new clinical solution supplier.
 
 
 {%- capture lesson_learnt_1 -%}
-__Recommendation__ - Avoid busy periods for your practice and surrounding area and watch out for any periods with a high volume of staff on training or annual leave.
+__Recommendation__ - Avoid the busiest periods for your practice and surrounding area and watch out for any periods with a high volume of staff on training or annual leave.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
