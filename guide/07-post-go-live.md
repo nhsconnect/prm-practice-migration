@@ -60,7 +60,7 @@ Practices who allocate staff to do data re-entry need a week to do this.
 <!-- [UPLIFT] updated description of pathology results according to user feedback -->
 * Any results that are not normally sent electronically will need to be manually re-entered 
 
-* Patient consultations are manually re-entered by practice staff/clinicians
+* Patient consultations are manually re-entered
 
 * Printed Referrals (urgent referrals) are manually re-entered 
 
