@@ -79,7 +79,7 @@ Once the data migration approach and plans have been agreed by all parties, ther
 
 ## Who, roles and responsibilities
 
-As part of the Kick-off, you should discuss who should be involved in the migration and what their roles and responsibilities will be. If people are not present in the Kick-off, think about how you will onboard them and understand their role. As you work through your list of roles, capture and consolidate any contact information for individuals. 
+As part of the Kick-off, you should discuss who should be involved in the migration and what their roles and responsibilities will be. If people are not present in the Kick-off, think about how you will onboard them and understand their role. As you work through your list of roles, capture and consolidate any contact information for individuals, including out-of-hours contact details for one or two key members of the practice (in case there is a requirement to make contact due to issues arising outside of normal working hours). 
 
 Here is a list of common organisations and functions you may wish to engage with and involve in your migration.
 
