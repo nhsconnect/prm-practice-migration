@@ -56,9 +56,9 @@ Practices who allocate staff to do data re-entry need a week to do this.
 
 * Practice re-does any outstanding scripts on the spine for Electronic Prescription Service (EPS) repeat dispensing patients that were cancelled in the pre-migration preparation work
 
-* The non-urgent Pathology results start to arrive electronically in the new solution
-
-* Printed Pathology results are manually re-entered by practice staff/clinicians
+* Pathology results will be sent electronically to the new solution. These will need to be filed/actioned as appropriate.
+<!-- [UPLIFT] updated description of pathology results according to user feedback -->
+* Any results that are not normally sent electronically will need to be manually re-entered 
 
 * Patient consultations are manually re-entered by practice staff/clinicians
 
