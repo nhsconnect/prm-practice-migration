@@ -60,7 +60,7 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 
 ### Configure devices
 
-Scanning devices, check in and call waiting boards etc are configured. This is usually completed by the GP IT delivery partner (such as a Commissioning Support Unit)  
+Depending on which solution you are migrating to, configuration of devices (for example, scanners, check-in and call waiting boards) may occur pre-Go Live or on Go Live day. This is usually completed by the GP IT delivery partner (such as a Commissioning Support Unit).  <!-- [UPLIFT] added reference to some scenarios, where users can be set up in the Live system prior to Go Live -->
 
 
 ### Hardware replacement
@@ -70,7 +70,7 @@ By now, incompatible equipment identified in the [Technical Survey](technical-su
 
 ### Activate Smartcards
 
-Smartcards will need to be activated. The new solution is configured for staff, roles, names of sites. Who does this varies between the Commissioning Support Unit, Trainers and Practice managers.
+Depending on the clinical solution you are migrating to, the solution will be configured for staff, roles and names of sites before Go Live or on Go Live day. Smart cards will also need to be activated at the appropriate time. Who does this varies between the Commissioning Support Unit, Trainers and Practice managers.
 
 
 ### Check Registration links
