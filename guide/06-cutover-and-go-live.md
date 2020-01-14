@@ -38,7 +38,7 @@ Practice staff should recheck reports such as QOF and indicator points, cytology
 
 ### Training on the new solution
 
-Practice staff should receive [training for the new solution](/prm-practice-migration/guide/training) during the Cut-over period including training for any changes to practice processes.  
+Practice staff may have already received [training for the new solution](/prm-practice-migration/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
 
 {%- capture lesson_learnt_1 -%}
 __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
