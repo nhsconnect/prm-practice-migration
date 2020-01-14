@@ -167,8 +167,8 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 
 ## Additional notes:  
 
-* The exisitng supplier solution (source) maintenance support will continue for 3 months post go-live and you will have access to the solution/data it for this period
+* The existing supplier solution (source) maintenance support will continue for 3 months post go-live and you will have access to the solution/data it for this period
 
-* Any patients (other than deceased) deducted before your final data production won't migrate
+* Depending on which solution you are migrating to, any patients (other than deceased) deducted before your final data production may not migrate
 
 * We strongly recommend that practices draft in additional support/cover so that there is dedicated people/time for testing and re-entry
