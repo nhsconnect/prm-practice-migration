@@ -15,3 +15,4 @@ Below you will find a summary of the key activities and phases the practice will
 ## Key questions and suggested reading by phase
 
 {%- include steps/steps.html group='practice-manager-staff-reading-by-phase' -%}
+

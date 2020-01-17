@@ -6,4 +6,4 @@ order: 15
 group: migration-key-phases
 ---
 
-The point at which all data has been re-entered, all training is complete and the practice is comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice
+The point at which all data has been re-entered, all training is complete and the practice is comfortably using the new solution (target). Access to the old solution (source) has ended and the new solution has been officially signed off by the practice
