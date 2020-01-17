@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/training
 title: Training
-subtitle: Tips for training on the new clinical system
+subtitle: Tips for training on the new clinical solution
 nextpage:
 previouspage:
 ---
@@ -20,9 +20,11 @@ The approach, amount and timing of training widely differs from region to region
 
 * Book rooms for training early
 
+* Arrange for external monitors to be used, if available
+<!-- [UPLIFT] added reference to device setup -->
 * After kick-off and before cut-over meeting, hold a training meeting to look at the training needs at an individual basis, create a training schedule and slot staff in
 
-* If possible, draft in additional support/cover so that there is dedicated people/time for training on the new system
+* If possible, draft in additional support/cover so that there is dedicated people/time for training on the new solution
 
 * Remember to include staff who may work remotely / away from the Practice building on training
 
@@ -30,4 +32,4 @@ The approach, amount and timing of training widely differs from region to region
 
 * Arrange pre-cutover training as close to the cutover date as you can for training information retention
 
-* If possible, try to hold onto some training days to use after the migration and use for times where staff will be using a different part of the system or module. For example, you may want to reserve time for Quality Outcome Framework (QOF) module training when QOF is due. If the practice covered this module during the migration in September, but do not use this part of the system until February/March they may not retain all the information
+* If possible, try to hold onto some training days to use after the migration and use for times where staff will be using a different part of the solution or module. For example, you may want to reserve time for Quality Outcome Framework (QOF) module training when QOF is due. If the practice covered this module during the migration in September, but do not use this part of the solution until February/March they may not retain all the information

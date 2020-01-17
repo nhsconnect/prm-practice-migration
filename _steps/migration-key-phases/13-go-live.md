@@ -6,4 +6,5 @@ order: 13
 group: migration-key-phases
 ---
 
-The point at which the practice signs off that the data is accurate and starts to use the new system as the primary system
+The point at which the practice signs off that the data is accurate and starts to use the new target solution as their primary, operational, day-to-day repository
+<!-- [UPLIFT] replaced 'system' with 'solution' -->

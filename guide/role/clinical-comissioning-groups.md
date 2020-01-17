@@ -13,4 +13,3 @@ Below you will find a summary of the key activities and phases the Clinical Comm
 ## Key questions and suggested reading by phase
 
 {%- include steps/steps.html group='ccgs-reading-by-phase' -%}
-

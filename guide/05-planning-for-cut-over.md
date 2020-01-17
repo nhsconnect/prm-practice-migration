@@ -10,15 +10,15 @@ breadcrumbparent: /guide
 
 ## What is the cut-over?
 
-‘Cut-over’ is the period between final data production from the existing system and the golive in the new system. 
+‘Cut-over’ is the period between final data production from the existing solution and the Go Live in the new solution. 
 
 
 ### During the cut-over
 
-* Data entered into the old system will not be migrated to the new system. Practices may still enter data but it will not be migrated. The practice will need to keep a record of any data entered into the old system for manual re-entry after Go Live and when the cutover ends
+* Data entered into the old solution will not be migrated to the new solution. Practices may still enter data but it will not be migrated. The practice will need to keep a record of any data entered into the old solution for manual re-entry after Go Live and when the cutover ends
 
 
-* The new supplier (target) will import the data into the new system
+* The new supplier (target) will import the data into the new solution
 
 
 * The practice will test and sign off the data
@@ -34,15 +34,15 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ## General preparation
 
-* Notify all the 3rd parties and services to switch off links/communications 1-2 days prior to final data production day. As highlighted in the [Kick-off](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and [Pre-migration tasks](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links) stages
-
+* [Notify all the 3rd parties](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links)  and services to switch off links/communications 1-2 days prior to final data production day. As highlighted in the Kick-off and Pre-migration tasks stages
+ <!-- [UPLIFT] changed location of hyperlink -->
 * Ensure plans are in place for any migration or changes to Subsidiary suppliers, for example DocMan or Apollo Scan for document scanning and management ([see information in Pre-migration planning phase](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers))
 
-* Export any letter templates and clinical templates to Microsoft Word from the existing system (source) to be able to import them to the new supplier system (target) after the go-live date
+* Export any letter templates and clinical templates to Microsoft Word from the existing solution (source) to be able to import them to the new supplier solution (target) after the go-live date
 
 * Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration. At the point of the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding 
 
-* Ensure that all users are logged off the existing supplier system (source) so that the supplier can do the data extraction
+* Ensure that all users are logged off the existing supplier solution (source) so that the supplier can do the data extraction
 
 
 
@@ -51,10 +51,10 @@ The objective is to decide what processes to follow during cut-over to ensure th
 ### Appointments:  
 
 
-* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier system (target). Ensure that these slots are placed in the existing system rotas so you will be reminded to configure them in the new system
+* Put breather slots in the rotas for the first couple of days post go-live if your clinicians are not familiar with the new supplier solution (target). Ensure that these slots are placed in the existing solution rotas so you will be reminded to configure them in the new solution
 
 
-* Build rotas on the test system before the cut-over. Don't put the rotas onto the existing system for further in advance than two weeks post go live with the new system as all booked appointments will need to be manually transferred
+* Build rotas on the test solution before the cut-over. Don't put the rotas onto the existing solution for further in advance than two weeks post go live with the new solution as all booked appointments will need to be manually transferred
 
 
 * If possible reschedule data rich chronic disease clinics so that these are not taking place during the cutover period. 
@@ -63,13 +63,13 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Consultations: 
  
-* Carry on as normal entering notes in the old system and manually transfer these to new principal clinical system (target) as part of the data re-entry process once you have gone live  
+* Carry on as normal entering notes in the old solution and manually transfer these to new principal clinical solution (target) as part of the data re-entry process once you have gone live  
 
 
 * Patient consultations details can be printed off and stored in a folder (separate folder for each day) for re-entry after Go Live
 
 
-  -- Some practices choose to copy and paste notes from the old system to the new
+  -- Some practices choose to copy and paste notes from the old solution to the new
   
   -- Some practices choose to retype the notes from the printouts
 
@@ -82,20 +82,21 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Telephone calls to patients
 
-* GPs and nurses need to ensure that all telephone calls to a patient are entered on to the new clinical system
+* GPs and nurses need to ensure that all telephone calls to a patient are entered on to the new clinical solution
 
 
 * Ask them to keep a record of the name of the patient and the date they were called so that the records can be easily found during data re-entry
 
 
-* In order to negate the risk of missed information, create a rota in the existing supplier system (source), if possible, so that all the calls made can be logged there.  
+* In order to negate the risk of missed information, create a rota in the existing supplier solution (source), if possible, so that all the calls made can be logged there.  
 
 
 ### Prescriptions: 
 
 * Within the Electronic Prescribing System (ePS), repeat dispensing prescriptions are issued individually by the prescribing system and signed and sent individually to Spine as required for the patient. There is a dependency on the prescribing system to retain the information after a migration as it needs to continue generating prescription issues for the authorised period.
 
-  -- Any outstanding repeat dispensing issues held on the Spine for a patient will therefore need to be cancelled and re-issued after go live. This is also a good time to advise the partner pharmacies in your area so they could also prepare for this.
+  -- Any outstanding repeat dispensing issues held on the Spine for a patient will therefore need to be cancelled and re-issued after Go Live. This is also a good time to advise the partner pharmacies in your area so they could also prepare for this.
+<!-- [GAP] need to add information re: post-dated scripts. Need to investigate how this works on EPS -->
 
   -- A report can be run within the practice to identify patients likely to be affected, as this will allow any new or remaining issues to be lined up with cutover. For example a patient who has a six monthly set of issues could have their last issue of six due in the period covering cutover, so they will not need a re-issue of these until after Go Live.
  
@@ -115,9 +116,9 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Links:
 
-* Recommended cut off periods for Registration and Pathology links will have been advised by the new system supplier, ensure that you know who will be notifying the services. 
+* Recommended cut off periods for Registration and Pathology links will have been advised by the new solution supplier, ensure that you know who will be notifying the services. 
 
-* The backlog of pathology results should be sent electronically once you are live on the new system but you will need to confirm with your local provider. 
+* The backlog of pathology results should be sent electronically once you are live on the new solution but you will need to confirm with your local provider. 
 
 
 ### Referrals: 
@@ -125,22 +126,22 @@ The objective is to decide what processes to follow during cut-over to ensure th
 * If possible, reduce referrals to urgent only cases
 
 
-* Print an extra copy of any referrals done during cut-over period. These can then be scanned into the new supplier (target) system when you are live
+* Print an extra copy of any referrals done during cut-over period. These can then be scanned into the new supplier (target) solution when you are live
 
 
 ### Scanning:
   
-* Everything that comes in during the cut-over period will need to be scanned into the target system’s supplier once you are live. You need to make sure that you keep all the incoming letters together
+* Everything that comes in during the cut-over period will need to be scanned into the target solution’s supplier once you are live. You need to make sure that you keep all the incoming letters together
 
 
-### Bowel screening:  
+### Screening services:  
 
-* Ask the service to stop sending messages from two days before cut-over starts until after go-live
-
+* If you have any screening services that send results electronically directly to the clinical system, ask the service to stop sending messages from two days before cut-over starts until after go-live
+<!-- [UPLIFT] this section was made more generic so that it could include breast screening, diabetic retinopathy etc -->
 
 ### 111 messages/Incoming clinical correspondence:  {#one-one-one-messages}
 
-* Leave all the messages received during the cut-over period in the generic mailbox as they can be picked up from there and dropped into the target system once you are live
+* Leave all the messages received during the cut-over period in the generic mailbox as they can be picked up from there and dropped into the target solution once you are live
 
 
 * You may want to print copies for your GPs to view
@@ -148,12 +149,12 @@ The objective is to decide what processes to follow during cut-over to ensure th
 
 ### Out of hours: {#out-of-hours}  
 
-* The ‘Out of hours’ reports will continue to come into the existing system (source) during cut-over 
-* You will need to keep a copy of each for scanning into the target system once live
+* The ‘Out of hours’ reports will continue to come into the existing solution (source) during cut-over 
+* You will need to keep a copy of each for scanning into the target solution once live
 
 
 ### Summarisation and routine data entry:  {#summarisation}
-* Any summarisation and routine data entry during the 'cut-over' period will not be transferred to the new system and will need to be re-entered post Go live
+* Any summarisation and routine data entry during the 'cut-over' period will not be transferred to the new solution and will need to be re-entered post Go live
 
 
 
@@ -166,9 +167,8 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 
 ## Additional notes:  
 
-* The exisitng supplier system (source) maintenance support will continue for 3 months post go-live and you will have access to the system/data it for this period
+* The existing supplier solution (source) maintenance support will continue for 3 months post go-live and you will have access to the solution/data it for this period
 
-
-* Any patients (other than deceased) deducted before your final data production won't migrate
+* Depending on which solution you are migrating to, any patients (other than deceased) deducted before your final data production may not migrate
 
 * We strongly recommend that practices draft in additional support/cover so that there is dedicated people/time for testing and re-entry
